@@ -1,0 +1,2839 @@
+[
+  {
+    "question": "Gold do you need to unweave a white pattern out of a war flag?",
+    "answer": [
+      "0"
+    ]
+  },
+  {
+    "question": "name of Julius's mech suit?",
+    "answer": [
+      "Felix"
+    ]
+  },
+  {
+    "question": "name of Lian's beloved?",
+    "answer": [
+      "Hiroshi"
+    ]
+  },
+  {
+    "question": "name of Lian's beloved?",
+    "answer": [
+      "Hiroshi"
+    ]
+  },
+  {
+    "question": "hero gains Charge instead of Energy?",
+    "answer": [
+      "Isaac"
+    ]
+  },
+  {
+    "question": "Hero doesn't use a staff?",
+    "answer": [
+      "Mojo"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a hood in their Default Skin?",
+    "answer": [
+      "Dorian"
+    ]
+  },
+  {
+    "question": "Who can't have Merlin the pet as a patron?",
+    "answer": [
+      "Rufus"
+    ]
+  },
+  {
+    "question": "obtain the Soul Crystals needed to summon Heroes?",
+    "answer": [
+      "Soul Atrium"
+    ]
+  },
+  {
+    "question": "identical white patterns do you need to get your first violet one?",
+    "answer": [
+      "8"
+    ]
+  },
+  {
+    "question": "pet's second skill increases the dodge chance of all Heroes?",
+    "answer": [
+      "Cain"
+    ]
+  },
+  {
+    "question": "max number of patterns that you can weave into a war flag?",
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "question": "Hero can move a low-health ally to the center of their team?",
+    "answer": [
+      "Corvus"
+    ]
+  },
+  {
+    "question": "Battle Speed option can't be used during Campaign missions?",
+    "answer": [
+      "x0.5"
+    ]
+  },
+  {
+    "question": "max boost you can apply to a Hero's drop rate in the Soul Atrium?",
+    "answer": [
+      "250%"
+    ]
+  },
+  {
+    "question": "Support Hero's main stat is Strength?",
+    "answer": [
+      "Fafnir"
+    ]
+  },
+  {
+    "question": "Titan is a Light Titan?",
+    "answer": [
+      "Iyari"
+    ]
+  },
+  {
+    "question": "title Tenebris bears?",
+    "answer": [
+      "Incarnation of Darkness"
+    ]
+  },
+  {
+    "question": "max Ascension rank?",
+    "answer": [
+      "5"
+    ]
+  },
+  {
+    "question": "Hero has their own theme music in the game?",
+    "answer": [
+      "Thea"
+    ]
+  },
+  {
+    "question": "Titan CANNOT stun enemies?",
+    "answer": [
+      "Angus"
+    ]
+  },
+  {
+    "question": "Totems can one Titan team use simultaneously?",
+    "answer": [
+      "2"
+    ]
+  },
+  {
+    "question": "During event can Titan Skin Stones NOT be earned?",
+    "answer": [
+      "Elemental Synergy"
+    ]
+  },
+  {
+    "question": "Starting at rank can you rate a Hero and get 50 Emeralds?",
+    "answer": [
+      "Orange 4"
+    ]
+  },
+  {
+    "question": "guild members can participate in the Clash of Worlds?",
+    "answer": [
+      "30"
+    ]
+  },
+  {
+    "question": "gap between Seasons of the Clash of Worlds?",
+    "answer": [
+      "A week"
+    ]
+  },
+  {
+    "question": "stat boost do the Dark Titans gain from the Dark Spirit Totem?",
+    "answer": [
+      "Health"
+    ]
+  },
+  {
+    "question": "Hero has a Champion Skin that can be bought with gold trophies?",
+    "answer": [
+      "Dorian",
+      "Cleaver",
+      "Helios",
+      "Jhu",
+      "Jorgen",
+      "Maya",
+      "Ziri"
+    ]
+  },
+  {
+    "question": "Hero is a princess?",
+    "answer": [
+      "Astrid"
+    ]
+  },
+  {
+    "question": "Hero is NOT alien to the Dominion?",
+    "answer": [
+      "Arachne"
+    ]
+  },
+  {
+    "question": "Titan wields the artifact known as Nephtis's Vambraces?",
+    "answer": [
+      "Mort"
+    ]
+  },
+  {
+    "question": "Titan increases the max Health of allies?",
+    "answer": [
+      "Solaris"
+    ]
+  },
+  {
+    "question": "name of the Dark Super Titan?",
+    "answer": [
+      "Tenebris"
+    ]
+  },
+  {
+    "question": "mode does not have any cross-server competitions?",
+    "answer": [
+      "Guild War"
+    ]
+  },
+  {
+    "question": "receive for selling Hero Equipment items?",
+    "answer": [
+      "Gold"
+    ]
+  },
+  {
+    "question": "Hero Cannot Stun enemies?",
+    "answer": [
+      "Isaac"
+    ]
+  },
+  {
+    "question": "stages are there in the Cross-Server Tournament of the Elements?",
+    "answer": [
+      "7"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a critical hit chance glyph?",
+    "answer": [
+      "Isaac"
+    ]
+  },
+  {
+    "question": "hero has assembled a squad for fighting demons?",
+    "answer": [
+      "Tristan"
+    ]
+  },
+  {
+    "question": "branches are there in total on the Great Tree of Wisdom?",
+    "answer": [
+      "7"
+    ]
+  },
+  {
+    "question": "Insignia are required for the Ascension of heroes with Control as their primary role?",
+    "answer": [
+      "Insignia of Willpower"
+    ]
+  },
+  {
+    "question": "players are awarded Marks of Distinction for the Titanite farmed during the day?",
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "question": "The attacking Titans of element deal less damage against the Earth Crown?",
+    "answer": [
+      "Water"
+    ]
+  },
+  {
+    "question": "Titans of role don't have Champion Skins?",
+    "answer": [
+      "Marksmen"
+    ]
+  },
+  {
+    "question": "Hero wields a cat staff in their Masquerade Skin?",
+    "answer": [
+      "Corneliius"
+    ]
+  },
+  {
+    "question": "control effects grant max charges to Khorus' first skill?",
+    "answer": [
+      "Silence"
+    ]
+  },
+  {
+    "question": "of Heidi's stats can't be promoted with runes?",
+    "answer": [
+      "Health"
+    ]
+  },
+  {
+    "question": "of Heidi's stats can't be promoted with glyphs?",
+    "answer": [
+      "Health"
+    ]
+  },
+  {
+    "question": "hero's Ascension skill converts excess healing into shield?",
+    "answer": [
+      "Thea"
+    ]
+  },
+  {
+    "question": "heroes has Ascension skills?",
+    "answer": [
+      "(2022) \tNebula",
+      "Qing Mao",
+      "Thea",
+      "Dark Star",
+      "Artemis",
+      "Kai",
+      "Judge",
+      "Lilith"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a Solar Skin?",
+    "answer": [
+      "Cleaver"
+    ]
+  },
+  {
+    "question": "hero can't choose Khorus as a patron?",
+    "answer": [
+      "Dorian"
+    ]
+  },
+  {
+    "question": "heroine can expose a part of the Soul in the enemy's body?",
+    "answer": [
+      "Iris"
+    ]
+  },
+  {
+    "question": "temporary Guild Raid buff boosts the damage the team deals to Nightmares?",
+    "answer": [
+      "Dreamer's Retaliation"
+    ]
+  },
+  {
+    "question": "hero has the Celestial Skin?",
+    "answer": [
+      "Satori"
+    ]
+  },
+  {
+    "question": "cannot be obtained from chests in Adventures?",
+    "answer": [
+      "Pet Soul Stones"
+    ]
+  },
+  {
+    "question": "times per week can you use the Astral Seer for free?",
+    "answer": [
+      "7"
+    ]
+  },
+  {
+    "question": "Adventure doesn't exist?",
+    "answer": [
+      "Shavarakk's Fall"
+    ]
+  },
+  {
+    "question": "Adventure requires team level 130?",
+    "answer": [
+      "Maelstrom of Chaos"
+    ]
+  },
+  {
+    "question": "weekly attempts to fight the Guild Raid boss does each player get?",
+    "answer": [
+      "5"
+    ]
+  },
+  {
+    "question": "cannot be obtained from Guild raids?",
+    "answer": [
+      "Gold"
+    ]
+  },
+  {
+    "question": "Who can be invited to a closed Adventure group?",
+    "answer": [
+      "Guildmates"
+    ]
+  },
+  {
+    "question": "daily items exchange limit for Guild Activity Points?",
+    "answer": [
+      "2000"
+    ]
+  },
+  {
+    "question": "Hero Soul Stones does the Lesser Hero Soul Stone Chest contain?",
+    "answer": [
+      "50"
+    ]
+  },
+  {
+    "question": "Hero Soul Stones does it take to evolve a Hero from the 5th star to Absolute Star?",
+    "answer": [
+      "300"
+    ]
+  },
+  {
+    "question": "time has to pass before you can claim free energy in the daily quest again?",
+    "answer": [
+      "1 hour"
+    ]
+  },
+  {
+    "question": "grand prize can be found in an Artifact Chest?",
+    "answer": [
+      "Chaos Cores"
+    ]
+  },
+  {
+    "question": "branches does the great tree of wisdom have?",
+    "answer": [
+      "7"
+    ]
+  },
+  {
+    "question": "windows can you see in the main square shop?",
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "question": "resource cannot be obtained as a Guild Raid reward?",
+    "answer": [
+      "Ancient Wisdom Crystal"
+    ]
+  },
+  {
+    "question": "resource does not exist in the game?",
+    "answer": [
+      "Sanctity insignia"
+    ]
+  },
+  {
+    "question": "hero has the \"Rune of Life\"skill?",
+    "answer": [
+      "Alvanor"
+    ]
+  },
+  {
+    "question": "At team level can you get Honorable Guardian Boxes for completing daily quest?",
+    "answer": [
+      "130"
+    ]
+  },
+  {
+    "question": "of the following Heroes doesn't have a Barbarian Skin?",
+    "answer": [
+      "Jhu"
+    ]
+  },
+  {
+    "question": "hero has a cat at the end of their staff in their Masquerade Skin?",
+    "answer": [
+      "Cornelius"
+    ]
+  },
+  {
+    "question": "Hero transforms into a cat in one of their skins?",
+    "answer": [
+      "Chabba"
+    ]
+  },
+  {
+    "question": "of these heroes transforms into a cat in one of their skins?",
+    "answer": [
+      "Chabba"
+    ]
+  },
+  {
+    "question": "Archdemon waiting for the Guardians?",
+    "answer": [
+      "The Furnace of Horror"
+    ]
+  },
+  {
+    "question": "max level of the Gift of the Elements a Hero can have?",
+    "answer": [
+      "30"
+    ]
+  },
+  {
+    "question": "Who was Lilith to the Archdemon?",
+    "answer": [
+      "First Wife"
+    ]
+  },
+  {
+    "question": "Goddess does Ziri worship?",
+    "answer": [
+      "Akhreb Ummi"
+    ]
+  },
+  {
+    "question": "stat can't be boosted via Glyphs?",
+    "answer": [
+      "Wisdom",
+      "Stamina"
+    ]
+  },
+  {
+    "question": "stats are boosted by these Titan Artifacts: Attack Seal, Defense Seal, and Balance Seal?",
+    "answer": [
+      "Health",
+      "attack"
+    ]
+  },
+  {
+    "question": "bad habit is Rufus notorious for?",
+    "answer": [
+      "Drinking"
+    ]
+  },
+  {
+    "question": "Hero has a cat companion?",
+    "answer": [
+      "Astrid"
+    ]
+  },
+  {
+    "question": "Capturing objective gives you the most points in the Guild War?",
+    "answer": [
+      "Citadel"
+    ]
+  },
+  {
+    "question": "one of the following Heroes doesn't have a weapon in each hand?",
+    "answer": [
+      "Markus"
+    ]
+  },
+  {
+    "question": "of the following was the last to appear in this game?",
+    "answer": [
+      "Adventures",
+      "Titan Valley"
+    ]
+  },
+  {
+    "question": "can be purchased for Elemental Tournament Coins?",
+    "answer": [
+      "Titan Artifact Fragments"
+    ]
+  },
+  {
+    "question": "title Tenebris bears?",
+    "answer": [
+      "Incarnation of Darkness"
+    ]
+  },
+  {
+    "question": "find Seymour?",
+    "answer": [
+      "Ghirwil City"
+    ]
+  },
+  {
+    "question": "Heroes walk around the main square?",
+    "answer": [
+      "Arena defense team"
+    ]
+  },
+  {
+    "question": "dungeon level must you complete to receive a Primeval Depths Frame?",
+    "answer": [
+      "15000"
+    ]
+  },
+  {
+    "question": "Stats does hero lack?",
+    "answer": [
+      "Accuracy"
+    ]
+  },
+  {
+    "question": "stat do Heroes lack?",
+    "answer": [
+      "Accuracy"
+    ]
+  },
+  {
+    "question": "pets are available in the game?",
+    "answer": [
+      "10"
+    ]
+  },
+  {
+    "question": "do you unlock the Soul Shop?",
+    "answer": [
+      "Promote any hero to absolute star or get Cleaver"
+    ]
+  },
+  {
+    "question": "resources do you need to buy stones for promoting pets?",
+    "answer": [
+      "Chaos Particle"
+    ]
+  },
+  {
+    "question": "of these Guild War fortifications must be conquered with titans?",
+    "answer": [
+      "Spring of Elements"
+    ]
+  },
+  {
+    "question": "is Thea's title?",
+    "answer": [
+      "Healer of the Old Grove"
+    ]
+  },
+  {
+    "question": "Hero role is not a part of the game?",
+    "answer": [
+      "Assassin"
+    ]
+  },
+  {
+    "question": "team level is required to access the Grand Arena?",
+    "answer": [
+      "50"
+    ]
+  },
+  {
+    "question": "shop sells Titan Skin Stones?",
+    "answer": [
+      "Guild War Shop"
+    ]
+  },
+  {
+    "question": "resources can't be obtained in the Outland?",
+    "answer": [
+      "Hero Soul Stones"
+    ]
+  },
+  {
+    "question": "call a location in Adventure can pick a buff of your team?",
+    "answer": [
+      "Altar of Power"
+    ]
+  },
+  {
+    "question": "cannot be obtained from chests in Adventures?",
+    "answer": [
+      "Pet Soul Stones"
+    ]
+  },
+  {
+    "question": "name of the ice bird residing in Nordland?",
+    "answer": [
+      "Astrild"
+    ]
+  },
+  {
+    "question": "Outland boss resides in the Caves of Despair?",
+    "answer": [
+      "Illysa the Weaver"
+    ]
+  },
+  {
+    "question": "Outland boss resides in the Enslavers' Camp?",
+    "answer": [
+      "Brog the Conqueror"
+    ]
+  },
+  {
+    "question": "Outland boss resides in the Fiery Abyss?",
+    "answer": [
+      "Vadjar the Incinerator"
+    ]
+  },
+  {
+    "question": "can the Lesser Soul Stone Chest be obtained?",
+    "answer": [
+      "By logging in 28 days in a month"
+    ]
+  },
+  {
+    "question": "max level of Valkyrie's Favor?",
+    "answer": [
+      "16"
+    ]
+  },
+  {
+    "question": "time do you have to complete an Adventure?",
+    "answer": [
+      "7 days"
+    ]
+  },
+  {
+    "question": "At level does the Tower Instant Clear get available?",
+    "answer": [
+      "130"
+    ]
+  },
+  {
+    "question": "skill isn't present in the game?",
+    "answer": [
+      "True Darkness"
+    ]
+  },
+  {
+    "question": "one of the following heroes doesn't have a Winter Skin?",
+    "answer": [
+      "Qing Mao",
+      "Ziri"
+    ]
+  },
+  {
+    "question": "skill does not belong to Polaris?",
+    "answer": [
+      "Deep Freeze"
+    ]
+  },
+  {
+    "question": "Hero has no energy?",
+    "answer": [
+      "Astrid and Lucas"
+    ]
+  },
+  {
+    "question": "stat boost do the Fire Titans gain from the Water Spirit Totem?",
+    "answer": [
+      "None"
+    ]
+  },
+  {
+    "question": "stat boost do the Light Titans gain from the Light Spirit Totem?",
+    "answer": [
+      "Attack"
+    ]
+  },
+  {
+    "question": "Who are the Light Titan Artifacts dedicated to?",
+    "answer": [
+      "Belav"
+    ]
+  },
+  {
+    "question": "currency is rerquired to level up these Titan Artifacts: Attack Seal, Defense Seal, and Balance Seal?",
+    "answer": [
+      "Gold",
+      "Emeralds"
+    ]
+  },
+  {
+    "question": "hero's primary role is Support?",
+    "answer": [
+      "Nebula"
+    ]
+  },
+  {
+    "question": "Who is assigned victory if no winner is declared after a battle in the Grand Arena lasts for a certain amount of time?",
+    "answer": [
+      "The defender"
+    ]
+  },
+  {
+    "question": "damage type is not a part of the game?",
+    "answer": [
+      "Metaphysical Damage"
+    ]
+  },
+  {
+    "question": "damage type isn't present in the game?",
+    "answer": [
+      "Metaphysical damage"
+    ]
+  },
+  {
+    "question": "campaign chapter features a hand protruding from the ground, holding an axe?",
+    "answer": [
+      "7"
+    ]
+  },
+  {
+    "question": "can't you receive a Titan Potion?",
+    "answer": [
+      "Summoning Circle"
+    ]
+  },
+  {
+    "question": "of the following Heroes doesn't have a Masquerade Skin?",
+    "answer": [
+      "Jorgen"
+    ]
+  },
+  {
+    "question": "benefit of running multiple raids in the Campaign?",
+    "answer": [
+      "They guarantee a minimum of 1 item fragment for every 10 missions"
+    ]
+  },
+  {
+    "question": "of the following Heroes doesn't have a Romantic Skin?",
+    "answer": [
+      "Ziri"
+    ]
+  },
+  {
+    "question": "one of these pets has the Darkguard skills?",
+    "answer": [
+      "Mara"
+    ]
+  },
+  {
+    "question": "pet has the Stayin' Chill skill?",
+    "answer": [
+      "Biscuit"
+    ]
+  },
+  {
+    "question": "do Heroes begin their journey?",
+    "answer": [
+      "Ashen Road"
+    ]
+  },
+  {
+    "question": "name of the orc chief in Campaign chapter 3?",
+    "answer": [
+      "Gro Bulgor"
+    ]
+  },
+  {
+    "question": "can't be found in an artifact chest?",
+    "answer": [
+      "Artifact Chest Key"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a mask?",
+    "answer": [
+      "Martha"
+    ]
+  },
+  {
+    "question": "value of the hourly reward for a player ranked #30 in the Grand Arena?",
+    "answer": [
+      "45"
+    ]
+  },
+  {
+    "question": "The passive skill of Hero doesn't work after their death?",
+    "answer": [
+      "Andvari"
+    ]
+  },
+  {
+    "question": "often can you transfer from one guild to another for free?",
+    "answer": [
+      "Once every 8 hours"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a Mechanical Skin?",
+    "answer": [
+      "Ziri"
+    ]
+  },
+  {
+    "question": "of the following Heroes doesn't have a Mechanical Skin?",
+    "answer": [
+      "Ziri"
+    ]
+  },
+  {
+    "question": "Artifact Coins can you receive for selling any artifact fragment?",
+    "answer": [
+      "50"
+    ]
+  },
+  {
+    "question": "can't be found on the 50th tower floor?",
+    "answer": [
+      "Tower Boss"
+    ]
+  },
+  {
+    "question": "The Titans of element deal less damage against the Earth Crown in the attack battle?",
+    "answer": [
+      "Water"
+    ]
+  },
+  {
+    "question": "The Titans of element deal less damage against the Water Crown in the defense battle?",
+    "answer": [
+      "Any"
+    ]
+  },
+  {
+    "question": "The titans of element are dealt boosted damage by the Ragni's Beast artifact?",
+    "answer": [
+      "Earth Titans"
+    ]
+  },
+  {
+    "question": "The titans of element are dealt boosted damage by Siungur's Staff artifact?",
+    "answer": [
+      "Fire"
+    ]
+  },
+  {
+    "question": "can you buy in the Pet Soul Stone Shop?",
+    "answer": [
+      "Chaos Particle"
+    ]
+  },
+  {
+    "question": "stat boost do the Earth Titans gain from the Earth Spirit Totem?",
+    "answer": [
+      "Health"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a Devil Skin?",
+    "answer": [
+      "Fox"
+    ]
+  },
+  {
+    "question": "of the following Heroes doesn't have a Devil Skin?",
+    "answer": [
+      "Fox"
+    ]
+  },
+  {
+    "question": "of the these Heroes can't blind their opponents?",
+    "answer": [
+      "Daredevil"
+    ]
+  },
+  {
+    "question": "can't the Chaos Core be obtained?",
+    "answer": [
+      "Artifact Merchant"
+    ]
+  },
+  {
+    "question": "amount of energy you receive when using a Bottled Energy?",
+    "answer": [
+      "200"
+    ]
+  },
+  {
+    "question": "At rank does a pet unlock its patronage skill?",
+    "answer": [
+      "Violet"
+    ]
+  },
+  {
+    "question": "At rank does patronage become available to pets?",
+    "answer": [
+      "Blue"
+    ]
+  },
+  {
+    "question": "season doesn't offer Energy Recovery x3 as a reward?",
+    "answer": [
+      "Astral Season"
+    ]
+  },
+  {
+    "question": "maximum number of windows seen on a tower floor?",
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "question": "max number of windows seen on a tower floor?",
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "question": "passive skill enables you to start the battle with accumulated energy?",
+    "answer": [
+      "Public Idol"
+    ]
+  },
+  {
+    "question": "Guild War Trophies can be exchanged for the Champion's Skin for Cleaver?",
+    "answer": [
+      "Gold"
+    ]
+  },
+  {
+    "question": "one of these Heroes has a Champion Skin that can be bought with gold trophies?",
+    "answer": [
+      "Cleaver",
+      "DORIAN",
+      "Helios",
+      "Jhu",
+      "Jorgen",
+      "Maya",
+      "Ziri"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a Spring Skin?",
+    "answer": [
+      "Martha"
+    ]
+  },
+  {
+    "question": "of the following Heroes doesn't have a Spring Skin?",
+    "answer": [
+      "Martha"
+    ]
+  },
+  {
+    "question": "of the following Heroes fight with a balloon in their hand?",
+    "answer": [
+      "Jorgen"
+    ]
+  },
+  {
+    "question": "Hero can fight with a balloon in their hand?",
+    "answer": [
+      "Jorgen"
+    ]
+  },
+  {
+    "question": "Guild War fortifications must be conquered in order to earn max points?",
+    "answer": [
+      "10"
+    ]
+  },
+  {
+    "question": "can't Artifact Coins be obtained?",
+    "answer": [
+      "Expeditions"
+    ]
+  },
+  {
+    "question": "level cap on the Artifact Chest?",
+    "answer": [
+      "10"
+    ]
+  },
+  {
+    "question": "do you leave an Adventure before defeating the boss?",
+    "answer": [
+      "In the log"
+    ]
+  },
+  {
+    "question": "levels are there between save points in the Dungeon?",
+    "answer": [
+      "10"
+    ]
+  },
+  {
+    "question": "The appearance of drommer Master of the Elements can't be found in the game?",
+    "answer": [
+      "Siungur"
+    ]
+  },
+  {
+    "question": "currency is required to level up an Elemental Spirit Totem?",
+    "answer": [
+      "Guild War Trophies",
+      "Emeralds"
+    ]
+  },
+  {
+    "question": "drommer is the Master of Fire artifacts?",
+    "answer": [
+      "Ragni"
+    ]
+  },
+  {
+    "question": "stat boost do the Fire Titans gain from the Fire Spirit Totem?",
+    "answer": [
+      "Attack"
+    ]
+  },
+  {
+    "question": "max rank for pets?",
+    "answer": [
+      "Violet 3"
+    ]
+  },
+  {
+    "question": "one of these Heroes did NOT arrive to Dominion during a New Year Event?",
+    "answer": [
+      "Andvari"
+    ]
+  },
+  {
+    "question": "Hero Didn't arrive to Dominion during a New Year Event?",
+    "answer": [
+      "Andvari"
+    ]
+  },
+  {
+    "question": "receive Jet Soul Stones?",
+    "answer": [
+      "Soul Shop"
+    ]
+  },
+  {
+    "question": "skin type doesn't exist?",
+    "answer": [
+      "Southern Skin"
+    ]
+  },
+  {
+    "question": "Labyrinth can be found on the campaign map?",
+    "answer": [
+      "Labyrinth of Past Hopes"
+    ]
+  },
+  {
+    "question": "Thirst for BLood, Daredevil's 4th skill, do?",
+    "answer": [
+      "Ignores a portion of the armor of enemies she has set on fire"
+    ]
+  },
+  {
+    "question": "Thirst for Blood, Daredevil's 4th skill, do?",
+    "answer": [
+      "Ignores a portion of the armor of enemies she has set on fire"
+    ]
+  },
+  {
+    "question": "different masks can Peppy summon with her Masquerade skill?",
+    "answer": [
+      "4"
+    ]
+  },
+  {
+    "question": "in group was taught cheating won't get you any further in life?",
+    "answer": [
+      "1"
+    ]
+  },
+  {
+    "question": "daily attack attempts does a Guild Champion have in a Guild War?",
+    "answer": [
+      "2"
+    ]
+  },
+  {
+    "question": "times per day can you claim free energy for completing the daily quest?",
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "question": "adventures in the Game?",
+    "answer": [
+      "13"
+    ]
+  },
+  {
+    "question": "At level you get honorable guardian caskets for completing daily quests?",
+    "answer": [
+      "130"
+    ]
+  },
+  {
+    "question": "Skin Stones does the Large Skin Stone Chest Contain?",
+    "answer": [
+      "150"
+    ]
+  },
+  {
+    "question": "one of these pets boost heroes that deal pure Damage?",
+    "answer": [
+      "Albus"
+    ]
+  },
+  {
+    "question": "Physical damage pet is?",
+    "answer": [
+      "Fenris"
+    ]
+  },
+  {
+    "question": "mission called encounter the Archdemon for the first time?",
+    "answer": [
+      "Archdemon's Patrimony / The Archdemon's Legacy"
+    ]
+  },
+  {
+    "question": "name of the mission encounter the Archdemon for the first time?",
+    "answer": [
+      "Archdemon's Patrimony / The Archdemon's Legacy"
+    ]
+  },
+  {
+    "question": "can't be obtained in an Expedition?",
+    "answer": [
+      "Artifact Coin"
+    ]
+  },
+  {
+    "question": "are Titan Skin Stones purchased for?",
+    "answer": [
+      "Bronze Guild War Trophies"
+    ]
+  },
+  {
+    "question": "is Astaroth's main goal?",
+    "answer": [
+      "Burn down the world"
+    ]
+  },
+  {
+    "question": "is Astaroth's primary life goal?",
+    "answer": [
+      "Burn down the world"
+    ]
+  },
+  {
+    "question": "pet increases the dodge chance of all heroes with its second skill?",
+    "answer": [
+      "Cain"
+    ]
+  },
+  {
+    "question": "chapter is \"Ruled by Fire\"?",
+    "answer": [
+      "Chapter 1"
+    ]
+  },
+  {
+    "question": "hero can be found in heroic chest pre-evolved to Absolute star?",
+    "answer": [
+      "Cleaver"
+    ]
+  },
+  {
+    "question": "Celeste create in her dark form?",
+    "answer": [
+      "Cursed Flame"
+    ]
+  },
+  {
+    "question": "name of K'arkh's home planet?",
+    "answer": [
+      "Dagan-Nuhr"
+    ]
+  },
+  {
+    "question": "Who got a 'noble' weapon?",
+    "answer": [
+      "Ginger"
+    ]
+  },
+  {
+    "question": "find out has changed in the Dominion?",
+    "answer": [
+      "Hero Wars Community Page"
+    ]
+  },
+  {
+    "question": "hero was brought back from the dead?",
+    "answer": [
+      "Keira or Corvus"
+    ]
+  },
+  {
+    "question": "shop isn't present in the game?",
+    "answer": [
+      "Love shop"
+    ]
+  },
+  {
+    "question": "name of Astrid's pet?",
+    "answer": [
+      "Lucas"
+    ]
+  },
+  {
+    "question": "Pet speeds up its owner's magic skills?",
+    "answer": [
+      "Merlin"
+    ]
+  },
+  {
+    "question": "Rufus cannot have merlin as a pet?",
+    "answer": [
+      "Merlin"
+    ]
+  },
+  {
+    "question": "Titan element can't be found in the Dominion?",
+    "answer": [
+      "Metal"
+    ]
+  },
+  {
+    "question": "hero is an alien?",
+    "answer": [
+      "Orion",
+      "K'arkh",
+      "Julius"
+    ]
+  },
+  {
+    "question": "is Aurora's family name?",
+    "answer": [
+      "Paladin of Riversar"
+    ]
+  },
+  {
+    "question": "hero rank is not in the game?",
+    "answer": [
+      "Red +4"
+    ]
+  },
+  {
+    "question": "Ishmael's father want to do to him in his childhood?",
+    "answer": [
+      "Sacrifice him to the gods"
+    ]
+  },
+  {
+    "question": "Name of Adventure 12?",
+    "answer": [
+      "Siege of Strongford"
+    ]
+  },
+  {
+    "question": "form can't be assumed by Lucas, Astri's pet?",
+    "answer": [
+      "Squirrel"
+    ]
+  },
+  {
+    "question": "of the following can't be found in the Skin Stone Chest?",
+    "answer": [
+      "Stamina Skin Stone"
+    ]
+  },
+  {
+    "question": "resources do you need to buy temporary Guild Raid buffs?",
+    "answer": [
+      "Gold and Valor Emblems"
+    ]
+  },
+  {
+    "question": "can't be found in the Skin Stone Chest?",
+    "answer": [
+      "Stamina Skin Stone"
+    ]
+  },
+  {
+    "question": "one of the Heroes is a star-child?",
+    "answer": [
+      "Helios"
+    ]
+  },
+  {
+    "question": "skins aren't present in the game?",
+    "answer": [
+      "Summer"
+    ]
+  },
+  {
+    "question": "people used to live in Ghirwil City?",
+    "answer": [
+      "The Drommers"
+    ]
+  },
+  {
+    "question": "kind of magic does Dorian possess?",
+    "answer": [
+      "The Magic of Blood"
+    ]
+  },
+  {
+    "question": "Skull stones are obtained in?",
+    "answer": [
+      "The tower"
+    ]
+  },
+  {
+    "question": "Not in game?",
+    "answer": [
+      "Tower warden frame"
+    ]
+  },
+  {
+    "question": "Who resides in Campaign Chapter 10?",
+    "answer": [
+      "Typhon"
+    ]
+  },
+  {
+    "question": "Who helps heroes instantly complete the Tower at team level 130?",
+    "answer": [
+      "Valkyrie"
+    ]
+  },
+  {
+    "question": "Who owns rarity fair?",
+    "answer": [
+      "Wendy"
+    ]
+  },
+  {
+    "question": "is Cornelius' family name?",
+    "answer": [
+      "Witt"
+    ]
+  },
+  {
+    "question": "tribe does Jhu belong to?",
+    "answer": [
+      "Zarakkar"
+    ]
+  },
+  {
+    "question": "of these heroes doesn't carry a weapon in their hands?",
+    "answer": [
+      "Ziri"
+    ]
+  },
+  {
+    "question": "can't be obtained in an Expedition?",
+    "answer": [
+      "Artifact Coin"
+    ]
+  },
+  {
+    "question": "one of these names is not an Adventure's name?",
+    "answer": [
+      "Shavarakk's Fall"
+    ]
+  },
+  {
+    "question": "one of the following Heroes doesn't have a Spring Skin?",
+    "answer": [
+      "Martha"
+    ]
+  },
+  {
+    "question": "of these Emerald Exchange multipliers doesn't exist?",
+    "answer": [
+      "25"
+    ]
+  },
+  {
+    "question": "A total of Friendship Chips can be obtained per day, not taking group gifts into account?",
+    "answer": [
+      "1000"
+    ]
+  },
+  {
+    "question": "can't be a part of Hero equipment items?",
+    "answer": [
+      "Runes"
+    ]
+  },
+  {
+    "question": "one is an Outland Boss?",
+    "answer": [
+      "Brog the conqueror"
+    ]
+  },
+  {
+    "question": "lands did Corvus swear to protect?",
+    "answer": [
+      "Kingdom of Graven"
+    ]
+  },
+  {
+    "question": "Hero is the child of a human and a Titan?",
+    "answer": [
+      "Maya"
+    ]
+  },
+  {
+    "question": "one of the following Heroes doesn't use a staff?",
+    "answer": [
+      "Mojo"
+    ]
+  },
+  {
+    "question": "of these heroes can block some of enemy healing?",
+    "answer": [
+      "Yasmine"
+    ]
+  },
+  {
+    "question": "enemies must you defeat to proceed to Stage 2 of the Tournament of the Elements?",
+    "answer": [
+      "5"
+    ]
+  },
+  {
+    "question": "Mara the pet and Dark Star have in common?",
+    "answer": [
+      "Mind control"
+    ]
+  },
+  {
+    "question": "max number of skeletons Morrigan can control at the same time?",
+    "answer": [
+      "6"
+    ]
+  },
+  {
+    "question": "Guild Activity Points can be obtained for upgrading a Hero's Glyph once a day?",
+    "answer": [
+      "700"
+    ]
+  },
+  {
+    "question": "Who is the last boss in the Campaign?",
+    "answer": [
+      "Seymour"
+    ]
+  },
+  {
+    "question": "Who sends you emeralds for Hero promotion via mail?",
+    "answer": [
+      "Wendy"
+    ]
+  },
+  {
+    "question": "element does Andvari command?",
+    "answer": [
+      "The Earth Element"
+    ]
+  },
+  {
+    "question": "of these heroes has the Embrace of Pain skill?",
+    "answer": [
+      "Yasmine"
+    ]
+  },
+  {
+    "question": "boss can't be encountered in Adventures?",
+    "answer": [
+      "Daredevil"
+    ]
+  },
+  {
+    "question": "boss cannot be encountered in Adventures?",
+    "answer": [
+      "Daredevil"
+    ]
+  },
+  {
+    "question": "ratio between energy points spent to Guild Activity points?",
+    "answer": [
+      "1 to 1"
+    ]
+  },
+  {
+    "question": "Who is assigned the victory if no winner is declared after a battle in the Grand Arena lasts for a certain amount of time?",
+    "answer": [
+      "The defender"
+    ]
+  },
+  {
+    "question": "Who strikes back when an ally is critically hit?",
+    "answer": [
+      "Helios"
+    ]
+  },
+  {
+    "question": "of these heroes wears a crown on their head?",
+    "answer": [
+      "Morrigan"
+    ]
+  },
+  {
+    "question": "hero's critical hits can poison enemies?",
+    "answer": [
+      "Yasmine"
+    ]
+  },
+  {
+    "question": "can't be purchased at the Guild War Shop?",
+    "answer": [
+      "Great Enchantment Rune"
+    ]
+  },
+  {
+    "question": "Guild War Trophies can be exchanged for a Titan Potion?",
+    "answer": [
+      "Bronze Guild War Trophy"
+    ]
+  },
+  {
+    "question": "of the following Heroes has a Cybernetic Skin?",
+    "answer": [
+      "Satori",
+      "Lars",
+      "..."
+    ]
+  },
+  {
+    "question": "one of these Titan's soul stones cannot be received for victory in the Dungeon?",
+    "answer": [
+      "Eden",
+      "Araji",
+      "Hyperion"
+    ]
+  },
+  {
+    "question": "can be obtained as a reward for Tower Points?",
+    "answer": [
+      "Gold",
+      "Tower Coins"
+    ]
+  },
+  {
+    "question": "name of Qing Mao's brother?",
+    "answer": [
+      "Qing Long"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a hood in their Default Skin?",
+    "answer": [
+      "Dorian"
+    ]
+  },
+  {
+    "question": "one of these Heroes doesn't have a hood in their Default Skin?",
+    "answer": [
+      "Dorian"
+    ]
+  },
+  {
+    "question": "At level do Adventures become available?",
+    "answer": [
+      "40"
+    ]
+  },
+  {
+    "question": "Hero's familiar is a bat?",
+    "answer": [
+      "Dorian"
+    ]
+  },
+  {
+    "question": "The Lost Hero animated short reveals the Archdemon's previous name. is it?",
+    "answer": [
+      "Gareth"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Mobile Amira Avatar (Amira)"
+    ]
+  },
+  {
+    "question": "(artifact belongs to this Hero?",
+    "answer": [
+      ")"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Andvari Avatar (Andvari) \tHand of the Great Master"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Arachne Avatar (Arachne) \tHyper Booster DS-1"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Artemis Avatar (Artemis) \tEvil's Bane"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Astaroth Avatar (Astaroth) \tScythe of Redemption"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Aurora Avatar (Aurora) \tSelias' Legacy"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Chabba Avatar (Chabba) \tBracers of Hunger"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Cornelius Avatar (Cornelius) \tArchivist's Staff"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Corvus Avatar (Corvus) \tUndead King's Glaive"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Dark Star Avatar (Dark Star) \tAlchemist's Folio"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Dorian Avatar (Dorian) \tBleeding Steel"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Elmir Avatar (Elmir) \tBlades of Many Truths"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Faceless Avatar (Faceless) \tHermit's Shroud"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Mobile Fafnir Avatar (Fafnir) \tRing of Strength"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Fox Avatar (Fox) \tAlchemist's Folio"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Galahad Avatar (Galahad) \tDefender's Covenant"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Helios Avatar (Helios) \tWand of the Thousand Suns"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Iris Avatar (Iris) \tGrimoire of Enslaved Souls"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Isaac Avatar (Isaac) \tLil' Tes'Lin"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Ishmael Avatar (Ishmael) \tRing of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Jet Avatar (Jet) \tBook of Illusions"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Jhu Avatar (Jhu) \tZarakkar Bones"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Jorgen Avatar (Jorgen) \tShavarakk's Blood"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Judge Avatar (Judge) \tChart of Endless Stars"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Kai Avatar (Kai) \tWanderer’s Mantle"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Krista Avatar (Krista) \tRing of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Lara Croft Avatar (Lara Croft) \tLara's Jade Necklace"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Lars Avatar (Lars) \tStormy Talismam",
+      "Manuscript of the Void"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Lian Avatar (Lian) \tTome of Arcane Knowledge"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Lilith Avatar (Lilith) \tTome of Arcane Knowledge"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Markus Avatar (Markus) \tRing of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Maya Avatar (Maya) \tTome of Arcane Knowledge"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Mojo Avatar (Mojo) \tMask of Anger"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Morrigan Avatar (Morrigan) \tRaven's Skull"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Nebula Avatar (Nebula) \tUnborn Stars"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Peppy Avatar (Peppy) \tMs. Whirligig"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Qing Mao Avatar (Qing Mao) \tRing of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Rufus Avatar (Rufus) \tRing of Strength"
+    ]
+  },
+  {
+    "question": "artifact belongs to this Hero?",
+    "answer": [
+      "Browser Sebastian Avatar (Sebastian) \tWarrior's Code"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Thea Avatar (Thea) \tTome of Arcane Knowledge"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Yasmine Avatar (Yasmine) \tConcubine's Khanjars"
+    ]
+  },
+  {
+    "question": "artifact belongs to this hero?",
+    "answer": [
+      "Browser Ziri Avatar (Ziri) \tAkhreb Ummi's Sting"
+    ]
+  },
+  {
+    "question": "Who is Mira?",
+    "answer": [
+      "Pet Trainer"
+    ]
+  },
+  {
+    "question": "Who can pull their enemies closer with a chain?",
+    "answer": [
+      "Cleaver"
+    ]
+  },
+  {
+    "question": "Hero has more than 2 hands?",
+    "answer": [
+      "K'arkh",
+      "Dante"
+    ]
+  },
+  {
+    "question": "of these heroes has a Sweettooth Skin?",
+    "answer": [
+      "Peppy"
+    ]
+  },
+  {
+    "question": "of these Heros does have a Dark Depths Skin?",
+    "answer": [
+      "K'argh",
+      "Satori",
+      "Phobos"
+    ]
+  },
+  {
+    "question": "of these Heros doesn't have a Stellar Skin?",
+    "answer": [
+      "Judge"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a Masquerade Skin?",
+    "answer": [
+      "Jorgen"
+    ]
+  },
+  {
+    "question": "wind vane on the Shop's roof in the main square look like?",
+    "answer": [
+      "Dragon"
+    ]
+  },
+  {
+    "question": "of the following Heroes doesn't have a Dark Depths Skin?",
+    "answer": [
+      "Judge"
+    ]
+  },
+  {
+    "question": "hero has no vampirism-related skill?",
+    "answer": [
+      "Jorgen"
+    ]
+  },
+  {
+    "question": "of the following heroes has a Champion Skin that can be bought with Silver Guild War Trophies?",
+    "answer": [
+      "Galahad",
+      "Ginger",
+      "Ishmael",
+      "Judge",
+      "Kai",
+      "Peppy",
+      "and Thea"
+    ]
+  },
+  {
+    "question": "hero becomes younger in on of their skins?",
+    "answer": [
+      "Martha"
+    ]
+  },
+  {
+    "question": "are Skull coins obtained?",
+    "answer": [
+      "Tower"
+    ]
+  },
+  {
+    "question": "amount of experience you receive when using a Huge EXP potion?",
+    "answer": [
+      "7500"
+    ]
+  },
+  {
+    "question": "of these heroes has an Engineer special?",
+    "answer": [
+      "Isaac",
+      "Ginger",
+      "Fox"
+    ]
+  },
+  {
+    "question": "hero have a critical hit chance glyph?",
+    "answer": [
+      "Artemis",
+      "Ishmael",
+      "Daredevil",
+      "Sebastian",
+      "Jhu (others not)"
+    ]
+  },
+  {
+    "question": "of these heroes does NOT have a critical hit chance skin?",
+    "answer": [
+      "Sebastian",
+      "Isaac"
+    ]
+  },
+  {
+    "question": "of these heroes doesn't have a critical hit chance glyph?",
+    "answer": [
+      "Isaac"
+    ]
+  },
+  {
+    "question": "Who is Morrigan to Corvus?",
+    "answer": [
+      "Daughter"
+    ]
+  },
+  {
+    "question": "Hero souls does it take to evolve a Hero from the 5th star to Absolute Star?",
+    "answer": [
+      "300"
+    ]
+  },
+  {
+    "question": "Hero can't drain energy from enemies?",
+    "answer": [
+      "K'arkh"
+    ]
+  },
+  {
+    "question": "name of Martha's turtle?",
+    "answer": [
+      "Josephine"
+    ]
+  },
+  {
+    "question": "do you turn on music and sound?",
+    "answer": [
+      "Settings"
+    ]
+  },
+  {
+    "question": "do with Chaos Particles?",
+    "answer": [
+      "Charge a pet's Gem"
+    ]
+  },
+  {
+    "question": "does the tea brewed by Martha grow?",
+    "answer": [
+      "The forrest of Zarakkar"
+    ]
+  },
+  {
+    "question": "do you unlock a hero sticker?",
+    "answer": [
+      "Summon the hero"
+    ]
+  },
+  {
+    "question": "can you get for Skull Coins on Tower Floor 50?",
+    "answer": [
+      "Gold"
+    ]
+  },
+  {
+    "question": "boss can you encounter in the Maelstrom of Chaos?",
+    "answer": [
+      "Always different"
+    ]
+  },
+  {
+    "question": "name of the statue in Campain chapter 2?",
+    "answer": [
+      "Monolith of Meron"
+    ]
+  },
+  {
+    "question": "heroes are there in the game in total?",
+    "answer": [
+      "62 (01.03.2024) WEB"
+    ]
+  },
+  {
+    "question": "stat does Dante's second skill increase for all allies?",
+    "answer": [
+      "Dodge"
+    ]
+  },
+  {
+    "question": "can't be exchanged for guild activity?",
+    "answer": [
+      "EXP Points"
+    ]
+  },
+  {
+    "question": "one of these cannot leave the Guild without assigning their role to another player?",
+    "answer": [
+      "Guild Master"
+    ]
+  },
+  {
+    "question": "one of the following Heroes doesn't have a Champion Skin?",
+    "answer": [
+      "Cornelius (2021)"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a Champion Skin?",
+    "answer": [
+      "Cornelius"
+    ]
+  },
+  {
+    "question": "position can't be taken by Heroes?",
+    "answer": [
+      "Left line"
+    ]
+  },
+  {
+    "question": "can't a Bronze Guild War Trophy be acquired?",
+    "answer": [
+      "Expedition loot"
+    ]
+  },
+  {
+    "question": "hero shares their body with a black fox's soul?",
+    "answer": [
+      "Satori"
+    ]
+  },
+  {
+    "question": "of these heroes can charm their enemies?",
+    "answer": [
+      "Lian"
+    ]
+  },
+  {
+    "question": "order of knights does Luther belong to?",
+    "answer": [
+      "The order of St. Bran"
+    ]
+  },
+  {
+    "question": "of these heroes gain Charge instead of energy?",
+    "answer": [
+      "Isaac"
+    ]
+  },
+  {
+    "question": "buffs of the day can be active at the same time in Adventures?",
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "question": "of these heroes has violet eyes?",
+    "answer": [
+      "Yasmine"
+    ]
+  },
+  {
+    "question": "glyph does Keira not have?",
+    "answer": [
+      "Critical Hit"
+    ]
+  },
+  {
+    "question": "ability did Cornelius obtain while being held captive by dark mages?",
+    "answer": [
+      "Suppressing magic"
+    ]
+  },
+  {
+    "question": "weapon does Valkyrie wield?",
+    "answer": [
+      "A spear"
+    ]
+  },
+  {
+    "question": "avatar frame isn't present in the game?",
+    "answer": [
+      "Tower Warden Frame"
+    ]
+  },
+  {
+    "question": "A total of mentors did Osh the Eternal Keeper have?",
+    "answer": [
+      "5"
+    ]
+  },
+  {
+    "question": "school did the Faceless attend?",
+    "answer": [
+      "The School of Mystics"
+    ]
+  },
+  {
+    "question": "of these heroes has the control role?",
+    "answer": [
+      "Lilith"
+    ]
+  },
+  {
+    "question": "do you obtain Chaos Frame?",
+    "answer": [
+      "Defeat the boss in Adventure 13 fifteen times"
+    ]
+  },
+  {
+    "question": "of these heroes has a Rowdy Skin?",
+    "answer": [
+      "Daredevil"
+    ]
+  },
+  {
+    "question": "chest isn't present in the game?",
+    "answer": [
+      "Rune Chest"
+    ]
+  },
+  {
+    "question": "of these titans has a shield?",
+    "answer": [
+      "Sigurd"
+    ]
+  },
+  {
+    "question": "Who was Keira before being turned into a vengeful spirit?",
+    "answer": [
+      "A Royal Guardian"
+    ]
+  },
+  {
+    "question": "heroes should you send into battle alongside Mara the pet?",
+    "answer": [
+      "Control heroes"
+    ]
+  },
+  {
+    "question": "of these heroes can move a low-health ally to the center of their team?",
+    "answer": [
+      "Corvus"
+    ]
+  },
+  {
+    "question": "one of the following Heroes doesn't have a Lunar Skin?",
+    "answer": [
+      "Elmir"
+    ]
+  },
+  {
+    "question": "hero's dodge chance increase after not taking damage for a few seconds?",
+    "answer": [
+      "Heidi"
+    ]
+  },
+  {
+    "question": "action earns you Guild Activity Points?",
+    "answer": [
+      "Upgrading a Glyph"
+    ]
+  },
+  {
+    "question": "Titans of element are dealt boosted damage from Andvari's Soul Artifact?",
+    "answer": [
+      "Water"
+    ]
+  },
+  {
+    "question": "name of the demon confined within Rufus' shield?",
+    "answer": [
+      "Rakashi"
+    ]
+  },
+  {
+    "question": "name of the demon in Rufus's shield?",
+    "answer": [
+      "Rakashi"
+    ]
+  },
+  {
+    "question": "name of the Droemmer princess?",
+    "answer": [
+      "Astrid"
+    ]
+  },
+  {
+    "question": "buff cannot be obtained in tower?",
+    "answer": [
+      "Acceleration"
+    ]
+  },
+  {
+    "question": "expedition to the City of Angels?",
+    "answer": [
+      "3 Hours"
+    ]
+  },
+  {
+    "question": "drommer is the Master of Water artifacts?",
+    "answer": [
+      "Siungur"
+    ]
+  },
+  {
+    "question": "have to do in order to obtain a Ghirwil City Story Fragment?",
+    "answer": [
+      "Complete a mission with 3 stars"
+    ]
+  },
+  {
+    "question": "have to do in order to obtain a Ghirwil City History Fragment?",
+    "answer": [
+      "Complete a mission with 3 stars"
+    ]
+  },
+  {
+    "question": "meet the Oracle?",
+    "answer": [
+      "Dungeon"
+    ]
+  },
+  {
+    "question": "event has an Easter Egg with the Sad Nymph?",
+    "answer": [
+      "Summer Festival"
+    ]
+  },
+  {
+    "question": "hero has a skill that decreases magic defense?",
+    "answer": [
+      "Alvanor"
+    ]
+  },
+  {
+    "question": "pet prevents enemies from receiving any healing from allies?",
+    "answer": [
+      "Biscuit"
+    ]
+  },
+  {
+    "question": "max difficulty level that can be selected in the Guild Raid?",
+    "answer": [
+      "150"
+    ]
+  },
+  {
+    "question": "At level does the player unlock Asgard and the Guild Raid?",
+    "answer": [
+      "65"
+    ]
+  },
+  {
+    "question": "weapon is known as Noble?",
+    "answer": [
+      "Ginger's Chain-gun"
+    ]
+  },
+  {
+    "question": "hero has the Rune of Life skill?",
+    "answer": [
+      "Alvanor"
+    ]
+  },
+  {
+    "question": "drommer princess' name?",
+    "answer": [
+      "Astrid"
+    ]
+  },
+  {
+    "question": "hero of the month saw the release of Biscuit, the new pet?",
+    "answer": [
+      "Peppy"
+    ]
+  },
+  {
+    "question": "is Isaac's self-propelled vehicle called?",
+    "answer": [
+      "Lil' Tes'Lin"
+    ]
+  },
+  {
+    "question": "Cain's patronage skill offer?",
+    "answer": [
+      "Bonus energy for dodging"
+    ]
+  },
+  {
+    "question": "pet can become Alvanor's patron?",
+    "answer": [
+      "Axel",
+      "Biscuit",
+      "Merlin",
+      "Oliver"
+    ]
+  },
+  {
+    "question": "pet can become Isaac's patron?",
+    "answer": [
+      "Oliver",
+      "Mara or Axel"
+    ]
+  },
+  {
+    "question": "pet can Morrigan have as a patron?",
+    "answer": [
+      "Oliver",
+      "Axel"
+    ]
+  },
+  {
+    "question": "Who cannot have Merlin the pet as a patron?",
+    "answer": [
+      "Rufus"
+    ]
+  },
+  {
+    "question": "Who can't have Axel the pet as a patron?",
+    "answer": [
+      "Chabba"
+    ]
+  },
+  {
+    "question": "Who cannot have Axel the pet as a patron?",
+    "answer": [
+      "Chabba"
+    ]
+  },
+  {
+    "question": "Who cannot have Biscuit the pet as a patron?",
+    "answer": [
+      "Martha"
+    ]
+  },
+  {
+    "question": "affect adds max charges to Khorus?",
+    "answer": [
+      "Silence"
+    ]
+  },
+  {
+    "question": "Hero forged Galahad's sword?",
+    "answer": [
+      "Fafnir"
+    ]
+  },
+  {
+    "question": "Heroes can be acquired in the Elemental Tournament Shop?",
+    "answer": [
+      "Nebula",
+      "K'arkh"
+    ]
+  },
+  {
+    "question": "Hero has a skin that boosts Physical Attack?",
+    "answer": [
+      "K'arkh"
+    ]
+  },
+  {
+    "question": "Hero has a Champion Skin that can be bought with silver trophies?",
+    "answer": [
+      "Kai",
+      "Peppy",
+      "Judge",
+      "Ishmael",
+      "Galahad",
+      "Ginger",
+      "Thea"
+    ]
+  },
+  {
+    "question": "Hero CAN'T protect their allies with a shield?",
+    "answer": [
+      "Sebastian"
+    ]
+  },
+  {
+    "question": "Titan is not a Marksman?",
+    "answer": [
+      "Hyperion"
+    ]
+  },
+  {
+    "question": "Titan increases the max Health of allies?",
+    "answer": [
+      "Solaris"
+    ]
+  },
+  {
+    "question": "hero \"buffs\"her enemys during battles?",
+    "answer": [
+      "Amira"
+    ]
+  },
+  {
+    "question": "name of Lian's beloved?",
+    "answer": [
+      "Hiroshi"
+    ]
+  },
+  {
+    "question": "Gold do you need to unweave a white pattern out of a war flag?",
+    "answer": [
+      "0"
+    ]
+  },
+  {
+    "question": "of these is an Outland boss?",
+    "answer": [
+      "Brog the Conqueror"
+    ]
+  },
+  {
+    "question": "use Explorer's Moves?",
+    "answer": [
+      "On the Mysterious Island"
+    ]
+  },
+  {
+    "question": "Hero doesn't have a Lunnar Skin?",
+    "answer": [
+      "Elmir"
+    ]
+  },
+  {
+    "question": "pet boosts Heroes that deal pure damage?",
+    "answer": [
+      "Albus"
+    ]
+  },
+  {
+    "question": "name of this coin?",
+    "answer": [
+      "Outland Coin \tOutland Coin"
+    ]
+  },
+  {
+    "question": "name of this item?",
+    "answer": [
+      "Green Brothers \tBrothers"
+    ]
+  },
+  {
+    "question": "name of the item?",
+    "answer": [
+      "Green Branch of Antiaris \tBranch of Antiaris"
+    ]
+  },
+  {
+    "question": "is this Hero's name?",
+    "answer": [
+      "Browser Rufus Avatar (Rufus) \tRufus"
+    ]
+  },
+  {
+    "question": "is this Titan's name?",
+    "answer": [
+      "Browser Vulcan Avatar \tVulcan"
+    ]
+  },
+  {
+    "question": "is this Titan's name?",
+    "answer": [
+      "Iyari \tIyari"
+    ]
+  },
+  {
+    "question": "is this Titan's name?",
+    "answer": [
+      "Keros icon \tKeros"
+    ]
+  },
+  {
+    "question": "name of this artifact?",
+    "answer": [
+      "Scythe of Redemption (Astaroth) \tScythe of Redemption"
+    ]
+  },
+  {
+    "question": "name of this artifact?",
+    "answer": [
+      "Bleeding Steel (Dorian) \tBleeding Steel"
+    ]
+  },
+  {
+    "question": "name of this artifact?",
+    "answer": [
+      "Black Fox's Fan (Satori) \tBlack Fox's Fan"
+    ]
+  },
+  {
+    "question": "name of this Titan Artifact?",
+    "answer": [
+      "Ragni's Hammer (Moloch) \tRagni's Hammer"
+    ]
+  },
+  {
+    "question": "name of the skill represented by this icon?",
+    "answer": [
+      "Browser Kai skill 3 (Kai) \tExplosive sphere"
+    ]
+  },
+  {
+    "question": "name of the skill represented by this icon?",
+    "answer": [
+      "Browser Galahad skill 2 (Galahad) \tUnstoppable charge"
+    ]
+  },
+  {
+    "question": "name of the skill represented by this icon?",
+    "answer": [
+      "Necromancy (Morrigan) \tNecromancy"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Evil's Bane (Evil's Bane) \tArtemis"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Black Fox's Fan (Black Fox's Fan) \tSatori"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Hyper Booster DS-1 (Hyper Booster DS-1) \tArachne"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Spear of Fate (Spear of Fate) \tDante"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "DD-901 Arsenal (DD-901 Arsenal) \tOrion"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Old Lute (Elven Lute) \tSebastian"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Archivist's Staff (Archivist's Staff) \tCornelius"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Bleeding Steel (Bleeding Steel) \tDorian"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Ring of Agility (Ring of Agility) \tGinger",
+      "Arachne",
+      "Nebula"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Defender's Covenant (Defender's Covenant) \tCleaver"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Concubine's Khanjars (Concubine's Khanjars) \tYasmine"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Celeste's Crown (Celeste's Crown) \tCeleste"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Shavarakk's Blood (Shavarakk's Blood) \tJorgen"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Wanderer's Mantle (Wanderer's Mantle) \tKai"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Octaviana's Blades (Octaviana's Blades) \tKeira"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Hidden Demon's Katars (Hidden Demon's Katars) \tIshmael"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Warrior's Code (Warrior's Code) \tYasmine",
+      "Sebastian",
+      "Jhu and Daredevil"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Wand of the Thousand Suns (Wand of the Thousand Suns) \tHelios"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Ring of Strength (Ring of Strength) \tCorvus",
+      "Cleaver"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Shrapnel Cannon (Shrapnel Cannon) \tFox"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Devil s Contract (Devil's Contract) \tLilith"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Item on and off (On and Off) \tDaredevil"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Raven's Skull (Raven's Skull) \tMorrigan"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Book of Illusions (Book of Illusions) \tHeidi",
+      "Aurora",
+      "Dante",
+      "Jet",
+      "Nebula",
+      "Qing Mao"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Tome of Arcane Knowledge (Tome of Arcane Knowledge) \tRufus (and many others)"
+    ]
+  },
+  {
+    "question": "hero does this artifact belong to?",
+    "answer": [
+      "Ancestral Anvil (Arcane Anvil) \tFafnir"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Ms. Whirligig(Ms. Whirligig) \tPeppy"
+    ]
+  },
+  {
+    "question": "Hero does this artifact belong to?",
+    "answer": [
+      "Mother Tree's Branch (Mother Tree's Branch) \tMaya"
+    ]
+  },
+  {
+    "question": "At rank does a pet unlock its patronage skill?",
+    "answer": [
+      "Purple"
+    ]
+  },
+  {
+    "question": "official title of our game?",
+    "answer": [
+      "Hero Wars"
+    ]
+  },
+  {
+    "question": "light totem do?",
+    "answer": [
+      "Prevents allies from dying"
+    ]
+  }
+]
