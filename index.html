@@ -10,9 +10,26 @@
 </head>
 <body class="bg-gray-100 p-6">
     <div class="max-w-lg mx-auto bg-white p-6 rounded shadow-lg">
-        <h1 class="text-2xl font-bold mb-4">Question Answer App</h1>
-        <input id="questionInput" type="text" placeholder="Type your question here..." class="w-full p-2 border border-gray-300 rounded mb-4">
-        <div id="answer" class="text-lg text-gray-700"></div>
+        <!-- Language Selector and dynamic text labels -->
+        <h1 id="mainTitle" class="text-2xl font-bold mb-4"></h1>
+        <p id="linkText" class="text-blue-500 underline"></p>
+
+        <!-- Flexbox container for language selection -->
+        <div class="flex items-center justify-end mb-4">
+            <label for="language" id="languageLabel" class="block text-lg font-medium text-gray-700 mr-4"></label>
+            <select id="language" class="w-1/2 p-2 border border-gray-300 rounded">
+                <option value="ru">Русский</option>
+                <option value="en">English</option>
+                <option value="it">Italiano</option>
+                <option value="zh">中文</option>
+            </select>
+        </div>
+
+        <h1 id="questionTitle" class="text-2xl font-bold mb-4"></h1>
+        <input id="questionInput" type="text" placeholder="Enter your question here..." class="w-full p-2 border border-gray-300 rounded mb-4">
+        
+        <!-- Answer Display Box -->
+        <div id="answer" class="bg-green-100 p-4 rounded-lg shadow-md grid grid-cols-2 gap-4 mt-4"></div>
     </div>
     
     <script src="app.js"></script>
