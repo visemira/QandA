@@ -58,8 +58,8 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Function to load and display images from the separate JSON file
-    function loadImages() {
-        const fileName = 'data/images.json'; // Path to your JSON file
+    function loadImages(language) {
+        const fileName = `data/images_${language}.json`; // Path to the language-specific JSON file
 
         fetch(fileName)
             .then(response => response.json())
@@ -159,17 +159,20 @@ document.addEventListener("DOMContentLoaded", () => {
     languageSelector.value = savedLanguage;
     loadQuestions(savedLanguage);
     updateUI(savedLanguage);
+    loadImages(savedLanguage);
 
     // Change language based on user selection
     languageSelector.addEventListener("change", (e) => {
         const selectedLanguage = e.target.value;
         loadQuestions(selectedLanguage);
         updateUI(selectedLanguage);
+        loadImages(selectedLanguage); // Load the corresponding images for the selected language
         localStorage.setItem("selectedLanguage", selectedLanguage); // Save the selected language
     });
 
     // Load images when the button is clicked
     loadImagesButton.addEventListener("click", () => {
-        loadImages();
+        const selectedLanguage = languageSelector.value;
+        loadImages(selectedLanguage);
     });
 });
