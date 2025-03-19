@@ -43,6 +43,59 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
+    // Function to update UI text based on the selected language
+    function updateUI(language) {
+        mainTitle.innerHTML = translations[language].mainTitle;
+        linkText.innerHTML = translations[language].linkText;
+        languageLabel.textContent = translations[language].languageLabel;
+        questionTitle.textContent = translations[language].questionTitle;
+        questionInput.placeholder = translations[language].placeholder;
+    }
+
+    // Function to load and display images from the separate JSON file
+    function loadImages() {
+        const fileName = 'data/images.json'; // Path to your JSON file
+
+        fetch(fileName)
+            .then(response => response.json())
+            .then(images => {
+                imagesDisplay.innerHTML = ""; // Clear previous images
+
+                images.forEach(image => {
+                    // Check if the question is an image URL
+                    const imageUrl = image.question.startsWith("/") ? baseUrl + image.question : image.question;
+                    const answers = image.answer.join(", ");
+                    imagesDisplay.innerHTML += `
+                        <div class="bg-white p-4 rounded-lg shadow-md">
+                            <img src="${imageUrl}" alt="Image" class="max-w-full h-auto rounded mb-2">
+                            <p class="text-lg">${answers}</p>
+                        </div>
+                    `;
+                });
+            })
+            .catch(error => {
+                console.error('Error loading images:', error);
+                imagesDisplay.innerHTML = "<p class='text-red-500'>Failed to load images.</p>";
+            });
+    }
+
+    // Load default language (e.g., English) and questions
+    const savedLanguage = localStorage.getItem("selectedLanguage") || "en"; // Default to "en" if not saved
+    languageSelector.value = savedLanguage;
+    updateUI(savedLanguage);
+
+    // Change language based on user selection
+    languageSelector.addEventListener("change", (e) => {
+        const selectedLanguage = e.target.value;
+        updateUI(selectedLanguage);
+        localStorage.setItem("selectedLanguage", selectedLanguage); // Save the selected language
+    });
+
+    // Load images when the button is clicked
+    loadImagesButton.addEventListener("click", () => {
+        loadImages();
+    });
+
     // Base URL to prepend to relative image paths
     const baseUrl = "https://raw.githubusercontent.com/visemira/QandA/refs/heads/main"; // Change this to your actual base URL
 
