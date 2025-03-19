@@ -2,8 +2,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const questionInput = document.getElementById("questionInput");
     const answerDisplay = document.getElementById("answer");
     const languageSelector = document.getElementById("language");
-    const mainTitle = document.getElementById("mainTitle");
-    const linkText = document.getElementById("linkText");
     const languageLabel = document.getElementById("languageLabel");
     const questionTitle = document.getElementById("questionTitle");
     const loadImagesButton = document.getElementById("loadImagesButton");
@@ -12,35 +10,27 @@ document.addEventListener("DOMContentLoaded", () => {
     // Base URL for relative image paths
     const baseUrl = "https://raw.githubusercontent.com/visemira/QandA/refs/heads/main";
 
-    // Store translations for each language
+    // Translations for different languages
     const translations = {
         ru: {
-            mainTitle: "Для вопросов по картинкам следуйте этому сайту",
-            linkText: 'Link: <a href="https://hero-wars.fandom.com/wiki/Special_Events/Strongford_Quiz">Hero Wars Fandom Strangford Quiz</a>',
             languageLabel: "Выберите язык:",
             questionTitle: "Вопрос и ответ",
             placeholder: "Введите свой вопрос здесь...",
             noAnswerText: "Ответ не найден. Попробуйте ввести другой вопрос."
         },
         en: {
-            mainTitle: "For image-based questions, follow this site",
-            linkText: 'Link: <a href="https://hero-wars.fandom.com/wiki/Special_Events/Strongford_Quiz">Hero Wars Fandom Strangford Quiz</a>',
             languageLabel: "Select language:",
             questionTitle: "Question and Answer",
             placeholder: "Enter your question here...",
             noAnswerText: "No answer found. Try typing a different question."
         },
         it: {
-            mainTitle: "Per domande sulle immagini, segui questo sito",
-            linkText: 'Link: <a href="https://hero-wars.fandom.com/wiki/Special_Events/Strongford_Quiz">Hero Wars Fandom Strangford Quiz</a>',
             languageLabel: "Scegli la lingua:",
             questionTitle: "Domanda e risposta",
             placeholder: "Inserisci la tua domanda qui...",
             noAnswerText: "Nessuna risposta trovata. Prova a digitare una domanda diversa."
         },
         zh: {
-            mainTitle: "有关图片问题，请访问此网站",
-            linkText: 'Link: <a href="https://hero-wars.fandom.com/wiki/Special_Events/Strongford_Quiz">Hero Wars Fandom Strangford Quiz</a>',
             languageLabel: "选择语言:",
             questionTitle: "问题与答案",
             placeholder: "在这里输入您的问题...",
@@ -48,18 +38,9 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    // Function to update UI text based on the selected language
-    function updateUI(language) {
-        mainTitle.innerHTML = translations[language].mainTitle;
-        linkText.innerHTML = translations[language].linkText;
-        languageLabel.textContent = translations[language].languageLabel;
-        questionTitle.textContent = translations[language].questionTitle;
-        questionInput.placeholder = translations[language].placeholder;
-    }
-
-    // Function to load and display images from the separate JSON file
+    // Function to load and display images based on selected language
     function loadImages(language) {
-        const fileName = `data/images_${language}.json`; // Path to the language-specific JSON file
+        const fileName = `data/images_${language}.json`; // Language-specific images JSON
 
         fetch(fileName)
             .then(response => response.json())
@@ -70,9 +51,11 @@ document.addEventListener("DOMContentLoaded", () => {
                     const imageUrl = image.question.startsWith("/") ? baseUrl + image.question : image.question;
                     const answers = image.answer.join(", ");
                     imagesDisplay.innerHTML += `
-                        <div class="bg-white p-4 rounded-lg shadow-md">
-                            <img src="${imageUrl}" alt="Image" class="equal-size mb-2">
-                            <p class="text-lg">${answers}</p>
+                        <div class="flex flex-col justify-center items-center overflow-hidden bg-white rounded-lg bg-gray-300 border-2 border-black shadow-lg">
+                            <img src="${imageUrl}" alt="Image" class="mt-1 w-12 rounded-lg">
+                            <div class="flex flex-col w-full items-center bg-yellow-100">
+                                <p class="p-1">${answers}</p>
+                            </div>
                         </div>
                     `;
                 });
@@ -83,9 +66,9 @@ document.addEventListener("DOMContentLoaded", () => {
             });
     }
 
-    // Function to load questions from the selected language JSON file
+    // Function to load and search questions based on selected language
     function loadQuestions(language) {
-        const fileName = `data/questions_${language}.json`; // Path to your language-specific questions JSON file
+        const fileName = `data/questions_${language}.json`; // Language-specific questions JSON
 
         fetch(fileName)
             .then(response => response.json())
@@ -115,9 +98,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         }
 
                         const result = fuse.search(query);
-
                         if (result.length > 0) {
-                            // Create answer list with two columns
                             answerDisplay.innerHTML = result[0].item.answer
                                 .map(answer => {
                                     if (isImageUrl(answer)) {
@@ -139,7 +120,7 @@ document.addEventListener("DOMContentLoaded", () => {
             .catch(error => {
                 console.error('Error loading questions:', error);
                 answerDisplay.textContent = translations[language].noAnswerText;
-                answerDisplay.classList.add('text-red-500'); // Add a red text color for error
+                answerDisplay.classList.add('text-red-500'); // Add red text color for error
             });
     }
 
@@ -154,39 +135,47 @@ document.addEventListener("DOMContentLoaded", () => {
         return !url.startsWith("http://") && !url.startsWith("https://");
     }
 
-    // Function to update UI text based on the selected language
+    // Function to update the UI text based on the selected language
     function updateUI(language) {
-        mainTitle.innerHTML = translations[language].mainTitle;
-        linkText.innerHTML = translations[language].linkText;
         languageLabel.textContent = translations[language].languageLabel;
         questionTitle.textContent = translations[language].questionTitle;
         questionInput.placeholder = translations[language].placeholder;
     }
 
-    // Toggle the visibility of the images when the button is clicked
+    // Toggle the visibility of images and adjust grid layout
     function toggleImagesVisibility() {
         const isImagesVisible = imagesDisplay.style.display !== "none";
-        imagesDisplay.style.display = isImagesVisible ? "none" : "block"; // Toggle the display style
+        imagesDisplay.style.display = isImagesVisible ? "none" : "grid";
+
+        if (!isImagesVisible) {
+            imagesDisplay.classList.remove("grid-cols-3");
+            imagesDisplay.classList.add("grid-cols-1");
+        } else {
+            imagesDisplay.classList.remove("grid-cols-1");
+            imagesDisplay.classList.add("grid-cols-3");
+        }
     }
 
+    // Initial setup: hide images and set to 3 columns
+    imagesDisplay.style.display = 'none'; // Hide images initially
+    imagesDisplay.classList.add("grid-cols-3"); // Set grid to 3 columns initially
+
     // Load default language questions (e.g., English)
-    const savedLanguage = localStorage.getItem("selectedLanguage") || "en"; // Default to "en" if not saved
+    const savedLanguage = localStorage.getItem("selectedLanguage") || "en"; // Default to "en"
     languageSelector.value = savedLanguage;
-    loadQuestions(savedLanguage); // Now this function is properly defined
-    updateUI(savedLanguage);
-    loadImages(savedLanguage);
+    loadQuestions(savedLanguage); // Load questions based on saved language
+    updateUI(savedLanguage); // Update UI with selected language
+    loadImages(savedLanguage); // Load images for selected language
 
     // Change language based on user selection
     languageSelector.addEventListener("change", (e) => {
         const selectedLanguage = e.target.value;
         loadQuestions(selectedLanguage);
         updateUI(selectedLanguage);
-        loadImages(selectedLanguage); // Load the corresponding images for the selected language
+        loadImages(selectedLanguage); // Load corresponding images
         localStorage.setItem("selectedLanguage", selectedLanguage); // Save the selected language
     });
 
-    // When the "Load Images" button is clicked, toggle the image visibility
-    loadImagesButton.addEventListener("click", () => {
-        toggleImagesVisibility(); // Toggle the visibility of images
-    });
+    // Toggle images visibility on button click
+    loadImagesButton.addEventListener("click", toggleImagesVisibility);
 });
