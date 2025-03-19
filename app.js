@@ -66,40 +66,43 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 const fuse = new Fuse(questions, options);
 
-                // Event listener for user input
+                // Debounced search input
+                let timeoutId;
                 questionInput.addEventListener("input", () => {
-                    const query = questionInput.value.trim();
-                    if (query === "") {
-                        answerDisplay.innerHTML = ""; // Clear answer if input is empty
-                        return;
-                    }
+                    clearTimeout(timeoutId);
+                    timeoutId = setTimeout(() => {
+                        const query = questionInput.value.trim();
+                        if (query === "") {
+                            answerDisplay.innerHTML = ""; // Clear answer if input is empty
+                            return;
+                        }
 
-                    const result = fuse.search(query);
+                        const result = fuse.search(query);
 
-                    if (result.length > 0) {
-                        // Create answer list with two columns
-                        answerDisplay.innerHTML = result[0].item.answer
-                            .map(answer => {
-                                // Check if the answer is an image URL
-                                if (isImageUrl(answer)) {
-                                    // If it's a relative URL, prepend the base URL
-                                    const imageUrl = isRelativeUrl(answer) ? baseUrl + answer : answer;
-                                    return `<div class="bg-green-200 p-2 rounded shadow-sm">
-                                                <img src="${imageUrl}" alt="Answer Image" class="max-w-full h-auto rounded">
-                                            </div>`;
-                                } else {
-                                    return `<div class="bg-green-200 p-2 rounded shadow-sm">${answer}</div>`;
-                                }
-                            })
-                            .join(""); // Create each answer in a box
-                    } else {
-                        answerDisplay.textContent = translations[language].noAnswerText;
-                    }
+                        if (result.length > 0) {
+                            // Create answer list with two columns
+                            answerDisplay.innerHTML = result[0].item.answer
+                                .map(answer => {
+                                    if (isImageUrl(answer)) {
+                                        const imageUrl = isRelativeUrl(answer) ? baseUrl + answer : answer;
+                                        return `<div class="bg-green-200 p-2 rounded shadow-sm">
+                                                    <img src="${imageUrl}" alt="Answer Image" class="max-w-full h-auto rounded">
+                                                </div>`;
+                                    } else {
+                                        return `<div class="bg-green-200 p-2 rounded shadow-sm">${answer}</div>`;
+                                    }
+                                })
+                                .join(""); // Create each answer in a box
+                        } else {
+                            answerDisplay.textContent = translations[language].noAnswerText;
+                        }
+                    }, 300); // 300ms delay
                 });
             })
             .catch(error => {
                 console.error('Error loading questions:', error);
                 answerDisplay.textContent = translations[language].noAnswerText;
+                answerDisplay.classList.add('text-red-500'); // Add a red text color for error
             });
     }
 
@@ -124,13 +127,16 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Load default language questions (e.g., English)
-    loadQuestions(languageSelector.value);
-    updateUI(languageSelector.value);
+    const savedLanguage = localStorage.getItem("selectedLanguage") || "en"; // Default to "en" if not saved
+    languageSelector.value = savedLanguage;
+    loadQuestions(savedLanguage);
+    updateUI(savedLanguage);
 
     // Change language based on user selection
     languageSelector.addEventListener("change", (e) => {
         const selectedLanguage = e.target.value;
         loadQuestions(selectedLanguage);
         updateUI(selectedLanguage);
+        localStorage.setItem("selectedLanguage", selectedLanguage); // Save the selected language
     });
 });
