@@ -12,11 +12,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Translations for different languages
     const translations = {
-        ru: {
-            languageLabel: "Выберите язык:",
-            questionTitle: "Вопрос и ответ",
-            placeholder: "Введите свой вопрос здесь...",
-            noAnswerText: "Ответ не найден. Попробуйте ввести другой вопрос."
+        de: {
+            languageLabel: "Sprache wählen:",
+            questionTitle: "Frage und Antwort",
+            placeholder: "Geben Sie hier Ihre Frage ein...",
+            noAnswerText: "Keine Antwort gefunden. Versuchen Sie, eine andere Frage einzugeben."
         },
         en: {
             languageLabel: "Select language:",
@@ -24,17 +24,47 @@ document.addEventListener("DOMContentLoaded", () => {
             placeholder: "Enter your question here...",
             noAnswerText: "No answer found. Try typing a different question."
         },
+        es: {
+            languageLabel: "Seleccionar idioma:",
+            questionTitle: "Pregunta y respuesta",
+            placeholder: "Ingresa tu pregunta aquí...",
+            noAnswerText: "No se encontró respuesta. Intenta escribir una pregunta diferente."
+        },
+        ru: {
+            languageLabel: "Выберите язык:",
+            questionTitle: "Вопрос и ответ",
+            placeholder: "Введите свой вопрос здесь...",
+            noAnswerText: "Ответ не найден. Попробуйте ввести другой вопрос."
+        },
         it: {
             languageLabel: "Scegli la lingua:",
             questionTitle: "Domanda e risposta",
             placeholder: "Inserisci la tua domanda qui...",
             noAnswerText: "Nessuna risposta trovata. Prova a digitare una domanda diversa."
         },
-        zh: {
+        "zh-CN": {
             languageLabel: "选择语言:",
             questionTitle: "问题与答案",
             placeholder: "在这里输入您的问题...",
             noAnswerText: "未找到答案。尝试输入不同的问题。"
+        },
+        vi: {
+            languageLabel: "Chọn ngôn ngữ:",
+            questionTitle: "Câu hỏi và trả lời",
+            placeholder: "Nhập câu hỏi của bạn ở đây...",
+            noAnswerText: "Không tìm thấy câu trả lời. Hãy thử nhập câu hỏi khác."
+        },
+        fr: {
+            languageLabel: "Sélectionner la langue:",
+            questionTitle: "Question et réponse",
+            placeholder: "Entrez votre question ici...",
+            noAnswerText: "Aucune réponse trouvée. Essayez de poser une autre question."
+        },
+        "zh-TW": {
+            languageLabel: "選擇語言:",
+            questionTitle: "問題與答案",
+            placeholder: "在這裡輸入您的問題...",
+            noAnswerText: "未找到答案。請嘗試輸入不同的問題。"
         }
     };
 
