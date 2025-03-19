@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     // Base URL to prepend to relative image paths
-    const baseUrl = "https://visemira.github.io/QandA"; // Change this to your actual base URL
+    const baseUrl = "https://github.com/visemira/QandA/blob/main"; // Change this to your actual base URL
 
     // Function to load questions from the selected language JSON file
     function loadQuestions(language) {
