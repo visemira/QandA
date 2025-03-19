@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const answers = image.answer.join(", ");
                     imagesDisplay.innerHTML += `
                         <div class="bg-white p-4 rounded-lg shadow-md">
-                            <img src="${imageUrl}" alt="Image" class="max-w-full h-auto rounded mb-2">
+                            <img src="${imageUrl}" alt="Image" class="equal-size mb-2">
                             <p class="text-lg">${answers}</p>
                         </div>
                     `;
@@ -81,77 +81,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 console.error('Error loading images:', error);
                 imagesDisplay.innerHTML = "<p class='text-red-500'>Failed to load images.</p>";
             });
-    }
-
-    // Function to load questions from the selected language JSON file
-    function loadQuestions(language) {
-        const fileName = `data/questions_${language}.json`;
-
-        fetch(fileName)
-            .then(response => response.json())
-            .then(questions => {
-                // Initialize Fuse.js for fuzzy searching
-                const options = {
-                    keys: ["question"],
-                    threshold: 0.4,
-                    distance: 100,
-                    tokenize: true,
-                    findAllMatches: true,
-                    ignoreLocation: true,
-                    minMatchCharLength: 2
-                };
-
-                const fuse = new Fuse(questions, options);
-
-                // Debounced search input
-                let timeoutId;
-                questionInput.addEventListener("input", () => {
-                    clearTimeout(timeoutId);
-                    timeoutId = setTimeout(() => {
-                        const query = questionInput.value.trim();
-                        if (query === "") {
-                            answerDisplay.innerHTML = ""; // Clear answer if input is empty
-                            return;
-                        }
-
-                        const result = fuse.search(query);
-
-                        if (result.length > 0) {
-                            // Create answer list with two columns
-                            answerDisplay.innerHTML = result[0].item.answer
-                                .map(answer => {
-                                    if (isImageUrl(answer)) {
-                                        const imageUrl = isRelativeUrl(answer) ? baseUrl + answer : answer;
-                                        return `<div class="bg-green-200 p-2 rounded shadow-sm">
-                                                    <img src="${imageUrl}" alt="Answer Image" class="max-w-full h-auto rounded">
-                                                </div>`;
-                                    } else {
-                                        return `<div class="bg-green-200 p-2 rounded shadow-sm">${answer}</div>`;
-                                    }
-                                })
-                                .join(""); // Create each answer in a box
-                        } else {
-                            answerDisplay.textContent = translations[language].noAnswerText;
-                        }
-                    }, 300); // 300ms delay
-                });
-            })
-            .catch(error => {
-                console.error('Error loading questions:', error);
-                answerDisplay.textContent = translations[language].noAnswerText;
-                answerDisplay.classList.add('text-red-500'); // Add a red text color for error
-            });
-    }
-
-    // Function to check if a URL is an image
-    function isImageUrl(url) {
-        const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp', '.svg'];
-        return imageExtensions.some(ext => url.toLowerCase().endsWith(ext));
-    }
-
-    // Function to check if a URL is relative
-    function isRelativeUrl(url) {
-        return !url.startsWith("http://") && !url.startsWith("https://");
     }
 
     // Load default language questions (e.g., English)
