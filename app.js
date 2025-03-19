@@ -43,6 +43,9 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
+    // Base URL to prepend to relative image paths
+    const baseUrl = "https://visemira.github.io/QandA"; // Change this to your actual base URL
+
     // Function to load questions from the selected language JSON file
     function loadQuestions(language) {
         const fileName = `data/questions_${language}.json`;
@@ -79,8 +82,10 @@ document.addEventListener("DOMContentLoaded", () => {
                             .map(answer => {
                                 // Check if the answer is an image URL
                                 if (isImageUrl(answer)) {
+                                    // If it's a relative URL, prepend the base URL
+                                    const imageUrl = isRelativeUrl(answer) ? baseUrl + answer : answer;
                                     return `<div class="bg-green-200 p-2 rounded shadow-sm">
-                                                <img src="${answer}" alt="Answer Image" class="max-w-full h-auto rounded">
+                                                <img src="${imageUrl}" alt="Answer Image" class="max-w-full h-auto rounded">
                                             </div>`;
                                 } else {
                                     return `<div class="bg-green-200 p-2 rounded shadow-sm">${answer}</div>`;
@@ -102,6 +107,11 @@ document.addEventListener("DOMContentLoaded", () => {
     function isImageUrl(url) {
         const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp', '.svg'];
         return imageExtensions.some(ext => url.toLowerCase().endsWith(ext));
+    }
+
+    // Function to check if a URL is relative
+    function isRelativeUrl(url) {
+        return !url.startsWith("http://") && !url.startsWith("https://");
     }
 
     // Function to update UI text based on the selected language
