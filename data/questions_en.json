@@ -12,31 +12,37 @@
     ]
   },
   {
+    "question": "Vex's Curse of the Flesh skill affects the enemy",
+    "answer": [
+      "with the lowest Health."
+    ]
+  },
+  {
     "question": "name of Lian's beloved?",
     "answer": [
       "Hiroshi"
     ]
   },
   {
-    "question": "hero gains Charge instead of Energy?",
+    "question": "gains Charge instead of Energy?",
     "answer": [
       "Isaac"
     ]
   },
   {
-    "question": "Hero doesn't use a staff?",
+    "question": "doesn't use a staff?",
     "answer": [
       "Mojo"
     ]
   },
   {
-    "question": "Hero doesn't have a hood in their Default Skin?",
+    "question": "doesn't have a hood in their Default Skin?",
     "answer": [
       "Dorian"
     ]
   },
   {
-    "question": "Who can't have Merlin the pet as a patron?",
+    "question": "can't have Merlin the pet as a patron?",
     "answer": [
       "Rufus"
     ]
@@ -45,6 +51,12 @@
     "question": "obtain the Soul Crystals needed to summon Heroes?",
     "answer": [
       "Soul Atrium"
+    ]
+  },
+  {
+    "question": "temporarily lower the opponent's main stat",
+    "answer": [
+      "Dante"
     ]
   },
   {
@@ -66,7 +78,7 @@
     ]
   },
   {
-    "question": "Hero can move a low-health ally to the center of their team?",
+    "question": "can move a low-health ally to the center of their team?",
     "answer": [
       "Corvus"
     ]
@@ -90,6 +102,12 @@
     ]
   },
   {
+    "question": "is the Grove Keeper",
+    "answer": [
+      "Thea"
+    ]
+  },
+  {
     "question": "Titan is a Light Titan?",
     "answer": [
       "Iyari"
@@ -108,7 +126,7 @@
     ]
   },
   {
-    "question": "Hero has their own theme music in the game?",
+    "question": "has their own theme music in the game?",
     "answer": [
       "Thea"
     ]
@@ -156,7 +174,7 @@
     ]
   },
   {
-    "question": "Hero has a Champion Skin that can be bought with gold trophies?",
+    "question": "has a Champion Skin that can be bought with gold trophies?",
     "answer": [
       "Dorian",
       "Cleaver",
@@ -168,13 +186,13 @@
     ]
   },
   {
-    "question": "Hero is a princess?",
+    "question": "is a princess?",
     "answer": [
       "Astrid"
     ]
   },
   {
-    "question": "Hero is NOT alien to the Dominion?",
+    "question": "is NOT alien to the Dominion?",
     "answer": [
       "Arachne"
     ]
@@ -210,7 +228,7 @@
     ]
   },
   {
-    "question": "Hero Cannot Stun enemies?",
+    "question": "Cannot Stun enemies?",
     "answer": [
       "Isaac"
     ]
@@ -222,13 +240,13 @@
     ]
   },
   {
-    "question": "Hero doesn't have a critical hit chance glyph?",
+    "question": "doesn't have a critical hit chance glyph?",
     "answer": [
       "Isaac"
     ]
   },
   {
-    "question": "hero has assembled a squad for fighting demons?",
+    "question": "has assembled a squad for fighting demons?",
     "answer": [
       "Tristan"
     ]
@@ -264,7 +282,7 @@
     ]
   },
   {
-    "question": "Hero wields a cat staff in their Masquerade Skin?",
+    "question": "wields a cat staff in their Masquerade Skin?",
     "answer": [
       "Corneliius"
     ]
@@ -296,24 +314,33 @@
   {
     "question": "heroes has Ascension skills?",
     "answer": [
-      "(2022) \tNebula",
+      "Nebula",
       "Qing Mao",
       "Thea",
       "Dark Star",
       "Artemis",
       "Kai",
       "Judge",
-      "Lilith"
+      "Lilith",
+      "Aurora",
+      "Orion",
+      "Heidi",
+      "Keira",
+      "Ninja Turtles",
+      "Galahad",
+      "Cleaver",
+      "Peppy",
+      "Ishmael"
     ]
   },
   {
-    "question": "Hero doesn't have a Solar Skin?",
+    "question": "doesn't have a Solar Skin?",
     "answer": [
       "Cleaver"
     ]
   },
   {
-    "question": "hero can't choose Khorus as a patron?",
+    "question": "can't choose Khorus as a patron?",
     "answer": [
       "Dorian"
     ]
@@ -331,7 +358,7 @@
     ]
   },
   {
-    "question": "hero has the Celestial Skin?",
+    "question": "has the Celestial Skin?",
     "answer": [
       "Satori"
     ]
@@ -405,7 +432,8 @@
   {
     "question": "grand prize can be found in an Artifact Chest?",
     "answer": [
-      "Chaos Cores"
+      "Chaos Cores",
+      "Artifact Coins"
     ]
   },
   {
@@ -433,7 +461,7 @@
     ]
   },
   {
-    "question": "hero has the \"Rune of Life\"skill?",
+    "question": "has the \"Rune of Life\"skill?",
     "answer": [
       "Alvanor"
     ]
@@ -451,19 +479,13 @@
     ]
   },
   {
-    "question": "hero has a cat at the end of their staff in their Masquerade Skin?",
+    "question": "has a cat at the end of their staff in their Masquerade Skin?",
     "answer": [
       "Cornelius"
     ]
   },
   {
-    "question": "Hero transforms into a cat in one of their skins?",
-    "answer": [
-      "Chabba"
-    ]
-  },
-  {
-    "question": "of these heroes transforms into a cat in one of their skins?",
+    "question": "transforms into a cat in one of their skins?",
     "answer": [
       "Chabba"
     ]
@@ -513,7 +535,7 @@
     ]
   },
   {
-    "question": "Hero has a cat companion?",
+    "question": "has a cat companion?",
     "answer": [
       "Astrid"
     ]
@@ -588,7 +610,7 @@
   {
     "question": "do you unlock the Soul Shop?",
     "answer": [
-      "Promote any hero to absolute star or get Cleaver"
+      "Promote any to absolute star or get Cleaver"
     ]
   },
   {
@@ -610,7 +632,7 @@
     ]
   },
   {
-    "question": "Hero role is not a part of the game?",
+    "question": "role is not a part of the game?",
     "answer": [
       "Assassin"
     ]
@@ -713,7 +735,7 @@
     ]
   },
   {
-    "question": "Hero has no energy?",
+    "question": "has no energy?",
     "answer": [
       "Astrid and Lucas"
     ]
@@ -828,7 +850,7 @@
     ]
   },
   {
-    "question": "Hero doesn't have a mask?",
+    "question": "doesn't have a mask?",
     "answer": [
       "Martha"
     ]
@@ -852,13 +874,7 @@
     ]
   },
   {
-    "question": "Hero doesn't have a Mechanical Skin?",
-    "answer": [
-      "Ziri"
-    ]
-  },
-  {
-    "question": "of the following Heroes doesn't have a Mechanical Skin?",
+    "question": "doesn't have a Mechanical Skin?",
     "answer": [
       "Ziri"
     ]
@@ -912,13 +928,7 @@
     ]
   },
   {
-    "question": "Hero doesn't have a Devil Skin?",
-    "answer": [
-      "Fox"
-    ]
-  },
-  {
-    "question": "of the following Heroes doesn't have a Devil Skin?",
+    "question": "doesn't have a Devil Skin?",
     "answer": [
       "Fox"
     ]
@@ -966,12 +976,6 @@
     ]
   },
   {
-    "question": "max number of windows seen on a tower floor?",
-    "answer": [
-      "3"
-    ]
-  },
-  {
     "question": "passive skill enables you to start the battle with accumulated energy?",
     "answer": [
       "Public Idol"
@@ -996,25 +1000,13 @@
     ]
   },
   {
-    "question": "Hero doesn't have a Spring Skin?",
+    "question": "doesn't have a Spring Skin?",
     "answer": [
       "Martha"
     ]
   },
   {
-    "question": "of the following Heroes doesn't have a Spring Skin?",
-    "answer": [
-      "Martha"
-    ]
-  },
-  {
-    "question": "of the following Heroes fight with a balloon in their hand?",
-    "answer": [
-      "Jorgen"
-    ]
-  },
-  {
-    "question": "Hero can fight with a balloon in their hand?",
+    "question": "fight with a balloon in their hand?",
     "answer": [
       "Jorgen"
     ]
@@ -1081,13 +1073,7 @@
     ]
   },
   {
-    "question": "one of these Heroes did NOT arrive to Dominion during a New Year Event?",
-    "answer": [
-      "Andvari"
-    ]
-  },
-  {
-    "question": "Hero Didn't arrive to Dominion during a New Year Event?",
+    "question": "Didn't arrive to Dominion during a New Year Event?",
     "answer": [
       "Andvari"
     ]
@@ -1112,12 +1098,6 @@
   },
   {
     "question": "Thirst for BLood, Daredevil's 4th skill, do?",
-    "answer": [
-      "Ignores a portion of the armor of enemies she has set on fire"
-    ]
-  },
-  {
-    "question": "Thirst for Blood, Daredevil's 4th skill, do?",
     "answer": [
       "Ignores a portion of the armor of enemies she has set on fire"
     ]
@@ -1177,13 +1157,7 @@
     ]
   },
   {
-    "question": "mission called encounter the Archdemon for the first time?",
-    "answer": [
-      "Archdemon's Patrimony / The Archdemon's Legacy"
-    ]
-  },
-  {
-    "question": "name of the mission encounter the Archdemon for the first time?",
+    "question": "mission where you encounter the Archdemon for the first time?",
     "answer": [
       "Archdemon's Patrimony / The Archdemon's Legacy"
     ]
@@ -1225,7 +1199,7 @@
     ]
   },
   {
-    "question": "hero can be found in heroic chest pre-evolved to Absolute star?",
+    "question": "can be found in heroic chest pre-evolved to Absolute star?",
     "answer": [
       "Cleaver"
     ]
@@ -1255,7 +1229,7 @@
     ]
   },
   {
-    "question": "hero was brought back from the dead?",
+    "question": "was brought back from the dead?",
     "answer": [
       "Keira or Corvus"
     ]
@@ -1291,7 +1265,7 @@
     ]
   },
   {
-    "question": "hero is an alien?",
+    "question": "is an alien?",
     "answer": [
       "Orion",
       "K'arkh",
@@ -1305,7 +1279,7 @@
     ]
   },
   {
-    "question": "hero rank is not in the game?",
+    "question": "rank is not in the game?",
     "answer": [
       "Red +4"
     ]
@@ -1467,7 +1441,7 @@
     ]
   },
   {
-    "question": "Hero is the child of a human and a Titan?",
+    "question": "is the child of a human and a Titan?",
     "answer": [
       "Maya"
     ]
@@ -1589,9 +1563,23 @@
   {
     "question": "of the following Heroes has a Cybernetic Skin?",
     "answer": [
-      "Satori",
+      "Orion",
+      "Aidan",
+      "Astaroth",
+      "Cornelius",
+      "Polaris",
+      "Luther",
+      "Ziri",
+      "Mojo",
+      "Iris",
       "Lars",
-      "..."
+      "Krista",
+      "Satori",
+      "Amira",
+      "Fox",
+      "Elmir",
+      "Kayla",
+      "Yesmine"
     ]
   },
   {
@@ -1616,13 +1604,7 @@
     ]
   },
   {
-    "question": "Hero doesn't have a hood in their Default Skin?",
-    "answer": [
-      "Dorian"
-    ]
-  },
-  {
-    "question": "one of these Heroes doesn't have a hood in their Default Skin?",
+    "question": "doesn't have a hood in their Default Skin?",
     "answer": [
       "Dorian"
     ]
@@ -1646,262 +1628,304 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Amira",
     "answer": [
-      "Mobile Amira Avatar (Amira)"
+      "Turban of the Grand Genie",
+      "Manuscript of the Void",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "(artifact belongs to this Hero?",
+    "question": "artifact belongs to this hero Andvari",
     "answer": [
-      ")"
+      "Hand of the Great Master",
+      "Alchemist's Folio",
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this Hero Arachne",
     "answer": [
-      "Browser Andvari Avatar (Andvari) \tHand of the Great Master"
+      "Hyper Booster DS-1",
+      "Defender's Covenant",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Artemis",
     "answer": [
-      "Browser Arachne Avatar (Arachne) \tHyper Booster DS-1"
+      "Evil's Bane",
+      "Alchemist's Folio",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Astaroth",
     "answer": [
-      "Browser Artemis Avatar (Artemis) \tEvil's Bane"
+      "Scythe of Redemption",
+      "Defender's Covenant",
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Aurora",
     "answer": [
-      "Browser Astaroth Avatar (Astaroth) \tScythe of Redemption"
+      "Selias' Legacy",
+      "Book of Illusions",
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Chabba",
     "answer": [
-      "Browser Aurora Avatar (Aurora) \tSelias' Legacy"
+      "Bracers of Hunger",
+      "Defender's Covenant",
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Cornelius",
     "answer": [
-      "Browser Chabba Avatar (Chabba) \tBracers of Hunger"
+      "Archivist's Staff",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Corvus",
     "answer": [
-      "Browser Cornelius Avatar (Cornelius) \tArchivist's Staff"
+      "Undead King's Glaive",
+      "Defender's Covenant",
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Dark Star",
     "answer": [
-      "Browser Corvus Avatar (Corvus) \tUndead King's Glaive"
+      "Alchemist's Folio",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Dorian",
     "answer": [
-      "Browser Dark Star Avatar (Dark Star) \tAlchemist's Folio"
+      "Bleeding Steel",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Elmir",
     "answer": [
-      "Browser Dorian Avatar (Dorian) \tBleeding Steel"
+      "Blades of Many Truths",
+      "Alchemist's Folio",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Faceless",
     "answer": [
-      "Browser Elmir Avatar (Elmir) \tBlades of Many Truths"
+      "Hermit's Shroud",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this hero Fafnir",
     "answer": [
-      "Browser Faceless Avatar (Faceless) \tHermit's Shroud"
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this Hero Fox",
     "answer": [
-      "Mobile Fafnir Avatar (Fafnir) \tRing of Strength"
+      "Alchemist's Folio"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this hero Galahad",
     "answer": [
-      "Browser Fox Avatar (Fox) \tAlchemist's Folio"
+      "Defender's Covenant",
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this Hero Helios",
     "answer": [
-      "Browser Galahad Avatar (Galahad) \tDefender's Covenant"
+      "Wand of the Thousand Suns"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Iris",
     "answer": [
-      "Browser Helios Avatar (Helios) \tWand of the Thousand Suns"
+      "Grimoire of Enslaved Souls",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Isaac",
     "answer": [
-      "Browser Iris Avatar (Iris) \tGrimoire of Enslaved Souls"
+      "Lil' Tes'Lin",
+      "Alchemist's Folio",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Ishmael",
     "answer": [
-      "Browser Isaac Avatar (Isaac) \tLil' Tes'Lin"
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this hero Jet",
     "answer": [
-      "Browser Ishmael Avatar (Ishmael) \tRing of Agility"
+      "Book of Illusions"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this Hero Jhu",
     "answer": [
-      "Browser Jet Avatar (Jet) \tBook of Illusions"
+      "Zarakkar Bones"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this hero Jorgen",
     "answer": [
-      "Browser Jhu Avatar (Jhu) \tZarakkar Bones"
+      "Shavarakk's Blood",
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this Hero Judge",
     "answer": [
-      "Browser Jorgen Avatar (Jorgen) \tShavarakk's Blood"
+      "Chart of Endless Stars",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Kai",
     "answer": [
-      "Browser Judge Avatar (Judge) \tChart of Endless Stars"
+      "Wanderer’s Mantle",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Krista",
     "answer": [
-      "Browser Kai Avatar (Kai) \tWanderer’s Mantle"
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Lara Croft",
     "answer": [
-      "Browser Krista Avatar (Krista) \tRing of Intelligence"
+      "Lara's Jade Necklace",
+      "Warrior's Code",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Lars",
     "answer": [
-      "Browser Lara Croft Avatar (Lara Croft) \tLara's Jade Necklace"
+      "Stormy Talismam, Manuscript of the Void"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Lian",
     "answer": [
-      "Browser Lars Avatar (Lars) \tStormy Talismam",
-      "Manuscript of the Void"
+      "Tome of Arcane Knowledge"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Lilith",
     "answer": [
-      "Browser Lian Avatar (Lian) \tTome of Arcane Knowledge"
+      "Tome of Arcane Knowledge"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Markus",
     "answer": [
-      "Browser Lilith Avatar (Lilith) \tTome of Arcane Knowledge"
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Maya",
     "answer": [
-      "Browser Markus Avatar (Markus) \tRing of Intelligence"
+      "Tome of Arcane Knowledge",
+      "Mother Tree's Branch",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this hero Mojo",
     "answer": [
-      "Browser Maya Avatar (Maya) \tTome of Arcane Knowledge"
+      "Mask of Anger",
+      "Manuscript of the Void",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this Hero Morrigan",
     "answer": [
-      "Browser Mojo Avatar (Mojo) \tMask of Anger"
+      "Raven's Skull",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Nebula",
     "answer": [
-      "Browser Morrigan Avatar (Morrigan) \tRaven's Skull"
+      "Unborn Stars",
+      "Book of Illusions Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this hero Peppy",
     "answer": [
-      "Browser Nebula Avatar (Nebula) \tUnborn Stars"
+      "Ms. Whirligig",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this hero Qing Mao",
     "answer": [
-      "Browser Peppy Avatar (Peppy) \tMs. Whirligig"
+      "Ring of Agility",
+      "Book of Illusions"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this Hero Rufus",
     "answer": [
-      "Browser Qing Mao Avatar (Qing Mao) \tRing of Agility"
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this Hero Sebastian",
     "answer": [
-      "Browser Rufus Avatar (Rufus) \tRing of Strength"
+      "Warrior's Code",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero?",
+    "question": "artifact belongs to this hero Thea",
     "answer": [
-      "Browser Sebastian Avatar (Sebastian) \tWarrior's Code"
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence",
+      "Staff of Rebirth"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this hero Yasmine",
     "answer": [
-      "Browser Thea Avatar (Thea) \tTome of Arcane Knowledge"
+      "Concubine's Khanjars",
+      "Warrior's Code"
     ]
   },
   {
-    "question": "artifact belongs to this hero?",
+    "question": "artifact belongs to this hero Ziri",
     "answer": [
-      "Browser Yasmine Avatar (Yasmine) \tConcubine's Khanjars"
-    ]
-  },
-  {
-    "question": "artifact belongs to this hero?",
-    "answer": [
-      "Browser Ziri Avatar (Ziri) \tAkhreb Ummi's Sting"
+      "Akhreb Ummi's Sting",
+      "Ring of Strength"
     ]
   },
   {
@@ -1911,13 +1935,19 @@
     ]
   },
   {
+    "question": "Titan is known as Father of the Ocean",
+    "answer": [
+      "Hyperion"
+    ]
+  },
+  {
     "question": "Who can pull their enemies closer with a chain?",
     "answer": [
       "Cleaver"
     ]
   },
   {
-    "question": "Hero has more than 2 hands?",
+    "question": "has more than 2 hands?",
     "answer": [
       "K'arkh",
       "Dante"
@@ -1944,7 +1974,7 @@
     ]
   },
   {
-    "question": "Hero doesn't have a Masquerade Skin?",
+    "question": "doesn't have a Masquerade Skin?",
     "answer": [
       "Jorgen"
     ]
@@ -1962,7 +1992,14 @@
     ]
   },
   {
-    "question": "hero has no vampirism-related skill?",
+    "question": "one of these Heroes wears a hat in their Default Skin",
+    "answer": [
+      "Sebastian", 
+      "Phobos"
+    ]
+  },
+  {
+    "question": "has no vampirism-related skill?",
     "answer": [
       "Jorgen"
     ]
@@ -1976,11 +2013,11 @@
       "Judge",
       "Kai",
       "Peppy",
-      "and Thea"
+      "Thea"
     ]
   },
   {
-    "question": "hero becomes younger in on of their skins?",
+    "question": "becomes younger in on of their skins?",
     "answer": [
       "Martha"
     ]
@@ -2006,13 +2043,13 @@
     ]
   },
   {
-    "question": "hero have a critical hit chance glyph?",
+    "question": "have a critical hit chance glyph?",
     "answer": [
       "Artemis",
       "Ishmael",
       "Daredevil",
       "Sebastian",
-      "Jhu (others not)"
+      "Jhu"
     ]
   },
   {
@@ -2041,7 +2078,7 @@
     ]
   },
   {
-    "question": "Hero can't drain energy from enemies?",
+    "question": "can't drain energy from enemies?",
     "answer": [
       "K'arkh"
     ]
@@ -2121,11 +2158,11 @@
   {
     "question": "one of the following Heroes doesn't have a Champion Skin?",
     "answer": [
-      "Cornelius (2021)"
+      "Cornelius"
     ]
   },
   {
-    "question": "Hero doesn't have a Champion Skin?",
+    "question": "doesn't have a Champion Skin?",
     "answer": [
       "Cornelius"
     ]
@@ -2143,7 +2180,7 @@
     ]
   },
   {
-    "question": "hero shares their body with a black fox's soul?",
+    "question": "shares their body with a black fox's soul?",
     "answer": [
       "Satori"
     ]
@@ -2287,12 +2324,6 @@
     ]
   },
   {
-    "question": "name of the demon confined within Rufus' shield?",
-    "answer": [
-      "Rakashi"
-    ]
-  },
-  {
     "question": "name of the demon in Rufus's shield?",
     "answer": [
       "Rakashi"
@@ -2323,12 +2354,6 @@
     ]
   },
   {
-    "question": "have to do in order to obtain a Ghirwil City Story Fragment?",
-    "answer": [
-      "Complete a mission with 3 stars"
-    ]
-  },
-  {
     "question": "have to do in order to obtain a Ghirwil City History Fragment?",
     "answer": [
       "Complete a mission with 3 stars"
@@ -2347,7 +2372,7 @@
     ]
   },
   {
-    "question": "hero has a skill that decreases magic defense?",
+    "question": "has a skill that decreases magic defense?",
     "answer": [
       "Alvanor"
     ]
@@ -2377,7 +2402,13 @@
     ]
   },
   {
-    "question": "hero has the Rune of Life skill?",
+    "question": "these heroes does NOT have the Blessed Special",
+    "answer": [
+      "Aurora"
+    ]
+  },
+  {
+    "question": "has the Rune of Life skill?",
     "answer": [
       "Alvanor"
     ]
@@ -2389,7 +2420,7 @@
     ]
   },
   {
-    "question": "hero of the month saw the release of Biscuit, the new pet?",
+    "question": "of the month saw the release of Biscuit, the new pet?",
     "answer": [
       "Peppy"
     ]
@@ -2460,7 +2491,7 @@
     ]
   },
   {
-    "question": "Hero forged Galahad's sword?",
+    "question": "forged Galahad's sword?",
     "answer": [
       "Fafnir"
     ]
@@ -2473,13 +2504,13 @@
     ]
   },
   {
-    "question": "Hero has a skin that boosts Physical Attack?",
+    "question": "has a skin that boosts Physical Attack?",
     "answer": [
       "K'arkh"
     ]
   },
   {
-    "question": "Hero has a Champion Skin that can be bought with silver trophies?",
+    "question": "has a Champion Skin that can be bought with silver trophies?",
     "answer": [
       "Kai",
       "Peppy",
@@ -2491,7 +2522,7 @@
     ]
   },
   {
-    "question": "Hero CAN'T protect their allies with a shield?",
+    "question": "CAN'T protect their allies with a shield?",
     "answer": [
       "Sebastian"
     ]
@@ -2509,7 +2540,7 @@
     ]
   },
   {
-    "question": "hero \"buffs\"her enemys during battles?",
+    "question": "\"buffs\"her enemys during battles?",
     "answer": [
       "Amira"
     ]
@@ -2539,7 +2570,7 @@
     ]
   },
   {
-    "question": "Hero doesn't have a Lunnar Skin?",
+    "question": "doesn't have a Lunnar Skin?",
     "answer": [
       "Elmir"
     ]
@@ -2548,268 +2579,6 @@
     "question": "pet boosts Heroes that deal pure damage?",
     "answer": [
       "Albus"
-    ]
-  },
-  {
-    "question": "name of this coin?",
-    "answer": [
-      "Outland Coin \tOutland Coin"
-    ]
-  },
-  {
-    "question": "name of this item?",
-    "answer": [
-      "Green Brothers \tBrothers"
-    ]
-  },
-  {
-    "question": "name of the item?",
-    "answer": [
-      "Green Branch of Antiaris \tBranch of Antiaris"
-    ]
-  },
-  {
-    "question": "is this Hero's name?",
-    "answer": [
-      "Browser Rufus Avatar (Rufus) \tRufus"
-    ]
-  },
-  {
-    "question": "is this Titan's name?",
-    "answer": [
-      "Browser Vulcan Avatar \tVulcan"
-    ]
-  },
-  {
-    "question": "is this Titan's name?",
-    "answer": [
-      "Iyari \tIyari"
-    ]
-  },
-  {
-    "question": "is this Titan's name?",
-    "answer": [
-      "Keros icon \tKeros"
-    ]
-  },
-  {
-    "question": "name of this artifact?",
-    "answer": [
-      "Scythe of Redemption (Astaroth) \tScythe of Redemption"
-    ]
-  },
-  {
-    "question": "name of this artifact?",
-    "answer": [
-      "Bleeding Steel (Dorian) \tBleeding Steel"
-    ]
-  },
-  {
-    "question": "name of this artifact?",
-    "answer": [
-      "Black Fox's Fan (Satori) \tBlack Fox's Fan"
-    ]
-  },
-  {
-    "question": "name of this Titan Artifact?",
-    "answer": [
-      "Ragni's Hammer (Moloch) \tRagni's Hammer"
-    ]
-  },
-  {
-    "question": "name of the skill represented by this icon?",
-    "answer": [
-      "Browser Kai skill 3 (Kai) \tExplosive sphere"
-    ]
-  },
-  {
-    "question": "name of the skill represented by this icon?",
-    "answer": [
-      "Browser Galahad skill 2 (Galahad) \tUnstoppable charge"
-    ]
-  },
-  {
-    "question": "name of the skill represented by this icon?",
-    "answer": [
-      "Necromancy (Morrigan) \tNecromancy"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Evil's Bane (Evil's Bane) \tArtemis"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Black Fox's Fan (Black Fox's Fan) \tSatori"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Hyper Booster DS-1 (Hyper Booster DS-1) \tArachne"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Spear of Fate (Spear of Fate) \tDante"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "DD-901 Arsenal (DD-901 Arsenal) \tOrion"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Old Lute (Elven Lute) \tSebastian"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Archivist's Staff (Archivist's Staff) \tCornelius"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Bleeding Steel (Bleeding Steel) \tDorian"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Ring of Agility (Ring of Agility) \tGinger",
-      "Arachne",
-      "Nebula"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Defender's Covenant (Defender's Covenant) \tCleaver"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Concubine's Khanjars (Concubine's Khanjars) \tYasmine"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Celeste's Crown (Celeste's Crown) \tCeleste"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Shavarakk's Blood (Shavarakk's Blood) \tJorgen"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Wanderer's Mantle (Wanderer's Mantle) \tKai"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Octaviana's Blades (Octaviana's Blades) \tKeira"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Hidden Demon's Katars (Hidden Demon's Katars) \tIshmael"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Warrior's Code (Warrior's Code) \tYasmine",
-      "Sebastian",
-      "Jhu and Daredevil"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Wand of the Thousand Suns (Wand of the Thousand Suns) \tHelios"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Ring of Strength (Ring of Strength) \tCorvus",
-      "Cleaver"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Shrapnel Cannon (Shrapnel Cannon) \tFox"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Devil s Contract (Devil's Contract) \tLilith"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Item on and off (On and Off) \tDaredevil"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Raven's Skull (Raven's Skull) \tMorrigan"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Book of Illusions (Book of Illusions) \tHeidi",
-      "Aurora",
-      "Dante",
-      "Jet",
-      "Nebula",
-      "Qing Mao"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Tome of Arcane Knowledge (Tome of Arcane Knowledge) \tRufus (and many others)"
-    ]
-  },
-  {
-    "question": "hero does this artifact belong to?",
-    "answer": [
-      "Ancestral Anvil (Arcane Anvil) \tFafnir"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Ms. Whirligig(Ms. Whirligig) \tPeppy"
-    ]
-  },
-  {
-    "question": "Hero does this artifact belong to?",
-    "answer": [
-      "Mother Tree's Branch (Mother Tree's Branch) \tMaya"
     ]
   },
   {
@@ -2831,12 +2600,503 @@
     ]
   },
   {
-    "question": "What does the Unknown Toxin skill icon look like?",
-    "answer": "/_img/Unknown_Toxin.webp"
+    "question": "Unknown Toxin skill icon look like?",
+    "answer": ["/_img/Unknown_Toxin.webp"]
   },
   {
-    "question": "What does the Iron Skyes skill icon look like? (Galahad)",
-    "answer": "/_img/Ironskyes.webp"
-  }
-  
+    "question": "Iron Skyes skill icon look like? (Galahad)",
+    "answer": ["/_img/Ironskyes.webp"]
+  },
+  {
+    "question": "item \"Soul Catcher\" look like?",
+    "answer": ["/_img/Soul_catcher.webp"]
+  },
+  {
+    "question": "item \"Lion Armor\" look like?",
+    "answer": ["/_img/Lions_armor.webp"]
+  },
+  {
+    "question": "apostle mace look like?",
+    "answer": ["/_img/Violet_Apostle_Mace.webp"]
+  },
+  {
+    "question": "apprentice mantle look like?",
+    "answer": ["/_img/White_Apprentice_Mantle.webp"]
+  },
+  {
+    "question": "What Dragon Shield looks like?",
+    "answer": ["/_img/Violet_Dragon_Shield.webp"]
+  },
+  {
+    "question": "item \"Staff of Selena's Halo\" look like?",
+    "answer": ["/_img/Violet_Staff_of_Selena_Halo.webp"]
+  },
+  {
+    "question": "What does \"Tower Coin\" look like?",
+    "answer": ["/_img/Tower_Coin.webp"]
+  },
+  {
+    "question": "What does an Elemental Tournament Coin look like?",
+    "answer": ["/_img/Elemental_Tournament_Coin.webp"]
+  },
+  {
+    "question": "Titan Angus' portrait look like?",
+    "answer": ["/_img/Browser_Angus_Avatar.webp"]
+  },
+  {
+    "question": "Titan Moloch's portrait look like?",
+    "answer": ["/_img/Browser_Moloch_Avatar.webp"]
+  },
+  {
+    "question": "Fountain of Blood skill icon look like?",
+    "answer": ["/_img/Fountain_of_Blood.webp"]
+  },
+  {
+    "question": "Altar of Souls skill icon look like? (Corvus)",
+    "answer": ["/_img/Browser_Corvus_skill_3.webp"]
+  },
+  {
+    "question": "Ancestor's Amulet skill icon look like? (Dorian)",
+    "answer": ["/_img/Browser_Dorian_skill_2.webp"]
+  },
+  {
+    "question": "Astral Projection skill icon look like? (Nebula)",
+    "answer": ["/_img/Browser_Nebula_skill_1.webp"]
+  },
+  {
+    "question": "Awakening skill icon look like? (Ishmael)",
+    "answer": ["/_img/Browser_Ishmael_skill_1.webp"]
+  },
+  {
+    "question": "Battle Song skill icon look like? (Sebastian)",
+    "answer": ["/_img/Browser_Sebastian_skill_2.webp"]
+  },
+  {
+    "question": "Big Badda Boom skill icon look like? (Daredevil)",
+    "answer": ["/_img/Browser_Daredevil_skill_1.webp"]
+  },
+  {
+    "question": "Black Arrow icon look like? (Dark Star)",
+    "answer": ["/_img/Browser_Dark_Star_skill_1.webp"]
+  },
+  {
+    "question": "Blessed Vanguard skill icon look like? (Tristan)",
+    "answer": ["/_img/Mobile_Tristan_skill_4.webp"]
+  },
+  {
+    "question": "Boldness skill icon look like? (Peppy)",
+    "answer": ["/_img/Browser_Peppy_skill_2.webp"]
+  },
+  {
+    "question": "Blade Whirlwind skill icon look like? (Keira)",
+    "answer": ["/_img/Browser_Keira_skill_1.webp"]
+  },
+  {
+    "question": "Bottomless Belly skill icon look like? (Chabba)",
+    "answer": ["/_img/Browser_Chabba_skill_4.webp"]
+  },
+  {
+    "question": "Careless Wish skill icon look like? (Amira)",
+    "answer": ["/_img/Mobile_Amira_skill_1.webp"]
+  },
+  {
+    "question": "Celestial Guardians skill icon look like? (Helios)",
+    "answer": ["/_img/Browser_Helios_skill_3.webp"]
+  },
+  {
+    "question": "Chain Lightning skill icon look like? (Lars)",
+    "answer": ["/_img/Browser_Lars_skill_2.webp"]
+  },
+  {
+    "question": "Conciliation skill icon look like? (Lian)",
+    "answer": ["/_img/Lian_skill_4.webp"]
+  },
+  {
+    "question": "Conductance skill icon look like? (Lars)",
+    "answer": ["/_img/Lars_skill_4.webp"]
+  },
+  {
+    "question": "Compassion skill icon look like? (Markus)",
+    "answer": ["/_img/Markus_skill_3.webp"]
+  },
+  {
+    "question": "Crystal of Selias skill icon look like? (Aurora)",
+    "answer": ["/_img/Aurora_skill_1.webp"]
+  },
+  {
+    "question": "Crystalline Onslaught skill icon look like? (Aurora)",
+    "answer": ["/_img/Aurora_skill_2.webp"]
+  },
+  {
+    "question": "Cursed Bones skill icon look like? (Mojo)",
+    "answer": ["/_img/Mojo_skill_3.webp"]
+  },
+  {
+    "question": "Dark Craft skill icon look like? (Ishmael)",
+    "answer": ["/_img/Ishmael_skill_3.webp"]
+  },
+  {
+    "question": "Dark Deal skill icon look like? (Phobos)",
+    "answer": ["/_img/Phobos_skill_3.webp"]
+  },
+  {
+    "question": "Deathflower skill icon look like? (Heidi)",
+    "answer": ["/_img/Heidi_skill_1.webp"]
+  },
+  {
+    "question": "Demolition Robot skill icon look like? (Arachne)",
+    "answer": ["/_img/Arachne_skill_2.webp"]
+  },
+  {
+    "question": "Demon's Allegiance skill icon look like? (Astaroth)",
+    "answer": ["/_img/Astaroth_skill_3.webp"]
+  },
+  {
+    "question": "Devourer of Magic skill icon look like? (Rufus)",
+    "answer": ["/_img/Rufus_skill_3.webp"]
+  },
+  {
+    "question": "Discharge! skill icon look like? (Daredevil)",
+    "answer": ["/_img/Daredevil_skill_2.webp"]
+  },
+  {
+    "question": "Elixir of Vigor skill icon look like? (Jet)",
+    "answer": ["/_img/Jet_skill_1.webp"]
+  },
+  {
+    "question": "Embrace of Pain icon look like? (Yasmine)",
+    "answer": ["/_img/Yasmine_skill_3.webp"]
+  },
+  {
+    "question": "Equilibrium skill icon look like? (Nebula)",
+    "answer": ["/_img/Nebula_skill_4.webp"]
+  },
+  {
+    "question": "Eternal Wisdom skill icon look like? (Satori)",
+    "answer": ["/_img/Satori_skill_3.webp"]
+  },
+  {
+    "question": "Explosive Sphere skill icon look like? (Kai)",
+    "answer": ["/_img/Kai_skill_3.webp"]
+  },
+  {
+    "question": "Fire Breath skill icon look like? (Litith)",
+    "answer": ["/_img/Lilith_skill_3.webp"]
+  },
+  {
+    "question": "Focus of Hatred Skill icon look like? (Ziri)",
+    "answer": ["/_img/Ziri_skill_1.webp"]
+  },
+  {
+    "question": "Fat Layer skill icon look like? (Chabba)",
+    "answer": ["/_img/Chabba_skill_3.webp"]
+  },
+  {
+    "question": "Flame Veil skill icon look like? (Astaroth)",
+    "answer": ["/_img/Astaroth_skill_1.webp"]
+  },
+  {
+    "question": "Frolic skill icon look like? (Peppy)",
+    "answer": ["/_img/Peppy_skill_3.webp"]
+  },
+  {
+    "question": "Gehenna skill icon look like? (Luther)",
+    "answer": ["/_img/Luther_skill_3.webp"]
+  },
+  {
+    "question": "Harmony of the Grove skill icon look like? (Alvanor)",
+    "answer": ["/_img/Alvanor_skill_4.webp"]
+  },
+  {
+    "question": "Healing Beam skill icon look like? (Thea)",
+    "answer": ["/_img/Thea_skill_2.webp"]
+  },
+  {
+    "question": "Healing Spirits skill icon look like? (Mojo)",
+    "answer": ["/_img/Mojo_skill_2.webp"]
+  },
+  {
+    "question": "Heavy Wisdom skill icon look like? (Cornelius)",
+    "answer": ["/_img/Cornelius_skill_1.webp"]
+  },
+  {
+    "question": "Hypnotic Ball skill icon look like? (Lian)",
+    "answer": ["/_img/Lian_skill_2.webp"]
+  },
+  {
+    "question": "Inordinate Fury skill icon look like? (Jet)",
+    "answer": ["/_img/Jet_skill_4.webp"]
+  },
+  {
+    "question": "High-Voltage Module skill icon look like? (Isaac)",
+    "answer": ["/_img/Isaac_skill_4.webp"]
+  },
+  {
+    "question": "I see you skill icon look like? (Jhu)",
+    "answer": ["/_img/Jhu_skill_3.webp"]
+  },
+  {
+    "question": "Pulsing Comet skill icon look like?",
+    "answer": ["/_img/pulsing_comet.webp"]
+  },
+  {
+    "question": "Icy Vengeance skill icon look like? (Krista)",
+    "answer": ["/_img/Krista_skill_1.webp"]
+  },
+  {
+    "question": "Imminent Reckoning skill icon look like? (Satori)",
+    "answer": ["/_img/Satori_skill_4.webp"]
+  },
+  {
+    "question": "Infernal Rift skill icon look like? (Lilith)",
+    "answer": ["/_img/Lilith_skill_2.webp"]
+  },
+  {
+    "question": "Ion Cyclon skill icon look like? (Judge)",
+    "answer": ["/_img/Judge_skill_1.webp"]
+  },
+  {
+    "question": "Lead Storm skill icon look like? (Ginger)",
+    "answer": ["/_img/Ginger_skill_1.webp"]
+  },
+  {
+    "question": "Leper skill icon look like? (Jorgen)",
+    "answer": ["/_img/Jorgen_skill_3.webp"]
+  },
+  {
+    "question": "Many Truths skill icon look like? (Elmir)",
+    "answer": ["/_img/Elmir_skill_4.webp"]
+  },
+  {
+    "question": "Memory Loss skill icon look like? (Cornelius)",
+    "answer": ["/_img/Cornelius_skill_4.webp"]
+  },
+  {
+    "question": "Mirage skill icon look like? (Elmir)",
+    "answer": ["/_img/Elmir_skill_2.webp"]
+  },
+  {
+    "question": "Nexus of Horror skill icon look like? (K'arkh)",
+    "answer": ["/_img/Karkh_skill_1.webp"]
+  },
+  {
+    "question": "Negator of Laws skill icon look like? (K'arkh)",
+    "answer": ["/_img/Karkh_skill_2.webp"]
+  },
+  {
+    "question": "Phantom skill icon look like? (Ishmael)",
+    "answer": ["/_img/Ishmael_skill_2.webp"]
+  },
+  {
+    "question": "Phoenix's Embrace skill icon look like? (Aidan)",
+    "answer": ["/_img/Aidan_skill_1.webp"]
+  },
+  {
+    "question": "Piecing Light skill icon look like? (Aurora)",
+    "answer": ["/_img/Aurora_skill_3.webp"]
+  },
+  {
+    "question": "Plasma Explosion skill icon look like? (Arachne)",
+    "answer": ["/_img/Arachne_skill_4.webp"]
+  },
+  {
+    "question": "Poisonous Bonds skill icon look like? (Maya)",
+    "answer": ["/_img/Maya_skill_3.webp"]
+  },
+  {
+    "question": "Potion of Fatigue skill icon look like? (Jet)",
+    "answer": ["/_img/Jet_skill_3.webp"]
+  },
+  {
+    "question": "Predator's Charge skill icon look like? (Astrid and Lucas)",
+    "answer": ["/_img/Astrid_and_Lucas_skill_3.webp"]
+  },
+  {
+    "question": "Protective Dome skill icon look like? (Cornelius)",
+    "answer": ["/_img/Cornelius_skill_3.webp"]
+  },
+  {
+    "question": "Punishing Arrows skill icon look like? (Artemis)",
+    "answer": ["/_img/Artemis_skill_4.webp"]
+  },
+  {
+    "question": "Putrefaction skill icon look like? (Cleaver)",
+    "answer": ["/_img/Cleaver_skill_2.webp"]
+  },
+  {
+    "question": "Queen of Flowers skill icon look like? (Maya)",
+    "answer": ["/_img/Maya_skill_1.webp"]
+  },
+  {
+    "question": "Rakashi's Oath skill icon look like? (Rufus)",
+    "answer": ["/_img/Rufus_skill_4.webp"]
+  },
+  {
+    "question": "Rampant Nature skill icon look like? (Astrid and Lucas)",
+    "answer": ["/_img/Astrid_and_Lucas_skill_2.webp"]
+  },
+  {
+    "question": "Ranging Shot skill icon look like? (Ginger)",
+    "answer": ["/_img/Ginger_skill_4.webp"]
+  },
+  {
+    "question": "Retribution skill icon look like? (Dante)",
+    "answer": ["/_img/Dante_skill_3.webp"]
+  },
+  {
+    "question": "Righteous Light skill icon look like? (Markus)",
+    "answer": ["/_img/Markus_skill_2.webp"]
+  },
+  {
+    "question": "Rusty Hook skill icon look like? (Cleaver)",
+    "answer": ["/_img/Cleaver_skill_1.webp"]
+  },
+  {
+    "question": "Sacred Rage skill icon look like? (Tristan)",
+    "answer": ["/_img/Tristan_skill_1.webp"]
+  },
+  {
+    "question": "Second Wind skill icon look like? (Thea)",
+    "answer": ["/_img/Thea_skill_4.webp"]
+  },
+  {
+    "question": "Secret of Longevity skill icon look like? (Martha)",
+    "answer": ["/_img/Martha_skill_2.webp"]
+  },
+  {
+    "question": "Seed of Destruction skill icon look like? (Iris)",
+    "answer": ["/_img/Iris_skill_4.webp"]
+  },
+  {
+    "question": "Shackles of Weakness skill icon look like? (Dante)",
+    "answer": ["/_img/Dante_skill_4.webp"]
+  },
+  {
+    "question": "Shelter of Sands skill icon look like? (Ziri)",
+    "answer": ["/_img/Ziri_skill_3.webp"]
+  },
+  {
+    "question": "Solar Sanctuary skill icon look like? (Thea)",
+    "answer": ["/_img/Thea_skill_1.webp"]
+  },
+  {
+    "question": "Solar Wind icon look like? (Helios)",
+    "answer": ["/_img/Helios_skill_2.webp"]
+  },
+  {
+    "question": "Spell Expert skill icon look like? (Faceless)",
+    "answer": ["/_img/Faceless_skill_4.webp"]
+  },
+  {
+    "question": "Spirit Purification skill icon look like? (Satori)",
+    "answer": ["/_img/Satori_skill_2.webp"]
+  },
+  {
+    "question": "Star Birth skill icon look like? (Helios)",
+    "answer": ["/_img/Helios_skill_1.webp"]
+  },
+  {
+    "question": "Storm Blades skill icon look like? (Ishmael)",
+    "answer": ["/_img/Ishmael_skill_4.webp"]
+  },
+  {
+    "question": "Strike of the Damned skill icon look like? (Corvus)",
+    "answer": ["/_img/Corvus_skill_1.webp"]
+  },
+  {
+    "question": "Tea Party skill icon look like? (Martha)",
+    "answer": ["/_img/Martha_skill_3.webp"]
+  },
+  {
+    "question": "Spirits will heal me skill icon look like? (Jhu)",
+    "answer": ["/_img/Jhu_skill_4.webp"]
+  },
+  {
+    "question": "Thirst for Blood skill icon look like? (Daredevil)",
+    "answer": ["/_img/Daredevil_skill_4.webp"]
+  },
+  {
+    "question": "Trembling Hands skill icon look like? (Phobos)",
+    "answer": ["/_img/Phobos_skill_2.webp"]
+  },
+  {
+    "question": "Toxic Pollen skill icon look like? (Maya)",
+    "answer": ["/_img/Maya_skill_2.webp"]
+  },
+  {
+    "question": "Toxic Spit skill icon look like? (Heidi)",
+    "answer": ["/_img/Heidi_skill_2.webp"]
+  },
+  {
+    "question": "Under the Forest Canopy skill icon look like? (Alvanor)",
+    "answer": ["/_img/Alvanor_skill_1.webp"]
+  },
+  {
+    "question": "Vow of Silence skill icon look like? (Thea)",
+    "answer": ["/_img/Thea_skill_3.webp"]
+  },
+  {
+    "question": "Wandering Lights skill icon look like? (Lian)",
+    "answer": ["/_img/Lian_skill_3.webp"]
+  },
+  {
+    "question": "Wild Hunger skill icon look like? (Chabba)",
+    "answer": ["/_img/Chabba_skill_1.webp"]
+  },
+  {
+    "question": "Wings of Night skill icon look like? (Dorian)",
+    "answer": ["/_img/Dorian_skill_3.webp"]
+  },
+  {
+    "question": "Wrath of Nature skill icon look like? (Alvanor)",
+    "answer": ["/_img/Alvanor_skill_2.webp"]
+  },
+  {
+    "question": "You will not stop me skill icon look like? (Jhu)",
+    "answer": ["/_img/Jhu_skill_1.webp"]
+  },
+  {
+    "question": "Zenith skill icon look like? (Celeste)",
+    "answer": ["/_img/Celeste_skill_4.webp"]
+  },
+  {
+    "question": "Titan artifact \"Andvari's Arrowslinger\" look like? (Slyvia)",
+    "answer": ["/_img/Sylva_skill_1.webp"]
+  },
+  {
+    "question": "Hex skill icon look like? (Mojo)",
+    "answer": ["/_img/Mojo_skill_4.webp"]
+  },
+  {
+    "question": "Suppressive Fire skill icon look like?",
+    "answer": ["/_img/Ginger_skill_3.webp"]
+  },
+  {
+    "question": "Firefight skill icon look like?",
+    "answer": ["/_img/Daredevil_skill_3.webp"]
+  },
+  {
+    "question": "Dancing Blades skill icon look like?",
+    "answer": ["/_img/Keira_skill_3.webp"]
+  },
+  {
+    "question": "Antimatter Blast skill icon look like?",
+    "answer": ["/_img/Orion_skill_3.webp"]
+  },
+  {
+    "question": "Rakashi's Barrier skill icon look like?",
+    "answer": ["/_img/Rufus_skill_1.webp"]
+  },
+  {
+    "question": "Nature's Blessing skill icon look like?",
+    "answer": ["/_img/Nature_barrier.webp"]
+  },
+  {
+    "question": "What does Robot Energy look like?",
+    "answer": ["/_img/Robot_energy.webp"]
+  },
+  {
+    "question": "Titan artifact \"Dark Spirit Totem\" look like?",
+    "answer": ["/_img/Dark_spirit_totem.webp"]
+  }	
 ]
