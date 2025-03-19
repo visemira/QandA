@@ -8,14 +8,34 @@
     <title>Question Answer App</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+    <style>
+        /* Make the Question Input sticky */
+        #sticky {
+            position: sticky;
+            top: 0px; /* Adjust based on your preference */
+            z-index: 10; /* Make sure it stays on top */
+        }
+
+        /* Style for the container */
+        .main-content {
+            padding-top: 0px; /* Space for the sticky input */
+        }
+    </style>
 </head>
 <body class="bg-gray-100 p-4">
-    <div class="max-w-lg mx-auto bg-white p-4 rounded-lg shadow-lg">
-        
+    <div 
+        class="max-w-lg mx-auto bg-white pt-4 pb-4 rounded-lg shadow-lg bg-blue-200">
         <!-- Language Selection -->
-        <div class="flex items-center justify-end mb-4">
-            <label for="language" id="languageLabel" class="block font-medium text-gray-700 mr-4"></label>
-            <select id="language" class="w-1/2 p-1 text-sm border border-gray-300 rounded">
+        <div class="flex items-center justify-end mb-4 pl-6 pr-6">
+            <label 
+                for="language" 
+                id="languageLabel" 
+                class="block font-medium text-gray-700 mr-4">
+            </label>
+            <select 
+                id="language" 
+                class="w-1/2 p-1 text-sm border border-gray-300 rounded-lg"
+                >
                 <option value="en">English</option>
                 <option value="ru">Русский</option>
                 <option value="it">Italiano</option>
@@ -31,7 +51,7 @@
         <hr class="mb-2">
         
         <!-- Question Title and Show Images Button -->
-        <div class="flex justify-between mb-2">
+        <div class="flex justify-between pl-6 pr-6">
             <h1 id="questionTitle" class="text-lg font-bold"></h1>
             
             <button id="loadImagesButton" class="flex text-white rounded bg-pink-100 p-.5">
@@ -62,18 +82,25 @@
             </button>
         </div>
 
+        <div 
+        id="sticky"
+        class="w-full bg-blue-200 pb-4 pt-2 pl-4 pr-4 rounded shadow-lg border-2"
+        
+        >
         <!-- Question Input -->
         <input 
             id="questionInput" 
             type="text" 
             placeholder="Enter your question here..." 
-            class="w-full p-2 border border-gray-300 rounded mb-4">
+            class="w-full p-2 pl-6 pr-6 rounded-full">
         
         <!-- Answer Display -->
-        <div id="answer" class="bg-green-100 p-2 rounded-lg shadow-md grid grid-cols-2 gap-4 mt-1 mb-2"></div>
+        <div id="answer" class="bg-green-100 p-2 rounded-lg shadow-md grid grid-cols-2 gap-4 mt-2"></div>
+        </div>
 
+        <hr class="mt-3">
         <!-- Image Display Area -->
-        <div id="imagesDisplay" class="mt-2 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div id="imagesDisplay" class="p-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <!-- Dynamically loaded images will appear here -->
         </div>
     </div>
