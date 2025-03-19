@@ -44,24 +44,14 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     // Base URL to prepend to relative image paths
-    const baseUrl = "https://github.com/visemira/QandA/blob/main"; // Change this to your actual base URL
-
-    // CORS Proxy URL (to avoid CORS issues with GitHub)
-    const corsProxy = 'https://cors-anywhere.herokuapp.com/';
+    const baseUrl = "https://raw.githubusercontent.com/visemira/QandA/refs/heads/main"; // Change this to your actual base URL
 
     // Function to load questions from the selected language JSON file
     function loadQuestions(language) {
         const fileName = `data/questions_${language}.json`;
-        const targetUrl = `https://raw.githubusercontent.com/visemira/QandA/main/${fileName}`;
 
-        // Using CORS proxy to bypass CORS issues
-        fetch(corsProxy + targetUrl)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                return response.json();
-            })
+        fetch(fileName)
+            .then(response => response.json())
             .then(questions => {
                 // Initialize Fuse.js for fuzzy searching
                 const options = {
