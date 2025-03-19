@@ -6,6 +6,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const linkText = document.getElementById("linkText");
     const languageLabel = document.getElementById("languageLabel");
     const questionTitle = document.getElementById("questionTitle");
+    const loadImagesButton = document.getElementById("loadImagesButton");
+    const imagesDisplay = document.getElementById("imagesDisplay");
+
+    // Base URL for relative image paths
+    const baseUrl = "https://raw.githubusercontent.com/visemira/QandA/refs/heads/main";
 
     // Store translations for each language
     const translations = {
@@ -62,7 +67,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 imagesDisplay.innerHTML = ""; // Clear previous images
 
                 images.forEach(image => {
-                    // Check if the question is an image URL
                     const imageUrl = image.question.startsWith("/") ? baseUrl + image.question : image.question;
                     const answers = image.answer.join(", ");
                     imagesDisplay.innerHTML += `
@@ -78,26 +82,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 imagesDisplay.innerHTML = "<p class='text-red-500'>Failed to load images.</p>";
             });
     }
-
-    // Load default language (e.g., English) and questions
-    const savedLanguage = localStorage.getItem("selectedLanguage") || "en"; // Default to "en" if not saved
-    languageSelector.value = savedLanguage;
-    updateUI(savedLanguage);
-
-    // Change language based on user selection
-    languageSelector.addEventListener("change", (e) => {
-        const selectedLanguage = e.target.value;
-        updateUI(selectedLanguage);
-        localStorage.setItem("selectedLanguage", selectedLanguage); // Save the selected language
-    });
-
-    // Load images when the button is clicked
-    loadImagesButton.addEventListener("click", () => {
-        loadImages();
-    });
-
-    // Base URL to prepend to relative image paths
-    const baseUrl = "https://raw.githubusercontent.com/visemira/QandA/refs/heads/main"; // Change this to your actual base URL
 
     // Function to load questions from the selected language JSON file
     function loadQuestions(language) {
@@ -170,15 +154,6 @@ document.addEventListener("DOMContentLoaded", () => {
         return !url.startsWith("http://") && !url.startsWith("https://");
     }
 
-    // Function to update UI text based on the selected language
-    function updateUI(language) {
-        mainTitle.innerHTML = translations[language].mainTitle;
-        linkText.innerHTML = translations[language].linkText;
-        languageLabel.textContent = translations[language].languageLabel;
-        questionTitle.textContent = translations[language].questionTitle;
-        questionInput.placeholder = translations[language].placeholder;
-    }
-
     // Load default language questions (e.g., English)
     const savedLanguage = localStorage.getItem("selectedLanguage") || "en"; // Default to "en" if not saved
     languageSelector.value = savedLanguage;
@@ -191,5 +166,10 @@ document.addEventListener("DOMContentLoaded", () => {
         loadQuestions(selectedLanguage);
         updateUI(selectedLanguage);
         localStorage.setItem("selectedLanguage", selectedLanguage); // Save the selected language
+    });
+
+    // Load images when the button is clicked
+    loadImagesButton.addEventListener("click", () => {
+        loadImages();
     });
 });
