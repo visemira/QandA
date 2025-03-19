@@ -187,7 +187,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Initial setup: hide images and set to 3 columns
-    imagesDisplay.style.display = 'none'; // Hide images initially
+    imagesDisplay.style.display = 'grid'; // Hide images initially
     imagesDisplay.classList.add("grid-cols-3"); // Set grid to 3 columns initially
 
     // Load default language questions (e.g., English)
