@@ -1,0 +1,264 @@
+[
+  {
+    "question": "/img/Outland_Coin.png",
+    "answer": [
+      "Монета Оутленда"
+    ]
+  },
+  {
+    "question": "/img/Green_Brothers.png",
+    "answer": [
+      "Братья"
+    ]
+  },
+  {
+    "question": "/img/Green_Branch_of_Antiaris.png",
+    "answer": [
+      "Ветвь Антиариса"
+    ]
+  },
+  {
+    "question": "/img/Rufus_Avatar.png",
+    "answer": [
+      "Руфус"
+    ]
+  },
+  {
+    "question": "/img/Vulcan_Avatar.png",
+    "answer": [
+      "Вулкан"
+    ]
+  },
+  {
+    "question": "/img/Iyari.png",
+    "answer": [
+      "Ияри"
+    ]
+  },
+  {
+    "question": "/img/Keros_icon.png",
+    "answer": [
+      "Керос"
+    ]
+  },
+  {
+    "question": "/img/Scythe_of_Redemption.png",
+    "answer": [
+      "Коса Искупления"
+    ]
+  },
+  {
+    "question": "/img/Bleeding_Steel.png",
+    "answer": [
+      "Кровавый Сталь"
+    ]
+  },
+  {
+    "question": "/img/Black_Fox's_Fan.png",
+    "answer": [
+      "Веер Черного Лиса"
+    ]
+  },
+  {
+    "question": "/img/Ragni's_Hammer.png",
+    "answer": [
+      "Молотов Рагни"
+    ]
+  },
+  {
+    "question": "/img/Browser_Kai_skill_3.png",
+    "answer": [
+      "Взрывная сфера"
+    ]
+  },
+  {
+    "question": "/img/Galahad_skill_2.png",
+    "answer": [
+      "Неостановимый заряд"
+    ]
+  },
+  {
+    "question": "/img/Necromancy.png",
+    "answer": [
+      "Некромантия"
+    ]
+  },
+  {
+    "question": "/img/Evil's_Bane.png",
+    "answer": [
+      "Артемида"
+    ]
+  },
+  {
+    "question": "/img/Black_Fox's_Fan.png",
+    "answer": [
+      "Сатори"
+    ]
+  },
+  {
+    "question": "/img/Hyper_Booster_DS-1.png",
+    "answer": [
+      "Арахна"
+    ]
+  },
+  {
+    "question": "/img/Spear_of_Fate.png",
+    "answer": [
+      "Данте"
+    ]
+  },
+  {
+    "question": "/img/DD-901_Arsenal.png",
+    "answer": [
+      "Орион"
+    ]
+  },
+  {
+    "question": "/img/Elven_Lute.png",
+    "answer": [
+      "Себастьян"
+    ]
+  },
+  {
+    "question": "/img/Archivist's_Staff.png",
+    "answer": [
+      "Корнелиус"
+    ]
+  },
+  {
+    "question": "/img/Bleeding_Steel.png",
+    "answer": [
+      "Дориан"
+    ]
+  },
+  {
+    "question": "/img/Ring_of_Agility.png",
+    "answer": [
+      "Джинджер",
+      "Арахна",
+      "Небула"
+    ]
+  },
+  {
+    "question": "/img/Defender's_Covenant.png",
+    "answer": [
+      "Клеавер"
+    ]
+  },
+  {
+    "question": "/img/Concubine's_Khanjars.png",
+    "answer": [
+      "Ясмин"
+    ]
+  },
+  {
+    "question": "/img/Celeste's_Crown.png",
+    "answer": [
+      "Целеста"
+    ]
+  },
+  {
+    "question": "/img/Shavarakk's_Blood.png",
+    "answer": [
+      "Йорген"
+    ]
+  },
+  {
+    "question": "/img/Wanderer's_Mantle.png",
+    "answer": [
+      "Кай"
+    ]
+  },
+  {
+    "question": "/img/Octaviana's_Blades.png",
+    "answer": [
+      "Кейра"
+    ]
+  },
+  {
+    "question": "/img/Hidden_Demon's_Katars.png",
+    "answer": [
+      "Ишмаэль"
+    ]
+  },
+  {
+    "question": "/img/Warrior's_Code.png",
+    "answer": [
+      "Ясмин",
+      "Себастьян",
+      "Джу и Дердевил"
+    ]
+  },
+  {
+    "question": "/img/Wand_of_the_Thousand_Suns.png",
+    "answer": [
+      "Гелиос"
+    ]
+  },
+  {
+    "question": "/img/Ring_of_Strength.png",
+    "answer": [
+      "Корвус",
+      "Клеавер"
+    ]
+  },
+  {
+    "question": "/img/Shrapnel_Cannon.png",
+    "answer": [
+      "Фокс"
+    ]
+  },
+  {
+    "question": "/img/Devil_s_Contract.png",
+    "answer": [
+      "Лилит"
+    ]
+  },
+  {
+    "question": "/img/Item_on_and_off.png",
+    "answer": [
+      "Дердевил"
+    ]
+  },
+  {
+    "question": "/img/Raven's_Skull.png",
+    "answer": [
+      "Морриган"
+    ]
+  },
+  {
+    "question": "/img/Book_of_Illusions.png",
+    "answer": [
+      "Хайди",
+      "Аврора",
+      "Данте",
+      "Джет",
+      "Небула",
+      "Цин Мао"
+    ]
+  },
+  {
+    "question": "/img/Tome_of_Arcane_Knowledge.png",
+    "answer": [
+      "Руфус (и многие другие)"
+    ]
+  },
+  {
+    "question": "/img/Ancestral_Anvil.png",
+    "answer": [
+      "Фафнир"
+    ]
+  },
+  {
+    "question": "/img/Ms._Whirligig.png",
+    "answer": [
+      "Пеппи"
+    ]
+  },
+  {
+    "question": "/img/Mother_Tree's_Branch.png",
+    "answer": [
+      "Майя"
+    ]
+  }
+]
