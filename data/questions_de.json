@@ -24,13 +24,13 @@
         ]
     },
     {
-        "question": "gains Charge instead of Energy?",
+        "question": "Gewinne Ladung anstelle von Energie?",
         "answer": [
             "Isaac"
         ]
     },
     {
-        "question": "doesn't use a staff?",
+        "question": "Verwendet kein Personal?",
         "answer": [
             "Mojo"
         ]
@@ -57,6 +57,3296 @@
         "question": "vorübergehend den Hauptstat des Gegners senken",
         "answer": [
             "Dante"
+        ]
+    },
+    {
+        "question": "Identische weiße Muster Müssen Sie Ihr erstes violettes bekommen?",
+        "answer": [
+            "8"
+        ]
+    },
+    {
+        "question": "Die zweite Fähigkeit des Haustieres erhöht die Chance auf alle Helden aus Dodge?",
+        "answer": [
+            "Kain"
+        ]
+    },
+    {
+        "question": "Maximale Anzahl von Mustern, die Sie in eine Kriegsflagge verweben können?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Kann ein Verbündeter mit niedrigem Gesundheitswesen in das Zentrum ihres Teams verschieben?",
+        "answer": [
+            "Rabe"
+        ]
+    },
+    {
+        "question": "Battle Speed ​​-Option kann bei Kampagnenmissionen nicht verwendet werden?",
+        "answer": [
+            "X0.5"
+        ]
+    },
+    {
+        "question": "Max Boost Sie können sich auf die Tropfenrate eines Helden im Seelenatrium bewerben?",
+        "answer": [
+            "250%"
+        ]
+    },
+    {
+        "question": "Die Hauptstatus des Helden ist Stärke?",
+        "answer": [
+            "Filter"
+        ]
+    },
+    {
+        "question": "ist der Grove Keeper",
+        "answer": [
+            "Thea"
+        ]
+    },
+    {
+        "question": "Titan ist ein leichter Titan?",
+        "answer": [
+            "Iyari"
+        ]
+    },
+    {
+        "question": "Titel Dark Bears?",
+        "answer": [
+            "Inkarnation der Dunkelheit"
+        ]
+    },
+    {
+        "question": "maximaler Ascension Rang?",
+        "answer": [
+            "5"
+        ]
+    },
+    {
+        "question": "Hat ihre eigene Themenmusik im Spiel?",
+        "answer": [
+            "Thea"
+        ]
+    },
+    {
+        "question": "Titan kann Feinde nicht betäuben?",
+        "answer": [
+            "Angus"
+        ]
+    },
+    {
+        "question": "Totems Kann ein Titan -Team gleichzeitig verwenden?",
+        "answer": [
+            "2"
+        ]
+    },
+    {
+        "question": "Können Titan -Hautsteine ​​während der Veranstaltung nicht verdient werden?",
+        "answer": [
+            "Elementare Synergie"
+        ]
+    },
+    {
+        "question": "Wenn Sie mit Rang beginnen können, können Sie einen Helden bewerten und 50 Smaragde erhalten?",
+        "answer": [
+            "Orange 4"
+        ]
+    },
+    {
+        "question": "Gildenmitglieder können am Zusammenstoß der Welten teilnehmen?",
+        "answer": [
+            "30"
+        ]
+    },
+    {
+        "question": "Kluft zwischen Jahreszeiten des Kampfes der Welten?",
+        "answer": [
+            "Eine Woche"
+        ]
+    },
+    {
+        "question": "STAT -Boost gewinnen die dunklen Titanen aus dem dunklen Spirit Totem?",
+        "answer": [
+            "Gesundheit"
+        ]
+    },
+    {
+        "question": "Hat ein Champion -Haut, der mit goldenen Trophäen gekauft werden kann?",
+        "answer": [
+            "Dorian",
+            "Cleaver",
+            "Helios",
+            "JHU",
+            "JORGEN",
+            "Maya",
+            "Legende"
+        ]
+    },
+    {
+        "question": "Ist eine Prinzessin?",
+        "answer": [
+            "Astrid"
+        ]
+    },
+    {
+        "question": "Ist der Herrschaft nicht fremd?",
+        "answer": [
+            "Arachne"
+        ]
+    },
+    {
+        "question": "Titan trägt das Artefakt, das als Nephtis 'Vambraces bekannt ist?",
+        "answer": [
+            "Mort"
+        ]
+    },
+    {
+        "question": "Titan erhöht die maximale Gesundheit der Verbündeten?",
+        "answer": [
+            "Solaris"
+        ]
+    },
+    {
+        "question": "Name des dunklen Super Titans?",
+        "answer": [
+            "Dunkel"
+        ]
+    },
+    {
+        "question": "Der Modus hat keine Cross-Server-Wettbewerbe?",
+        "answer": [
+            "Gildenkrieg"
+        ]
+    },
+    {
+        "question": "Für den Verkauf von Heldenausrüstungsgegenständen erhalten?",
+        "answer": [
+            "Gold"
+        ]
+    },
+    {
+        "question": "Kann Feinde nicht betäuben?",
+        "answer": [
+            "Isaac"
+        ]
+    },
+    {
+        "question": "Stufen gibt es im Cross-Server-Turnier der Elemente?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Hat keine kritische Hit -Zufallsglyphe?",
+        "answer": [
+            "Isaac"
+        ]
+    },
+    {
+        "question": "Hat sich ein Kader für den Kampf gegen Dämonen zusammengestellt?",
+        "answer": [
+            "Tristan"
+        ]
+    },
+    {
+        "question": "Zweige gibt es insgesamt auf dem großen Baum der Weisheit?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Insignien sind für den Aufstieg von Helden mit Kontrolle als Hauptaufgabe erforderlich?",
+        "answer": [
+            "Insignien der Willenskraft"
+        ]
+    },
+    {
+        "question": "Die Spieler erhalten die Auszeichnung für die Titanit, die tagsüber bewirtschaftet werden?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Die angreifenden Titanen des Elements verursachen weniger Schaden gegen die Erdkrone?",
+        "answer": [
+            "Wasser"
+        ]
+    },
+    {
+        "question": "Titanen der Rolle haben keine Champion Skins?",
+        "answer": [
+            "Marksmen"
+        ]
+    },
+    {
+        "question": "ein Katzenthändler in ihrer Maskerade -Haut aufweist?",
+        "answer": [
+            "Cornelius"
+        ]
+    },
+    {
+        "question": "Kontrolleffekte maximal die Anklage für die erste Fähigkeit von Khorus?",
+        "answer": [
+            "Schweigen"
+        ]
+    },
+    {
+        "question": "von Heidis Statistiken können nicht mit Runen befördert werden?",
+        "answer": [
+            "Gesundheit"
+        ]
+    },
+    {
+        "question": "von Heidis Statistiken können nicht mit Glyphen befördert werden?",
+        "answer": [
+            "Gesundheit"
+        ]
+    },
+    {
+        "question": "Die Helden -Aufstiegsfertigkeit wandelt überschüssige Heilung in Schild um?",
+        "answer": [
+            "Thea"
+        ]
+    },
+    {
+        "question": "Heroes hat Aufstiegsfähigkeiten?",
+        "answer": [
+            "Nebel",
+            "Qing Mao",
+            "Thea",
+            "Dunkler Stern",
+            "Artemis",
+            "Kai",
+            "Judge",
+            "Lilith",
+            "Aurora",
+            "Orion",
+            "Heidi",
+            "Keira",
+            "Ninja Turtles",
+            "Galahad",
+            "Cleaver",
+            "Schwungvoll",
+            "Ishmael"
+        ]
+    },
+    {
+        "question": "Hat keine Solarhaut?",
+        "answer": [
+            "Cleaver"
+        ]
+    },
+    {
+        "question": "Sie können Khorus nicht als Patron wählen?",
+        "answer": [
+            "Dorian"
+        ]
+    },
+    {
+        "question": "Heldin kann einen Teil der Seele im Körper des Feindes aufdecken?",
+        "answer": [
+            "Iris"
+        ]
+    },
+    {
+        "question": "Temporary Guild Raid Buff steigert den Schaden, den das Team mit Albträumen verursacht?",
+        "answer": [
+            "Dreamers Vergeltung"
+        ]
+    },
+    {
+        "question": "Hat die himmlische Haut?",
+        "answer": [
+            "Satori"
+        ]
+    },
+    {
+        "question": "Kann nicht aus Truhen in Abenteuern gewonnen werden?",
+        "answer": [
+            "Haustierseelensteine"
+        ]
+    },
+    {
+        "question": "Zeiten pro Woche können Sie den Astralseer kostenlos benutzen?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Abenteuer gibt es nicht?",
+        "answer": [
+            "Shavaraks Sturz"
+        ]
+    },
+    {
+        "question": "Abenteuer erfordert Team Level 130?",
+        "answer": [
+            "Strudel des Chaos"
+        ]
+    },
+    {
+        "question": "Wöchentliche Versuche, gegen den Raid -Chef zu kämpfen, bekommt jeder Spieler jeder Spieler?",
+        "answer": [
+            "5"
+        ]
+    },
+    {
+        "question": "Kann nicht von Gildenangriffe erhalten werden?",
+        "answer": [
+            "Gold"
+        ]
+    },
+    {
+        "question": "Wer kann zu einer geschlossenen Abenteuergruppe eingeladen werden?",
+        "answer": [
+            "Gildenkameraden"
+        ]
+    },
+    {
+        "question": "Tägliche Gegenstände Austauschlimit für Gildenaktivitätspunkte?",
+        "answer": [
+            "2000"
+        ]
+    },
+    {
+        "question": "Hero Soul Stones Enthält die kleinere Helden -Seelen -Stein -Brust?",
+        "answer": [
+            "50"
+        ]
+    },
+    {
+        "question": "Hero Soul Stones braucht es, um einen Helden vom 5. Stern zum absoluten Stern zu entwickeln?",
+        "answer": [
+            "300"
+        ]
+    },
+    {
+        "question": "Zeit muss vergehen, bevor Sie in der täglichen Quest wieder freie Energie beanspruchen können?",
+        "answer": [
+            "1 Stunde"
+        ]
+    },
+    {
+        "question": "Hauptpreis ist in einer Artefakt -Truhe zu finden?",
+        "answer": [
+            "Chaoskerne",
+            "Artefaktmünzen"
+        ]
+    },
+    {
+        "question": "Zweige hat der große Baum der Weisheit?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Fenster können Sie im Hauptgeschäft sehen?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Ressource kann nicht als Raid -Belohnung erhalten werden?",
+        "answer": [
+            "Alte Weisheit Kristall"
+        ]
+    },
+    {
+        "question": "Ressource gibt es im Spiel nicht?",
+        "answer": [
+            "Heiligkeit Insignia"
+        ]
+    },
+    {
+        "question": "Hat die Fähigkeit \"Rune of Life\"?",
+        "answer": [
+            "Alvanor"
+        ]
+    },
+    {
+        "question": "Können Sie auf Teamebene ehrenwerte Guardian -Kisten zum Abschluss der täglichen Quest erhalten?",
+        "answer": [
+            "130"
+        ]
+    },
+    {
+        "question": "von den folgenden Helden hat keine barbarische Haut?",
+        "answer": [
+            "JHU"
+        ]
+    },
+    {
+        "question": "Hat eine Katze am Ende ihrer Mitarbeiter in ihrer Maskeradehaut?",
+        "answer": [
+            "Cornelius"
+        ]
+    },
+    {
+        "question": "verwandelt sich in eine ihrer Skins in eine Katze?",
+        "answer": [
+            "Jung"
+        ]
+    },
+    {
+        "question": "Erzdämon warten auf die Wächter?",
+        "answer": [
+            "Der Ofen des Horrors"
+        ]
+    },
+    {
+        "question": "maximal die Gabe der Elemente, die ein Held haben kann?",
+        "answer": [
+            "30"
+        ]
+    },
+    {
+        "question": "Wer war Lilith im Erzdemon?",
+        "answer": [
+            "Erste Frau"
+        ]
+    },
+    {
+        "question": "Göttin verehrt Ziri?",
+        "answer": [
+            "Akhreb Ummi"
+        ]
+    },
+    {
+        "question": "STE kann nicht über Glyphen gesteigert werden?",
+        "answer": [
+            "Weisheit",
+            "Ausdauer"
+        ]
+    },
+    {
+        "question": "Statistiken werden durch diese Titan -Artefakte gesteigert: Angriffssiegel, Verteidigungssiegel und Balancesiegel?",
+        "answer": [
+            "Gesundheit",
+            "Angriff"
+        ]
+    },
+    {
+        "question": "Schlechte Angewohnheit ist Rufus berüchtigt?",
+        "answer": [
+            "Trinken"
+        ]
+    },
+    {
+        "question": "Hat ein Katzenbegleiter?",
+        "answer": [
+            "Astrid"
+        ]
+    },
+    {
+        "question": "Wenn Sie das Ziel erfassen, haben Sie die meisten Punkte im Gildenkrieg?",
+        "answer": [
+            "Zitadelle"
+        ]
+    },
+    {
+        "question": "Einer der folgenden Helden hat keine Waffe in jeder Hand?",
+        "answer": [
+            "Markus"
+        ]
+    },
+    {
+        "question": "Von den folgenden Erschreibungen erschien die letzten in diesem Spiel?",
+        "answer": [
+            "Abenteuer",
+            "Titan Valley"
+        ]
+    },
+    {
+        "question": "Kann für Elementar -Turniermünzen gekauft werden?",
+        "answer": [
+            "Titan -Artefaktfragmente"
+        ]
+    },
+    {
+        "question": "Titel Dark Bears?",
+        "answer": [
+            "Inkarnation der Dunkelheit"
+        ]
+    },
+    {
+        "question": "Seymour finden?",
+        "answer": [
+            "Ghirwil City"
+        ]
+    },
+    {
+        "question": "Helden laufen am Hauptplatz?",
+        "answer": [
+            "Arena -Verteidigungsteam"
+        ]
+    },
+    {
+        "question": "Dungeon Level müssen Sie abschließen, um einen Ursache -Tiefenrahmen zu erhalten?",
+        "answer": [
+            "15000"
+        ]
+    },
+    {
+        "question": "Statistiken fehlt Helden?",
+        "answer": [
+            "Genauigkeit"
+        ]
+    },
+    {
+        "question": "Statistische Helden fehlen?",
+        "answer": [
+            "Genauigkeit"
+        ]
+    },
+    {
+        "question": "Haustiere sind im Spiel erhältlich?",
+        "answer": [
+            "10"
+        ]
+    },
+    {
+        "question": "Entsperren Sie den Seelenladen?",
+        "answer": [
+            "Fördern Sie jeden zum absoluten Stern oder erhalten Sie Cleaver"
+        ]
+    },
+    {
+        "question": "Ressourcen Müssen Sie Steine ​​für die Werbung für Haustiere kaufen?",
+        "answer": [
+            "Chaospartikel"
+        ]
+    },
+    {
+        "question": "Von diesen Gildenkriegsbefestigungen müssen mit Titanen erobert werden?",
+        "answer": [
+            "Frühling der Elemente"
+        ]
+    },
+    {
+        "question": "Ist Theas Titel?",
+        "answer": [
+            "Heiler des alten Hains"
+        ]
+    },
+    {
+        "question": "Rolle ist nicht Teil des Spiels?",
+        "answer": [
+            "Attentäter"
+        ]
+    },
+    {
+        "question": "Das Team Level ist erforderlich, um auf die Grand Arena zuzugreifen?",
+        "answer": [
+            "50"
+        ]
+    },
+    {
+        "question": "Shop verkauft Titan -Hautsteine?",
+        "answer": [
+            "Gildenkriegshop"
+        ]
+    },
+    {
+        "question": "Ressourcen können im Outland nicht erhalten werden?",
+        "answer": [
+            "Heldenseelensteine"
+        ]
+    },
+    {
+        "question": "Rufen Sie einen Standort im Abenteuer an, um einen Buff Ihres Teams auszuwählen?",
+        "answer": [
+            "Altar der Macht"
+        ]
+    },
+    {
+        "question": "Kann nicht aus Truhen in Abenteuern gewonnen werden?",
+        "answer": [
+            "Haustierseelensteine"
+        ]
+    },
+    {
+        "question": "Name des in Nordland wohnenden Eisvogels?",
+        "answer": [
+            "Astrild"
+        ]
+    },
+    {
+        "question": "Outland Boss wohnt in den Höhlen der Verzweiflung?",
+        "answer": [
+            "Illyssa der Weber"
+        ]
+    },
+    {
+        "question": "Outland Boss wohnt im Camp der Enslavers?",
+        "answer": [
+            "Brog der Eroberer"
+        ]
+    },
+    {
+        "question": "Outland Boss wohnt im feurigen Abgrund?",
+        "answer": [
+            "Vadjar die Verbrennungsanlage"
+        ]
+    },
+    {
+        "question": "Kann die weniger Seelensteinkiste erhalten werden?",
+        "answer": [
+            "Durch Anmelden in 28 Tagen im Monat"
+        ]
+    },
+    {
+        "question": "maximal Valkyries Gunst?",
+        "answer": [
+            "16"
+        ]
+    },
+    {
+        "question": "Zeit müssen Sie ein Abenteuer abschließen?",
+        "answer": [
+            "7 Tage"
+        ]
+    },
+    {
+        "question": "Auf der Ebene wird der Turm sofortig klar verfügbar?",
+        "answer": [
+            "130"
+        ]
+    },
+    {
+        "question": "Fertigkeit ist im Spiel nicht vorhanden?",
+        "answer": [
+            "Wahre Dunkelheit"
+        ]
+    },
+    {
+        "question": "Einer der folgenden Helden hat keine Winterhaut?",
+        "answer": [
+            "Qing Mao",
+            "Legende"
+        ]
+    },
+    {
+        "question": "Fertigkeit gehört nicht zu Polaris?",
+        "answer": [
+            "Tiefes Einfrieren"
+        ]
+    },
+    {
+        "question": "Hat keine Energie?",
+        "answer": [
+            "Astrid und Lucas"
+        ]
+    },
+    {
+        "question": "STAT -Boost Gewinnen die Feuertitanen aus dem Wassergeist Totem?",
+        "answer": [
+            "Keiner"
+        ]
+    },
+    {
+        "question": "STAT -Boost Gewinnen die Lichttitanen vom leichten Spirit Totem?",
+        "answer": [
+            "Angriff"
+        ]
+    },
+    {
+        "question": "Wer sind die leichten Titan -Artefakte?",
+        "answer": [
+            "Versenden"
+        ]
+    },
+    {
+        "question": "Währung ist erforderlich, um diese Titan -Artefakte zu verbessern: Angriffssiegel, Verteidigungssiegel und Bilanz Siegel?",
+        "answer": [
+            "Gold",
+            "Emeralds"
+        ]
+    },
+    {
+        "question": "Die primäre Rolle des Helden ist Unterstützung?",
+        "answer": [
+            "Nebel"
+        ]
+    },
+    {
+        "question": "Wer hat den Sieg zugewiesen, wenn nach einem Kampf in der Grand Arena kein Gewinner deklariert wird?",
+        "answer": [
+            "Der Verteidiger"
+        ]
+    },
+    {
+        "question": "Schadenstyp ist nicht Teil des Spiels?",
+        "answer": [
+            "Metaphysischer Schaden"
+        ]
+    },
+    {
+        "question": "Schadenstyp ist im Spiel nicht vorhanden?",
+        "answer": [
+            "Metaphysischer Schaden"
+        ]
+    },
+    {
+        "question": "Kampagnenkapitel enthält eine Hand, die aus dem Boden hervorsteht und eine Axt hält?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Kannst du keinen Titan Trank erhalten?",
+        "answer": [
+            "Beschwörungskreis"
+        ]
+    },
+    {
+        "question": "von den folgenden Helden hat keine Maskerade -Haut?",
+        "answer": [
+            "JORGEN"
+        ]
+    },
+    {
+        "question": "Vorteil des Durchführung mehrerer Überfälle in der Kampagne?",
+        "answer": [
+            "Sie garantieren mindestens 1 Artikelfragment pro 10 Missionen"
+        ]
+    },
+    {
+        "question": "von den folgenden Helden hat keine romantische Haut?",
+        "answer": [
+            "Legende"
+        ]
+    },
+    {
+        "question": "Eines dieser Haustiere hat die Darkguard -Fähigkeiten?",
+        "answer": [
+            "Mara"
+        ]
+    },
+    {
+        "question": "Haustier hat die Fähigkeit zum Aufenthalt von Chill?",
+        "answer": [
+            "Keks"
+        ]
+    },
+    {
+        "question": "Beginnen Helden ihre Reise?",
+        "answer": [
+            "Ashen Road"
+        ]
+    },
+    {
+        "question": "Name des ORC -Chefs in Kampagne Kapitel 3?",
+        "answer": [
+            "Stup Bulgor"
+        ]
+    },
+    {
+        "question": "Sie können nicht in einer Artefakt -Truhe gefunden werden?",
+        "answer": [
+            "Artefakt -Brustschlüssel"
+        ]
+    },
+    {
+        "question": "hat keine Maske?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Wert der stündlichen Belohnung für einen Spieler in der Grand Arena auf Platz 30?",
+        "answer": [
+            "45"
+        ]
+    },
+    {
+        "question": "Die passive Fähigkeit des Helden funktioniert nach ihrem Tod nicht?",
+        "answer": [
+            "Unangenehm"
+        ]
+    },
+    {
+        "question": "Können Sie oft kostenlos von einer Gilde zur anderen wechseln?",
+        "answer": [
+            "Einmal alle 8 Stunden"
+        ]
+    },
+    {
+        "question": "Hat keine mechanische Haut?",
+        "answer": [
+            "Legende"
+        ]
+    },
+    {
+        "question": "Artefaktmünzen können Sie für den Verkauf von Artefaktfragment erhalten?",
+        "answer": [
+            "50"
+        ]
+    },
+    {
+        "question": "Sie können nicht auf dem 50. Turmboden gefunden werden?",
+        "answer": [
+            "Tower Boss"
+        ]
+    },
+    {
+        "question": "Die Titanen des Elements verursachen weniger Schaden gegen die Erdkrone in der Angriffskampf?",
+        "answer": [
+            "Wasser"
+        ]
+    },
+    {
+        "question": "Die Titanen des Elements verursachen weniger Schaden gegen die Wasserkrone im Verteidigungskampf?",
+        "answer": [
+            "Beliebig"
+        ]
+    },
+    {
+        "question": "Die Titanen des Elements werden durch das Ragnis Beast -Artefakt gefärbt?",
+        "answer": [
+            "Erdtitanen"
+        ]
+    },
+    {
+        "question": "Den Titanen des Elements werden durch Siungurs Stab -Artefakt Schäden gestärkt?",
+        "answer": [
+            "Feuer"
+        ]
+    },
+    {
+        "question": "Kannst du im Pet Soul Stone Shop kaufen?",
+        "answer": [
+            "Chaospartikel"
+        ]
+    },
+    {
+        "question": "STAT -Boost Gewinnen die Erdtitanen vom Erdgeist Totem?",
+        "answer": [
+            "Gesundheit"
+        ]
+    },
+    {
+        "question": "Hat keine Teufelshaut?",
+        "answer": [
+            "Fuchs"
+        ]
+    },
+    {
+        "question": "Von diesen Helden können ihre Gegner nicht blenden?",
+        "answer": [
+            "Draufgänger"
+        ]
+    },
+    {
+        "question": "Kann der Chaos -Kern nicht erhalten werden?",
+        "answer": [
+            "Artefakthändler"
+        ]
+    },
+    {
+        "question": "Menge an Energie, die Sie erhalten, wenn Sie eine abgefüllte Energie verbrauchen?",
+        "answer": [
+            "200"
+        ]
+    },
+    {
+        "question": "Beim Rang schaltet ein Haustier seine Schirmherrschaftsfähigkeiten frei?",
+        "answer": [
+            "Violett"
+        ]
+    },
+    {
+        "question": "In Rang wird die Schirmherrschaft für Haustiere zur Verfügung gestellt?",
+        "answer": [
+            "Blau"
+        ]
+    },
+    {
+        "question": "Die Saison bietet keine Energiewiederherstellung X3 als Belohnung?",
+        "answer": [
+            "Astralzeit"
+        ]
+    },
+    {
+        "question": "Maximale Anzahl von Fenstern, die auf einem Turmboden zu sehen sind?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Passive Fähigkeiten ermöglichen es Ihnen, den Kampf mit akkumulierter Energie zu beginnen?",
+        "answer": [
+            "Öffentliches Idol"
+        ]
+    },
+    {
+        "question": "Gildenkriegstrophäen können gegen die Haut des Champions gegen Cleaver ausgetauscht werden?",
+        "answer": [
+            "Gold"
+        ]
+    },
+    {
+        "question": "Einer dieser Helden hat eine Champion -Haut, die mit goldenen Trophäen gekauft werden kann?",
+        "answer": [
+            "Cleaver",
+            "Dorian",
+            "Helios",
+            "JHU",
+            "JORGEN",
+            "Maya",
+            "Legende"
+        ]
+    },
+    {
+        "question": "Hat keine Frühlingshaut?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Mit einem Ballon in der Hand kämpfen?",
+        "answer": [
+            "JORGEN"
+        ]
+    },
+    {
+        "question": "Befestigungen des Gildenkrieges müssen erobert werden, um maximale Punkte zu sammeln?",
+        "answer": [
+            "10"
+        ]
+    },
+    {
+        "question": "Können Artefaktmünzen nicht erhalten werden?",
+        "answer": [
+            "Expeditionen"
+        ]
+    },
+    {
+        "question": "Levelkappe auf der Artefaktruhe?",
+        "answer": [
+            "10"
+        ]
+    },
+    {
+        "question": "Verlassen Sie ein Abenteuer, bevor Sie den Chef besiegen?",
+        "answer": [
+            "Im Protokoll"
+        ]
+    },
+    {
+        "question": "Levels gibt es zwischen Save -Punkten im Dungeon?",
+        "answer": [
+            "10"
+        ]
+    },
+    {
+        "question": "Das Erscheinen des Drommer -Meisters der Elemente kann im Spiel nicht gefunden werden?",
+        "answer": [
+            "Siungur"
+        ]
+    },
+    {
+        "question": "Währung ist erforderlich, um ein Elementargeist -Totem aufzubauen?",
+        "answer": [
+            "Gildenkriegstrophäen",
+            "Emeralds"
+        ]
+    },
+    {
+        "question": "Drommer ist der Meister der Feuerartefakte?",
+        "answer": [
+            "Spinnen"
+        ]
+    },
+    {
+        "question": "STAT Boost Gewinnen die Feuertitanen aus dem Feuergeist Totem?",
+        "answer": [
+            "Angriff"
+        ]
+    },
+    {
+        "question": "Max Rang für Haustiere?",
+        "answer": [
+            "Violet 3"
+        ]
+    },
+    {
+        "question": "Nicht bei einem Neujahrsereignis bei Dominion angekommen?",
+        "answer": [
+            "Unangenehm"
+        ]
+    },
+    {
+        "question": "Jet Soul Stones empfangen?",
+        "answer": [
+            "Seelengeschäft"
+        ]
+    },
+    {
+        "question": "Hauttyp existiert nicht?",
+        "answer": [
+            "Südhaut"
+        ]
+    },
+    {
+        "question": "Labyrinth finden Sie auf der Kampagnenkarte?",
+        "answer": [
+            "Labyrinth vergangener Hoffnungen"
+        ]
+    },
+    {
+        "question": "Durst nach Blut, Daredevils 4. Fähigkeit, tun?",
+        "answer": [
+            "Ignoriert einen Teil der Rüstung der Feinde, die sie in Brand gesetzt hat"
+        ]
+    },
+    {
+        "question": "Verschiedene Masken können mit ihrer Maskerade -Fähigkeit Peppy beschwören?",
+        "answer": [
+            "4"
+        ]
+    },
+    {
+        "question": "In der Gruppe wurde beigebracht, dass Betrug Sie nicht weiter im Leben bringt?",
+        "answer": [
+            "1"
+        ]
+    },
+    {
+        "question": "Tägliche Angriffsversuche Hat ein Gildenmeister in einem Gildenkrieg?",
+        "answer": [
+            "2"
+        ]
+    },
+    {
+        "question": "Zeiten pro Tag können Sie kostenlose Energie für den Abschluss der täglichen Quest beanspruchen?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Abenteuer im Spiel?",
+        "answer": [
+            "13"
+        ]
+    },
+    {
+        "question": "Auf der Ebene erhalten Sie ehrenwerte Wächter -Schatullen zum Abschluss täglicher Quests?",
+        "answer": [
+            "130"
+        ]
+    },
+    {
+        "question": "Hautsteine ​​Enthält die große Hautsteinkiste?",
+        "answer": [
+            "150"
+        ]
+    },
+    {
+        "question": "Eines dieser Haustiere fördert Helden, die reinen Schaden verursachen?",
+        "answer": [
+            "Albus"
+        ]
+    },
+    {
+        "question": "Physischer Schaden Haustier ist?",
+        "answer": [
+            "Fenris"
+        ]
+    },
+    {
+        "question": "Mission, wo Sie zum ersten Mal auf dem Erzhalt begegnen?",
+        "answer": [
+            "Archdemon's Patrimony / das Erbe des Erzdemons"
+        ]
+    },
+    {
+        "question": "Sie können nicht in einer Expedition erhalten werden?",
+        "answer": [
+            "Artefaktmünze"
+        ]
+    },
+    {
+        "question": "Werden Titan -Hautsteine ​​für gekauft?",
+        "answer": [
+            "Bronze Guild War Trophies"
+        ]
+    },
+    {
+        "question": "Ist Astaroths Hauptziel?",
+        "answer": [
+            "Brennen Sie die Welt nieder"
+        ]
+    },
+    {
+        "question": "Ist Astaroths primäres Lebensziel?",
+        "answer": [
+            "Brennen Sie die Welt nieder"
+        ]
+    },
+    {
+        "question": "Haustier erhöht die Chance auf alle Helden mit seiner zweiten Fähigkeit?",
+        "answer": [
+            "Kain"
+        ]
+    },
+    {
+        "question": "Kapitel wird \"vom Feuer regiert\"?",
+        "answer": [
+            "Kapitel 1"
+        ]
+    },
+    {
+        "question": "Kann in heroischer Brust vor dem Ausentwicklungen zu absolutem Stern gefunden werden?",
+        "answer": [
+            "Cleaver"
+        ]
+    },
+    {
+        "question": "Celeste erzeugen in ihrer dunklen Form?",
+        "answer": [
+            "Fluchflamme"
+        ]
+    },
+    {
+        "question": "Name von K'arkhs Heimatplanet?",
+        "answer": [
+            "Dagan-nuhr"
+        ]
+    },
+    {
+        "question": "Wer hat eine \"edle\" Waffe?",
+        "answer": [
+            "Ingwer"
+        ]
+    },
+    {
+        "question": "Finden Sie heraus, hat sich im Dominion verändert?",
+        "answer": [
+            "Heldenkriege Community -Seite"
+        ]
+    },
+    {
+        "question": "Wurde von den Toten zurückgebracht?",
+        "answer": [
+            "Keira oder Corvus"
+        ]
+    },
+    {
+        "question": "Shop ist nicht im Spiel vorhanden?",
+        "answer": [
+            "Liebesgeschäft"
+        ]
+    },
+    {
+        "question": "Name von Astrids Haustier?",
+        "answer": [
+            "Lucas"
+        ]
+    },
+    {
+        "question": "Haustier beschleunigt die magischen Fähigkeiten seines Besitzers?",
+        "answer": [
+            "Merlin"
+        ]
+    },
+    {
+        "question": "Rufus kann Merlin nicht als Haustier haben?",
+        "answer": [
+            "Merlin"
+        ]
+    },
+    {
+        "question": "Das Titan -Element kann nicht im Dominion gefunden werden?",
+        "answer": [
+            "Metall"
+        ]
+    },
+    {
+        "question": "Ist ein Außerirdischer?",
+        "answer": [
+            "Orion",
+            "Karh",
+            "Julius"
+        ]
+    },
+    {
+        "question": "Ist Auroras Familienname?",
+        "answer": [
+            "Paladin von Riversar"
+        ]
+    },
+    {
+        "question": "Rang ist nicht im Spiel?",
+        "answer": [
+            "Rot +4"
+        ]
+    },
+    {
+        "question": "Ishmaels Vater will ihm in seiner Kindheit mitmachen?",
+        "answer": [
+            "Opfere ihn den Göttern"
+        ]
+    },
+    {
+        "question": "Name des Abenteuers 12?",
+        "answer": [
+            "Belagerung von Strongford"
+        ]
+    },
+    {
+        "question": "Form kann nicht von Lucas, Astris Haustier, angenommen werden?",
+        "answer": [
+            "Eichhörnchen"
+        ]
+    },
+    {
+        "question": "der folgenden nicht in der Hautsteinkiste gefunden werden?",
+        "answer": [
+            "Ausdauer Hautstein"
+        ]
+    },
+    {
+        "question": "Ressourcen Müssen Sie temporäre Gilden -Raid -Buffs kaufen?",
+        "answer": [
+            "Gold- und Tapfermbleme"
+        ]
+    },
+    {
+        "question": "Sie können nicht in der Hautsteinkiste gefunden werden?",
+        "answer": [
+            "Ausdauer Hautstein"
+        ]
+    },
+    {
+        "question": "Einer der Helden ist ein Sternenkind?",
+        "answer": [
+            "Helios"
+        ]
+    },
+    {
+        "question": "Skins sind im Spiel nicht vorhanden?",
+        "answer": [
+            "Sommer"
+        ]
+    },
+    {
+        "question": "Menschen lebten früher in Ghirwil City?",
+        "answer": [
+            "Die Schlagzeuger"
+        ]
+    },
+    {
+        "question": "Art von Magie besitzt Dorian?",
+        "answer": [
+            "Die Magie des Blutes"
+        ]
+    },
+    {
+        "question": "Schädelsteine ​​werden in erhalten?",
+        "answer": [
+            "Der Turm"
+        ]
+    },
+    {
+        "question": "Nicht im Spiel?",
+        "answer": [
+            "Turmwächterrahmen"
+        ]
+    },
+    {
+        "question": "Wer wohnt in Kampagne Kapitel 10?",
+        "answer": [
+            "Typhon"
+        ]
+    },
+    {
+        "question": "Wer hilft Helden, den Turm auf Team Level 130 sofort zu vervollständigen?",
+        "answer": [
+            "Walküre"
+        ]
+    },
+    {
+        "question": "Wem gehört Rarity Fair?",
+        "answer": [
+            "Wendy"
+        ]
+    },
+    {
+        "question": "Ist Cornelius 'Familienname?",
+        "answer": [
+            "Witt"
+        ]
+    },
+    {
+        "question": "Stamm gehört JHU?",
+        "answer": [
+            "Elf"
+        ]
+    },
+    {
+        "question": "von diesen Helden trägt keine Waffe in ihren Händen?",
+        "answer": [
+            "Legende"
+        ]
+    },
+    {
+        "question": "Sie können nicht in einer Expedition erhalten werden?",
+        "answer": [
+            "Artefaktmünze"
+        ]
+    },
+    {
+        "question": "Einer dieser Namen ist kein Name eines Abenteuers?",
+        "answer": [
+            "Shavaraks Sturz"
+        ]
+    },
+    {
+        "question": "Einer der folgenden Helden hat keine Federhaut?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Von diesen Smaragd -Austauschmultiplikatoren gibt es nicht?",
+        "answer": [
+            "25"
+        ]
+    },
+    {
+        "question": "Insgesamt kann eine Freundschaftschips pro Tag erhalten werden, ohne Gruppengeschenke zu berücksichtigen?",
+        "answer": [
+            "1000"
+        ]
+    },
+    {
+        "question": "Kannst du nicht Teil von Heldenausrüstungsgegenständen sein?",
+        "answer": [
+            "Runen"
+        ]
+    },
+    {
+        "question": "Einer ist ein Outland -Chef?",
+        "answer": [
+            "Brog der Eroberer"
+        ]
+    },
+    {
+        "question": "Länder hat Corvus geschworen, um zu schützen?",
+        "answer": [
+            "Königreich Grace"
+        ]
+    },
+    {
+        "question": "Ist das Kind eines Menschen und eines Titans?",
+        "answer": [
+            "Maya"
+        ]
+    },
+    {
+        "question": "Einer der folgenden Helden benutzt kein Personal?",
+        "answer": [
+            "Mojo"
+        ]
+    },
+    {
+        "question": "Von diesen Helden können einige der feindlichen Heilung blockieren?",
+        "answer": [
+            "Yasmine"
+        ]
+    },
+    {
+        "question": "Feinde Müssen Sie sich besiegen, um mit der 2er Turnier der Elemente zu fahren?",
+        "answer": [
+            "5"
+        ]
+    },
+    {
+        "question": "Mara, das Haustier und der Dunkle Star haben gemeinsam?",
+        "answer": [
+            "Gedankenkontrolle"
+        ]
+    },
+    {
+        "question": "Maximale Anzahl von Skelette Morrigan kann gleichzeitig steuern?",
+        "answer": [
+            "6"
+        ]
+    },
+    {
+        "question": "Gildenaktivitätspunkte können einmal täglich zum Aufrüsten des Glyphs eines Helden erzielt werden?",
+        "answer": [
+            "700"
+        ]
+    },
+    {
+        "question": "Wer ist der letzte Chef in der Kampagne?",
+        "answer": [
+            "Seymour"
+        ]
+    },
+    {
+        "question": "Wer schickt Ihnen Emeralds für Heldenförderung per Post?",
+        "answer": [
+            "Wendy"
+        ]
+    },
+    {
+        "question": "Element befiehlt Andvari?",
+        "answer": [
+            "Das Erdelement"
+        ]
+    },
+    {
+        "question": "Von diesen Helden hat die Umarmung von Schmerzkenntnissen?",
+        "answer": [
+            "Yasmine"
+        ]
+    },
+    {
+        "question": "Boss kann nicht in Abenteuern angetroffen werden?",
+        "answer": [
+            "Draufgänger"
+        ]
+    },
+    {
+        "question": "Boss kann nicht in Abenteuern angetroffen werden?",
+        "answer": [
+            "Draufgänger"
+        ]
+    },
+    {
+        "question": "Verhältnis zwischen Energiepunkten zu Gildenaktivitätspunkten?",
+        "answer": [
+            "1 bis 1"
+        ]
+    },
+    {
+        "question": "Wer wird den Sieg zugewiesen, wenn nach einem Kampf in der Grand Arena kein Gewinner deklariert wird?",
+        "answer": [
+            "Der Verteidiger"
+        ]
+    },
+    {
+        "question": "Wer schlägt zurück, wenn ein Verbündeter kritisch getroffen wird?",
+        "answer": [
+            "Helios"
+        ]
+    },
+    {
+        "question": "Von diesen Helden trägt eine Krone am Kopf?",
+        "answer": [
+            "Morrigan"
+        ]
+    },
+    {
+        "question": "Die kritischen Hits des Helden können Feinde vergiften?",
+        "answer": [
+            "Yasmine"
+        ]
+    },
+    {
+        "question": "Sie können nicht im Gildenkriegsgeschäft gekauft werden?",
+        "answer": [
+            "Große Verzauberung Rune"
+        ]
+    },
+    {
+        "question": "Gildenkriegstrophäen können gegen einen Titan -Trank ausgetauscht werden?",
+        "answer": [
+            "Bronze Guild War Trophy"
+        ]
+    },
+    {
+        "question": "von den folgenden Helden hat eine kybernetische Haut?",
+        "answer": [
+            "Orion",
+            "Aidan",
+            "Astaroth",
+            "Cornelius",
+            "Polaris",
+            "Luther",
+            "Legende",
+            "Mojo",
+            "Iris",
+            "Lars",
+            "Krista",
+            "Satori",
+            "Amira",
+            "Fuchs",
+            "Elmir",
+            "Kayla",
+            "Ja"
+        ]
+    },
+    {
+        "question": "Einer der Seelensteine ​​dieser Titan kann nicht für den Sieg im Dungeon aufgenommen werden?",
+        "answer": [
+            "Eden",
+            "Arend",
+            "Hyperion"
+        ]
+    },
+    {
+        "question": "Kann als Belohnung für Turmpunkte erhalten werden?",
+        "answer": [
+            "Gold",
+            "Turmmünzen"
+        ]
+    },
+    {
+        "question": "Name von Qing Maos Bruder?",
+        "answer": [
+            "Qing lang"
+        ]
+    },
+    {
+        "question": "Hat keine Haube in ihrer Standardhaut?",
+        "answer": [
+            "Dorian"
+        ]
+    },
+    {
+        "question": "Auf Ebene werden Abenteuer verfügbar?",
+        "answer": [
+            "40"
+        ]
+    },
+    {
+        "question": "Helden ist eine Fledermaus?",
+        "answer": [
+            "Dorian"
+        ]
+    },
+    {
+        "question": "Der Lost Hero Animated Short enthüllt den vorherigen Namen des Erzdemons.ist es?",
+        "answer": [
+            "Gareth"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Amira",
+        "answer": [
+            "Turban des Grand Genies",
+            "Manuskript der Leere",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden und Vari",
+        "answer": [
+            "Hand des großen Meisters",
+            "Alchemists Folio",
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Arachne",
+        "answer": [
+            "Hyper Booster DS-1",
+            "Bundesbund",
+            "Ring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Artemis",
+        "answer": [
+            "Das Bane des Bösen",
+            "Alchemists Folio",
+            "Ring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Astaroth",
+        "answer": [
+            "Sense der Erlösung",
+            "Bundesbund",
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Aurora",
+        "answer": [
+            "Selias Erbe",
+            "Buch der Illusionen",
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Chabba",
+        "answer": [
+            "Bracer des Hungers",
+            "Bundesbund",
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Cornelius",
+        "answer": [
+            "Mitarbeiter des Archivars",
+            "Buch des arkanen Wissens",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Corvus",
+        "answer": [
+            "Glaive des untoten Königs",
+            "Bundesbund",
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Dark Star",
+        "answer": [
+            "Alchemists Folio",
+            "Ring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Dorian",
+        "answer": [
+            "Blutender Stahl",
+            "Buch des arkanen Wissens",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Elmir",
+        "answer": [
+            "Klingen vieler Wahrheiten",
+            "Alchemists Folio",
+            "Ring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden gesichtslosen",
+        "answer": [
+            "Einsiedlerleichtuch",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Fafnir",
+        "answer": [
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Heldenfuchs",
+        "answer": [
+            "Alchemists Folio"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Galahad",
+        "answer": [
+            "Bundesbund",
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Helios",
+        "answer": [
+            "Zauberstab der tausend Sonnen"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Iris",
+        "answer": [
+            "Grimoire der versklavten Seelen",
+            "Buch des arkanen Wissens",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Isaac",
+        "answer": [
+            "Lil 'tes'lin",
+            "Alchemists Folio",
+            "Ring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Ishmael",
+        "answer": [
+            "Ring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Heldenjet",
+        "answer": [
+            "Buch der Illusionen"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden JHU",
+        "answer": [
+            "Zarakkar Bones"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Jorgen",
+        "answer": [
+            "Shivaraks Blut",
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Heldenrichter",
+        "answer": [
+            "Diagramm von endlosen Sternen",
+            "Buch des arkanen Wissens",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Kai",
+        "answer": [
+            "Wanderers Mantel",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Krista",
+        "answer": [
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Lara Croft",
+        "answer": [
+            "Laras Jade -Halskette",
+            "Kriegercode",
+            "Ring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Lars",
+        "answer": [
+            "Sturmtalismam, Manuskript der Leere"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Lian",
+        "answer": [
+            "Buch des arkanen Wissens"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Lilith",
+        "answer": [
+            "Buch des arkanen Wissens"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Markus",
+        "answer": [
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Maya",
+        "answer": [
+            "Buch des arkanen Wissens",
+            "Der Zweig der Mutterbaum",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Mojo",
+        "answer": [
+            "Maske des Ärgers",
+            "Manuskript der Leere",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Morrigan",
+        "answer": [
+            "Ravens Schädel",
+            "Buch des arkanen Wissens",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Heldennebel",
+        "answer": [
+            "Ungeborene Sterne",
+            "Illusionsring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden peppy",
+        "answer": [
+            "Frau Whirligig",
+            "Ring der Intelligenz"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Qing Mao",
+        "answer": [
+            "Ring der Beweglichkeit",
+            "Buch der Illusionen"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Rufus",
+        "answer": [
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Sebastian",
+        "answer": [
+            "Kriegercode",
+            "Ring der Beweglichkeit"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden thea",
+        "answer": [
+            "Buch des arkanen Wissens",
+            "Ring der Intelligenz",
+            "Mitarbeiter der Wiedergeburt"
+        ]
+    },
+    {
+        "question": "Artefakt gehört zu diesem Helden Yasmine",
+        "answer": [
+            "Kanakubines Khanjaras",
+            "Kriegercode"
+        ]
+    },
+    {
+        "question": "Artefakt gehört diesem Helden Ziri",
+        "answer": [
+            "Akhreb Ummis Stich",
+            "Ring der Stärke"
+        ]
+    },
+    {
+        "question": "Wer ist Mira?",
+        "answer": [
+            "Haustier Trainer"
+        ]
+    },
+    {
+        "question": "Titan ist als Vater des Ozeans bekannt",
+        "answer": [
+            "Hyperion"
+        ]
+    },
+    {
+        "question": "Wer kann ihre Feinde mit einer Kette näher ziehen?",
+        "answer": [
+            "Cleaver"
+        ]
+    },
+    {
+        "question": "Hat mehr als 2 Hände?",
+        "answer": [
+            "Karh",
+            "Dante"
+        ]
+    },
+    {
+        "question": "Von diesen Helden hat eine Sweetooth -Haut?",
+        "answer": [
+            "Schwungvoll"
+        ]
+    },
+    {
+        "question": "Von diesen Heros hat eine dunkle Tiefenhaut?",
+        "answer": [
+            "K'argh",
+            "Satori",
+            "Phobos"
+        ]
+    },
+    {
+        "question": "von diesen Helden hat keine hervorragende Haut?",
+        "answer": [
+            "Judge"
+        ]
+    },
+    {
+        "question": "Hat keine Maskerade -Haut?",
+        "answer": [
+            "JORGEN"
+        ]
+    },
+    {
+        "question": "Windschaufel auf dem Dach des Ladens auf dem Hauptplatz sehen Sie aus?",
+        "answer": [
+            "Drachen"
+        ]
+    },
+    {
+        "question": "von den folgenden Helden hat keine dunkle Tiefenhaut?",
+        "answer": [
+            "Judge"
+        ]
+    },
+    {
+        "question": "Einer dieser Helden trägt einen Hut in ihrer Standardhaut",
+        "answer": [
+            "Sebastian",
+            "Phobos"
+        ]
+    },
+    {
+        "question": "Hat keine Fähigkeiten im Zusammenhang mit Vampirismus?",
+        "answer": [
+            "JORGEN"
+        ]
+    },
+    {
+        "question": "Von den folgenden Helden hat eine Champion Skin, die mit Silver Guild War Trophies gekauft werden kann?",
+        "answer": [
+            "Galahad",
+            "Ingwer",
+            "Ishmael",
+            "Judge",
+            "Kai",
+            "Schwungvoll",
+            "Thea"
+        ]
+    },
+    {
+        "question": "wird jünger in ihren Skins?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Werden Schädelmünzen erhalten?",
+        "answer": [
+            "Turm"
+        ]
+    },
+    {
+        "question": "Menge an Erfahrung, die Sie erhalten, wenn Sie einen riesigen Exp -Pank verwenden?",
+        "answer": [
+            "7500"
+        ]
+    },
+    {
+        "question": "hat von diesen Helden ein Ingenieur -Special?",
+        "answer": [
+            "Isaac",
+            "Ingwer",
+            "Fuchs"
+        ]
+    },
+    {
+        "question": "Haben Sie einen kritischen Hit -Zufallsglyphen?",
+        "answer": [
+            "Artemis",
+            "Ishmael",
+            "Draufgänger",
+            "Sebastian",
+            "JHU"
+        ]
+    },
+    {
+        "question": "Von diesen Helden hat keine kritische Hit -Chance -Haut?",
+        "answer": [
+            "Sebastian",
+            "Isaac"
+        ]
+    },
+    {
+        "question": "Von diesen Helden hat keine kritische Glyphe mit kritischer Hit -Chance?",
+        "answer": [
+            "Isaac"
+        ]
+    },
+    {
+        "question": "Wer ist Morrigan von Corvus?",
+        "answer": [
+            "Tochter"
+        ]
+    },
+    {
+        "question": "Hero Souls braucht es, um einen Helden vom 5. Stern zum absoluten Stern zu entwickeln?",
+        "answer": [
+            "300"
+        ]
+    },
+    {
+        "question": "Sie können keine Energie von Feinden entleeren?",
+        "answer": [
+            "Karh"
+        ]
+    },
+    {
+        "question": "Name von Marthas Schildkröte?",
+        "answer": [
+            "Josephine"
+        ]
+    },
+    {
+        "question": "Schalten Sie Musik und Klang ein?",
+        "answer": [
+            "Einstellungen"
+        ]
+    },
+    {
+        "question": "mit Chaospartikeln machen?",
+        "answer": [
+            "Laden Sie das Juwel eines Haustieres auf"
+        ]
+    },
+    {
+        "question": "Wächst der von Martha gebrühte Tee?",
+        "answer": [
+            "Der Wald von Zarakkar"
+        ]
+    },
+    {
+        "question": "Entsperren Sie einen Heldenaufkleber?",
+        "answer": [
+            "Beschwelden Sie den Helden"
+        ]
+    },
+    {
+        "question": "Können Sie für Schädelmünzen auf dem Turmboden 50 bekommen?",
+        "answer": [
+            "Gold"
+        ]
+    },
+    {
+        "question": "Boss, können Sie im Strudel des Chaos begegnen?",
+        "answer": [
+            "Immer anders"
+        ]
+    },
+    {
+        "question": "Name der Statue in Kampagne Kapitel 2?",
+        "answer": [
+            "Monolith von Meron"
+        ]
+    },
+    {
+        "question": "Helden sind insgesamt im Spiel?",
+        "answer": [
+            "62 (01.03.2024) Web"
+        ]
+    },
+    {
+        "question": "STAT steigt Dantes zweite Fähigkeit für alle Verbündeten?",
+        "answer": [
+            "Ausweichen"
+        ]
+    },
+    {
+        "question": "Sie können nicht gegen Gildenaktivitäten ausgetauscht werden?",
+        "answer": [
+            "EXP -Punkte"
+        ]
+    },
+    {
+        "question": "Eine davon kann die Gilde nicht verlassen, ohne ihre Rolle einem anderen Spieler zuzuweisen?",
+        "answer": [
+            "Gildenmeister"
+        ]
+    },
+    {
+        "question": "Einer der folgenden Helden hat keine Champion -Haut?",
+        "answer": [
+            "Cornelius"
+        ]
+    },
+    {
+        "question": "Hat keine Championhaut?",
+        "answer": [
+            "Cornelius"
+        ]
+    },
+    {
+        "question": "Position kann nicht von Helden eingenommen werden?",
+        "answer": [
+            "Linke Linie"
+        ]
+    },
+    {
+        "question": "Kann keine Bronze Guild War Trophy erworben werden?",
+        "answer": [
+            "Expeditionsschein"
+        ]
+    },
+    {
+        "question": "teilt ihren Körper mit der Seele eines schwarzen Fuchs?",
+        "answer": [
+            "Satori"
+        ]
+    },
+    {
+        "question": "Von diesen Helden können ihre Feinde bezaubern?",
+        "answer": [
+            "Lian"
+        ]
+    },
+    {
+        "question": "Orden of Knights gehört Luther?",
+        "answer": [
+            "Der Orden von St. Bran"
+        ]
+    },
+    {
+        "question": "von diesen Helden erhalten Ladung anstelle von Energie?",
+        "answer": [
+            "Isaac"
+        ]
+    },
+    {
+        "question": "Buffs des Tages können gleichzeitig in Abenteuern aktiv sein?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Von diesen Helden hat violette Augen?",
+        "answer": [
+            "Yasmine"
+        ]
+    },
+    {
+        "question": "Glyphe hat Keira nicht?",
+        "answer": [
+            "Kritischer Treffer"
+        ]
+    },
+    {
+        "question": "Fähigkeit Hat Cornelius erhalten, als er von dunklen Magier gefangen gehalten wurde?",
+        "answer": [
+            "Magie unterdrücken"
+        ]
+    },
+    {
+        "question": "Waffe trägt Valkyrie?",
+        "answer": [
+            "Ein Speer"
+        ]
+    },
+    {
+        "question": "Avatar -Rahmen ist im Spiel nicht vorhanden?",
+        "answer": [
+            "Turmwächterrahmen"
+        ]
+    },
+    {
+        "question": "Insgesamt hat sich der ewige Torhüter von Mentoren geeignet?",
+        "answer": [
+            "5"
+        ]
+    },
+    {
+        "question": "Schule hat die Gesichtslosen besucht?",
+        "answer": [
+            "Die Schule der Mystiker"
+        ]
+    },
+    {
+        "question": "von diesen Helden hat die Kontrollrolle?",
+        "answer": [
+            "Lilith"
+        ]
+    },
+    {
+        "question": "Erhalten Sie den Chaos -Rahmen?",
+        "answer": [
+            "Besiege den Chef in Abenteuer 13 fünfzehn Mal"
+        ]
+    },
+    {
+        "question": "Von diesen Helden hat eine laute Haut?",
+        "answer": [
+            "Draufgänger"
+        ]
+    },
+    {
+        "question": "Brust ist nicht im Spiel vorhanden?",
+        "answer": [
+            "Runenkiste"
+        ]
+    },
+    {
+        "question": "Von diesen Titanen hat ein Schild?",
+        "answer": [
+            "Sigurd"
+        ]
+    },
+    {
+        "question": "Wer war Keira, bevor er in einen rachsüchtigen Geist verwandelt wurde?",
+        "answer": [
+            "Ein königlicher Wächter"
+        ]
+    },
+    {
+        "question": "Helden Sollten Sie neben Mara, dem Haustier, in die Schlacht schicken?",
+        "answer": [
+            "Kontrollieren Sie Helden"
+        ]
+    },
+    {
+        "question": "Von diesen Helden können sich ein Verbündeter mit niedrigem Gesundheitswesen in das Zentrum ihres Teams bewegen?",
+        "answer": [
+            "Rabe"
+        ]
+    },
+    {
+        "question": "Einer der folgenden Helden hat keine Mondhaut?",
+        "answer": [
+            "Elmir"
+        ]
+    },
+    {
+        "question": "Hero's Dodge Chance erhöht sich, nachdem Sie ein paar Sekunden lang nicht Schaden angenommen haben?",
+        "answer": [
+            "Heidi"
+        ]
+    },
+    {
+        "question": "Aktion verdient Ihnen Gildenaktivitätspunkte?",
+        "answer": [
+            "Aktualisieren einer Glyphe"
+        ]
+    },
+    {
+        "question": "Titanen des Elements werden durch Andvari's Soul Artefact gestärkt?",
+        "answer": [
+            "Wasser"
+        ]
+    },
+    {
+        "question": "Name des Dämons in Rufus 'Schild?",
+        "answer": [
+            "Rakashi"
+        ]
+    },
+    {
+        "question": "Name der Droemmer -Prinzessin?",
+        "answer": [
+            "Astrid"
+        ]
+    },
+    {
+        "question": "Buff kann nicht im Turm erhalten werden?",
+        "answer": [
+            "Beschleunigung"
+        ]
+    },
+    {
+        "question": "Expedition in die Stadt der Engel?",
+        "answer": [
+            "3 Stunden"
+        ]
+    },
+    {
+        "question": "Drommer ist der Meister der Wasserartefakte?",
+        "answer": [
+            "Siungur"
+        ]
+    },
+    {
+        "question": "Müssen Sie tun, um ein Ghirwil City History -Fragment zu erhalten?",
+        "answer": [
+            "Vervollständigen Sie eine Mission mit 3 Sternen"
+        ]
+    },
+    {
+        "question": "das Orakel treffen?",
+        "answer": [
+            "Verlies"
+        ]
+    },
+    {
+        "question": "Ereignis hat ein Osterei mit der traurigen Nymphe?",
+        "answer": [
+            "Sommerfest"
+        ]
+    },
+    {
+        "question": "Hat eine Fähigkeit, die die magische Verteidigung verringert?",
+        "answer": [
+            "Alvanor"
+        ]
+    },
+    {
+        "question": "PET verhindert, dass Feinde von Verbündeten Heilung erhalten?",
+        "answer": [
+            "Keks"
+        ]
+    },
+    {
+        "question": "maximaler Schwierigkeitsgrad, der im Razzia der Gildenauswahl ausgewählt werden kann?",
+        "answer": [
+            "150"
+        ]
+    },
+    {
+        "question": "Schaltet der Spieler Asgard und die Gilde -Raid auf der Ebene auf?",
+        "answer": [
+            "65"
+        ]
+    },
+    {
+        "question": "Waffe ist als Noble bekannt?",
+        "answer": [
+            "Inginger-Kettengewehr"
+        ]
+    },
+    {
+        "question": "Diese Helden haben nicht das gesegnete Special",
+        "answer": [
+            "Aurora"
+        ]
+    },
+    {
+        "question": "Hat die Rune of Life -Fähigkeiten?",
+        "answer": [
+            "Alvanor"
+        ]
+    },
+    {
+        "question": "Name von Drommer Princess?",
+        "answer": [
+            "Astrid"
+        ]
+    },
+    {
+        "question": "Im Monat wurde von Biscuit, dem neuen Haustier, veröffentlicht?",
+        "answer": [
+            "Schwungvoll"
+        ]
+    },
+    {
+        "question": "Wird Isaacs selbstfahrendes Fahrzeug genannt?",
+        "answer": [
+            "Lil 'tes'lin"
+        ]
+    },
+    {
+        "question": "Kaintkompetenzangebot Angebot?",
+        "answer": [
+            "Bonusenergie zum Ausweichen"
+        ]
+    },
+    {
+        "question": "Haustier kann Alvanors Patron werden?",
+        "answer": [
+            "Axel",
+            "Keks",
+            "Merlin",
+            "Oliver"
+        ]
+    },
+    {
+        "question": "Haustier kann Isaacs Patron werden?",
+        "answer": [
+            "Oliver",
+            "Mara oder Axel"
+        ]
+    },
+    {
+        "question": "Haustier kann Morrigan als Patronin haben?",
+        "answer": [
+            "Oliver",
+            "Axel"
+        ]
+    },
+    {
+        "question": "Wer kann Merlin, das Haustier, nicht als Patronin haben?",
+        "answer": [
+            "Rufus"
+        ]
+    },
+    {
+        "question": "Wer kann Axel das Haustier als Patron nicht haben?",
+        "answer": [
+            "Jung"
+        ]
+    },
+    {
+        "question": "Wer kann Axel das Haustier nicht als Patron haben?",
+        "answer": [
+            "Jung"
+        ]
+    },
+    {
+        "question": "Wer kann das Haustier nicht als Patron ein bishertes Haustier haben?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Affekt fügt Khorus maximale Gebühren hinzu?",
+        "answer": [
+            "Schweigen"
+        ]
+    },
+    {
+        "question": "Geschmiedet Galahads Schwert?",
+        "answer": [
+            "Filter"
+        ]
+    },
+    {
+        "question": "Helden können im Elementar -Turnierladen erworben werden?",
+        "answer": [
+            "Nebel",
+            "Karh"
+        ]
+    },
+    {
+        "question": "Hat eine Haut, die den körperlichen Angriff fördert?",
+        "answer": [
+            "Karh"
+        ]
+    },
+    {
+        "question": "Hat eine Champion -Haut, die mit silbernen Trophäen gekauft werden kann?",
+        "answer": [
+            "Kai",
+            "Schwungvoll",
+            "Judge",
+            "Ishmael",
+            "Galahad",
+            "Ingwer",
+            "Thea"
+        ]
+    },
+    {
+        "question": "Sie können ihre Verbündeten nicht mit einem Schild schützen?",
+        "answer": [
+            "Sebastian"
+        ]
+    },
+    {
+        "question": "Titan ist kein Schütze?",
+        "answer": [
+            "Hyperion"
+        ]
+    },
+    {
+        "question": "Titan erhöht die maximale Gesundheit der Verbündeten?",
+        "answer": [
+            "Solaris"
+        ]
+    },
+    {
+        "question": "\"Buffs\" ihre Feinde während der Schlachten?",
+        "answer": [
+            "Amira"
+        ]
+    },
+    {
+        "question": "Name von Lian's Geliebter?",
+        "answer": [
+            "Hiroshi"
+        ]
+    },
+    {
+        "question": "Gold Müssen Sie ein weißes Muster aus einer Kriegsflagge entfernen?",
+        "answer": [
+            "0"
+        ]
+    },
+    {
+        "question": "Von diesen ist ein Outland -Chef?",
+        "answer": [
+            "Brog der Eroberer"
+        ]
+    },
+    {
+        "question": "Explorer -Bewegungen verwenden?",
+        "answer": [
+            "Auf der mysteriösen Insel"
+        ]
+    },
+    {
+        "question": "Hat keine Lunnar -Haut?",
+        "answer": [
+            "Elmir"
+        ]
+    },
+    {
+        "question": "Haustier fördert Helden, die reinen Schaden verursachen?",
+        "answer": [
+            "Albus"
+        ]
+    },
+    {
+        "question": "Beim Rang schaltet ein Haustier seine Schirmherrschaftsfähigkeiten frei?",
+        "answer": [
+            "Lila"
+        ]
+    },
+    {
+        "question": "Offizieller Titel unseres Spiels?",
+        "answer": [
+            "Heldenkriege"
+        ]
+    },
+    {
+        "question": "Leichtes Totem tun?",
+        "answer": [
+            "Verhindert, dass Verbündete sterben"
+        ]
+    },
+    {
+        "question": "Unbekannter Toxin -Skills -Symbol sieht aus?",
+        "answer": [
+            "/_img/unknown_toxin.webp"
+        ]
+    },
+    {
+        "question": "Iron Skyes Skill -Symbol sehen aus wie?(Galahad)",
+        "answer": [
+            "/_img/ironskyes.webp"
+        ]
+    },
+    {
+        "question": "Gegenstand \"Soul Catcher\" sehen Sie aus?",
+        "answer": [
+            "/_img/soul_catcher.webp"
+        ]
+    },
+    {
+        "question": "Gegenstand \"Löwenpanzer\" sehen aus wie?",
+        "answer": [
+            "/_img/lions_armor.webp"
+        ]
+    },
+    {
+        "question": "Apostelstreitkräfte sehen aus wie?",
+        "answer": [
+            "/_img/violet_apostle_mace.webp"
+        ]
+    },
+    {
+        "question": "Lehrling Mantel sehen aus wie?",
+        "answer": [
+            "/_img/white_Apprentice_mantle.webp"
+        ]
+    },
+    {
+        "question": "Wie wie Dragon Shield sieht aus?",
+        "answer": [
+            "/_img/violet_dragon_shield.webp"
+        ]
+    },
+    {
+        "question": "Artikel \"Mitarbeiter von Selenas Halo\" sehen wie aus?",
+        "answer": [
+            "/_img/violet_staff_of_selena_halo.webp"
+        ]
+    },
+    {
+        "question": "Wie sieht \"Tower Coin\" aus?",
+        "answer": [
+            "/_img/tower_coin.webp"
+        ]
+    },
+    {
+        "question": "Wie sieht eine Elementar -Turniermünze aus?",
+        "answer": [
+            "/_img/elemental_tournament_coin.webp"
+        ]
+    },
+    {
+        "question": "Titan Angus 'Porträt sieht aus?",
+        "answer": [
+            "/_img/browser_angus_avatar.webp"
+        ]
+    },
+    {
+        "question": "Titan Molochs Porträt sieht aus?",
+        "answer": [
+            "/_img/browser_moloch_avatar.webp"
+        ]
+    },
+    {
+        "question": "Brunnen der Blutkenntnisse aussehen wie?",
+        "answer": [
+            "/_img/fountain_of_blood.webp"
+        ]
+    },
+    {
+        "question": "Altar of Souls Skill Icon sehen aus wie?(Corvus)",
+        "answer": [
+            "/_img/browser_corvus_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Amulett -Skills -Ikone des Vorfahren sehen aus wie?(Dorian)",
+        "answer": [
+            "/_img/browser_dorian_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Astralprojektionskenntnis Icon sehen aus wie?(Nebel)",
+        "answer": [
+            "/_img/browser_nebula_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Erwachen Skills -Ikone sehen aus wie?(Ishmael)",
+        "answer": [
+            "/_img/browser_ishmael_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Battle Song Skill Icon sehen aus wie?(Sebastian)",
+        "answer": [
+            "/_img/browser_sebastian_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Big Badda Boom Skill -Ikone sehen aus wie?(Draufgänger)",
+        "answer": [
+            "/_img/browser_daredevil_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Schwarzes Pfeilsymbol sehen aus wie?(Dunkler Stern)",
+        "answer": [
+            "/_img/browser_dark_star_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Gesegnetes Vanguard -Skills -Symbol sieht aus wie?(Tristan)",
+        "answer": [
+            "/_img/mobile_tristan_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Kühnheitskompetenz -Ikone sehen aus wie?(Schwungvoll)",
+        "answer": [
+            "/_img/browser_peppy_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Blade Whirlwind Skill Icon sehen aus wie?(Keira)",
+        "answer": [
+            "/_img/browser_keira_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Bauchfreie Fähigkeiten Symbol sehen aus wie?(Chabba)",
+        "answer": [
+            "/_img/browser_chabba_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Nachlässige Wunschkenntnis -Symbol sieht aus?(Amira)",
+        "answer": [
+            "/_img/mobile_amira_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Celestial Guardians Skill Icon sehen aus wie?(Helios)",
+        "answer": [
+            "/_img/browser_helios_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Kettenlitzerkenntnis -Symbol sehen aus?(Lars)",
+        "answer": [
+            "/_img/browser_lars_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Verkleinerungsfähigkeiten sehen Sie aus wie?(Lian)",
+        "answer": [
+            "/_img/lian_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Leitfähigkeitskompetenz -Symbol sehen aus?(Lars)",
+        "answer": [
+            "/_img/lars_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Mitgefühlskompetenz -Symbol sehen aus wie?(Markus)",
+        "answer": [
+            "/_img/markus_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Kristall von Selias Skill -Symbol sieht aus?(Aurora)",
+        "answer": [
+            "/_img/aurora_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Kristalliner Ansturm -Skills -Ikone sehen aus wie?(Aurora)",
+        "answer": [
+            "/_img/aurora_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Verfluchte Bones Skill -Symbol sehen aus?(Mojo)",
+        "answer": [
+            "/_img/mojo_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Dark Craft Skill Icon sehen aus wie?(Ishmael)",
+        "answer": [
+            "/_img/ishmael_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Dunkle Deal Skill -Symbol sehen aus wie?(Phobos)",
+        "answer": [
+            "/_img/phobos_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Deathflower Skills Symbol sehen aus wie?(Heidi)",
+        "answer": [
+            "/_img/heidi_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Abbruch -Roboter -Skills -Symbol sehen aus?(Arachne)",
+        "answer": [
+            "/_img/arachne_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Dämons Treuekenntnis -Ikone sehen aus?(Astaroth)",
+        "answer": [
+            "/_img/astaroth_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Verschlinger von Magic Skill Icon sehen aus wie?(Rufus)",
+        "answer": [
+            "/_img/rufus_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Entladung!Skillsymbol sehen aus wie?(Draufgänger)",
+        "answer": [
+            "/_img/daredevil_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Elixier von Vigor Skill Icon sehen aus wie?(Jet)",
+        "answer": [
+            "/_img/jet_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Umarmung der Schmerzikone sehen aus wie?(Yasmine)",
+        "answer": [
+            "/_img/yasmine_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Gleichgewichtsfähigkeiten sehen Sie aus wie?(Nebel)",
+        "answer": [
+            "/_img/nebula_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Ewige Weisheitskompetenz -Ikone sehen aus wie?(Satori)",
+        "answer": [
+            "/_img/satori_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Explosive Sphere Skill -Symbol sehen aus?(Kai)",
+        "answer": [
+            "/_img/kai_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Fire Atem Skill -Symbol sehen aus wie?(Lilith)",
+        "answer": [
+            "/_img/lilith_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Fokus der Hasskompetenz -Ikone sehen aus?(Ziri)",
+        "answer": [
+            "/_img/ziri_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Fettschicht -Fähigkeitsymbol sehen aus wie?(Chabba)",
+        "answer": [
+            "/_img/chabba_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Flammschleider -Skills -Ikone sehen aus wie?(Astaroth)",
+        "answer": [
+            "/_img/astaroth_skill_1.webp"
+        ]
+    },
+    {
+        "question": "HEILE FILKE ICON SOHEN SIE AUS?(Schwungvoll)",
+        "answer": [
+            "/_img/peppy_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Gehenna Skill Icon sehen aus wie?(Luther)",
+        "answer": [
+            "/_img/luther_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Harmonie der Grove Skill Icon sehen aus wie?(Alvanor)",
+        "answer": [
+            "/_img/alvanor_skill_4.webp"
+        ]
+    },
+    {
+        "question": "HEILING BEAM SCHLÜSSEISKOMON Sehen Sie aus?(Thea)",
+        "answer": [
+            "/_img/thea_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Heilungsgeisterkenntnis Icon sehen aus wie?(Mojo)",
+        "answer": [
+            "/_img/mojo_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Schwere Weisheitskompetenz -Ikone sehen aus wie?(Cornelius)",
+        "answer": [
+            "/_img/cornelius_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Hypnotische Ballkenntnis -Ikone sehen aus wie?(Lian)",
+        "answer": [
+            "/_img/lian_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Übermäßige Wutkenntnis -Ikone sehen aus wie?(Jet)",
+        "answer": [
+            "/_img/jet_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Hochspannungsmodul-Skillsymbol sehen aus wie?(Isaac)",
+        "answer": [
+            "/_img/isaac_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Ich sehe dich Skillsymbol aussehen wie?(JHU)",
+        "answer": [
+            "/_img/jhu_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Pulsing Comet Skill -Symbol sehen aus wie?",
+        "answer": [
+            "/_img/pulsing_comet.webp"
+        ]
+    },
+    {
+        "question": "Icy Vengeance Skills Icon sehen aus wie?(Krista)",
+        "answer": [
+            "/_img/krista_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Unmittelbares Abrechnungserkenntnis Icon sieht so aus?(Satori)",
+        "answer": [
+            "/_img/satori_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Infernal Rift Skill Icon sehen aus wie?(Lilith)",
+        "answer": [
+            "/_img/lilith_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Ion Cyclon Skill -Symbol sehen aus?(Richter)",
+        "answer": [
+            "/_img/judge_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Lead Storm Skill -Ikone sehen aus wie?(Ingwer)",
+        "answer": [
+            "/_img/inger_skill_1.webp"
+        ]
+    },
+    {
+        "question": "LEPER -Skills -Symbol sehen aus wie?(JORGEN)",
+        "answer": [
+            "/_img/jorgen_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Viele Wahrheiten Skillsikone sehen aus?(Elmir)",
+        "answer": [
+            "/_img/elmir_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Memory Loss Skills Symbol sehen aus wie?(Cornelius)",
+        "answer": [
+            "/_img/cornelius_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Mirage Skill -Symbol sehen aus wie?(Elmir)",
+        "answer": [
+            "/_img/elmir_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Nexus of Horror Skill Icon sehen aus wie?(K'arkh)",
+        "answer": [
+            "/_img/karkh_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Negator of Laws Skill Icon sieht aus?(K'arkh)",
+        "answer": [
+            "/_img/karkh_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Phantom -Skills -Symbol sehen aus?(Ishmael)",
+        "answer": [
+            "/_img/ishmael_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Phoenix 'Embrace Skill -Ikone sehen aus wie?(Aidan)",
+        "answer": [
+            "/_img/aidan_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Light Skill -Symbol aussehen wie?(Aurora)",
+        "answer": [
+            "/_img/aurora_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Plasma -Explosionsfähigkeiten sehen Sie aus wie?(Arachne)",
+        "answer": [
+            "/_img/arachne_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Giftige Bindungen Skills Symbol sehen aus?(Maya)",
+        "answer": [
+            "/_img/maya_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Trank der Müdigkeitsfähigkeiten sehen aus wie?(Jet)",
+        "answer": [
+            "/_img/jet_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Predators Ladungskenntnis -Symbol sehen aus?(Astrid und Lucas)",
+        "answer": [
+            "/_img/astrid_and_lucas_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Protective Dome Skills Icon sehen aus wie?(Cornelius)",
+        "answer": [
+            "/_img/cornelius_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Bestrafen Sie das Fähigkeitsymbol von Pfeilen wie aussehen?(Artemis)",
+        "answer": [
+            "/_img/artemis_skill_4.webp"
+        ]
+    },
+    {
+        "question": "PutreFaction -Skillsymbol sehen aus wie?(Cleaver)",
+        "answer": [
+            "/_img/cleaver_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Queen of Flowers Skill Icon sehen aus wie?(Maya)",
+        "answer": [
+            "/_img/maya_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Rakashis Eid Skill -Ikone sehen aus wie?(Rufus)",
+        "answer": [
+            "/_img/RUFUS_SKILL_4.WEBP"
+        ]
+    },
+    {
+        "question": "Rampanze Naturkenntnis -Ikone sehen aus wie?(Astrid und Lucas)",
+        "answer": [
+            "/_img/astrid_and_lucas_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Ranging Shot Skill -Symbol sehen aus wie?(Ingwer)",
+        "answer": [
+            "/_img/inger_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Vergeltungskompetenz -Symbol sehen aus?(Dante)",
+        "answer": [
+            "/_img/dante_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Gerechte Lichtkompetenz -Symbol sehen aus wie?(Markus)",
+        "answer": [
+            "/_img/markus_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Rusty Hook Skill -Symbol sehen aus wie?(Cleaver)",
+        "answer": [
+            "/_img/cleaver_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Sacred Rage Skill Icon sehen aus wie?(Tristan)",
+        "answer": [
+            "/_img/tristan_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Zweiter Windkenntnis -Symbol sehen aus?(Thea)",
+        "answer": [
+            "/_img/thea_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Geheimnis der Langlebigkeitskompetenz -Ikone sehen so aus?(Martha)",
+        "answer": [
+            "/_img/artha_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Saatgut der Zerstörungskompetenz -Ikone sehen aus wie?(Iris)",
+        "answer": [
+            "/_img/iris_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Fesseln der Schwäche Skill -Symbol sehen aus wie?(Dante)",
+        "answer": [
+            "/_img/dante_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Schutz von Sands Skill Icon sieht aus?(Ziri)",
+        "answer": [
+            "/_img/ziri_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Solar Sanctuary Skill Icon sehen aus?(Thea)",
+        "answer": [
+            "/_img/thea_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Solarwind -Ikone sehen Sie aus wie?(Helios)",
+        "answer": [
+            "/_img/helios_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Zauberer -Experten -Skills -Symbol sehen aus?(Gesichtslos)",
+        "answer": [
+            "/_img/faceless_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Spirit Purification Skill Icon sehen aus?(Satori)",
+        "answer": [
+            "/_img/satori_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Sterngeburtskompetenz -Ikone sehen aus wie?(Helios)",
+        "answer": [
+            "/_img/helios_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Storm Blades Skill Icon sehen aus wie?(Ishmael)",
+        "answer": [
+            "/_img/ishmael_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Streik der verdammten Skills -Ikone sehen aus?(Corvus)",
+        "answer": [
+            "/_img/corvus_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Tea -Party -Skill -Ikone sehen aus wie?(Martha)",
+        "answer": [
+            "/_img/artha_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Spirituosen werden mich heilen, die Skills -Ikone aussehen?(JHU)",
+        "answer": [
+            "/_img/jhu_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Durst nach Blutkompetenz -Ikone sehen aus wie?(Draufgänger)",
+        "answer": [
+            "/_img/daredevil_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Zitternder Händekenntnisse sehen aus wie?(Phobos)",
+        "answer": [
+            "/_img/phobos_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Giftige Pollenkenntnis -Ikone sehen aus?(Maya)",
+        "answer": [
+            "/_img/maya_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Giftiger Spucke -Skill -Symbol sehen aus?(Heidi)",
+        "answer": [
+            "/_img/heidi_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Unter dem Wald -Baldachin -Skillsikon sehen Sie aus wie?(Alvanor)",
+        "answer": [
+            "/_img/alvanor_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Gelübde der Stille Skillsikone sehen aus?(Thea)",
+        "answer": [
+            "/_img/thea_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Wanderungsleuchte Skillsymbol sehen aus wie?(Lian)",
+        "answer": [
+            "/_img/lian_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Wilde Hunger Skill -Ikone sehen aus wie?(Chabba)",
+        "answer": [
+            "/_img/chabba_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Wings of Night Skill Icon sehen aus wie?(Dorian)",
+        "answer": [
+            "/_img/dorian_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Zorn der Naturkenntnisse aussehen wie?(Alvanor)",
+        "answer": [
+            "/_img/alvanor_skill_2.webp"
+        ]
+    },
+    {
+        "question": "Sie werden mich nicht davon abhalten, Skillsikone aussehen zu können?(JHU)",
+        "answer": [
+            "/_img/jhu_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Zenith Skill -Symbol sehen aus wie?(Celeste)",
+        "answer": [
+            "/_img/celeste_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Titan -Artefakt \"und Varis Arrow Singer\" sehen aus wie?(Sylvia)",
+        "answer": [
+            "/_img/sylva_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Hex Skill -Symbol sehen aus wie?(Mojo)",
+        "answer": [
+            "/_img/mojo_skill_4.webp"
+        ]
+    },
+    {
+        "question": "Suppressive Feuerkenntnis -Ikone sehen aus?",
+        "answer": [
+            "/_img/inger_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Feuergefecht -Fähigkeiten -Symbol sehen aus wie?",
+        "answer": [
+            "/_img/daredevil_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Dancing Blades Skill -Symbol sehen aus wie?",
+        "answer": [
+            "/_img/keira_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Antimaterie -Blast -Skills -Symbol sehen aus?",
+        "answer": [
+            "/_img/orion_skill_3.webp"
+        ]
+    },
+    {
+        "question": "Rakashis Barrier Skill Icon sieht aus?",
+        "answer": [
+            "/_img/rufus_skill_1.webp"
+        ]
+    },
+    {
+        "question": "Die Segenskompetenz der Natur sehen aus wie?",
+        "answer": [
+            "/_img/nature_barrier.webp"
+        ]
+    },
+    {
+        "question": "Wie sieht Roboterenergie aus?",
+        "answer": [
+            "/_img/robot_energy.webp"
+        ]
+    },
+    {
+        "question": "Titan -Artefakt \"Dark Spirit Totem\" sehen Sie aus?",
+        "answer": [
+            "/_img/dark_spirit_totem.webp"
         ]
     }
 ]
