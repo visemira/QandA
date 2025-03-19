@@ -143,6 +143,26 @@ document.addEventListener("DOMContentLoaded", () => {
             });
     }
 
+    // Function to check if a URL is an image
+    function isImageUrl(url) {
+        const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp', '.svg'];
+        return imageExtensions.some(ext => url.toLowerCase().endsWith(ext));
+    }
+
+    // Function to check if a URL is relative
+    function isRelativeUrl(url) {
+        return !url.startsWith("http://") && !url.startsWith("https://");
+    }
+
+    // Function to update UI text based on the selected language
+    function updateUI(language) {
+        mainTitle.innerHTML = translations[language].mainTitle;
+        linkText.innerHTML = translations[language].linkText;
+        languageLabel.textContent = translations[language].languageLabel;
+        questionTitle.textContent = translations[language].questionTitle;
+        questionInput.placeholder = translations[language].placeholder;
+    }
+
     // Toggle the visibility of the images when the button is clicked
     function toggleImagesVisibility() {
         const isImagesVisible = imagesDisplay.style.display !== "none";
