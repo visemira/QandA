@@ -2829,7 +2829,507 @@
     "answer": [
       "Предотвращает смерть союзников"
     ]
-  }
+  },
+    {
+        "question": "Как выглядит иконка умения Неизвестный токсин?",
+        "answer": ["/_img/Unknown_Toxin.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Небесные Крылья? (Галахад)",
+        "answer": ["/_img/Ironskyes.webp"]
+      },
+      {
+        "question": "Как выглядит предмет «Поглотитель душ»?",
+        "answer": ["/_img/Soul_catcher.webp"]
+      },
+      {
+        "question": "Как выглядит предмет «Доспехи Льва»?",
+        "answer": ["/_img/Lions_armor.webp"]
+      },
+      {
+        "question": "Как выглядит посох Апостола?",
+        "answer": ["/_img/Violet_Apostle_Mace.webp"]
+      },
+      {
+        "question": "Как выглядит мантия ученика?",
+        "answer": ["/_img/White_Apprentice_Mantle.webp"]
+      },
+      {
+        "question": "Как выглядит щит Дракона?",
+        "answer": ["/_img/Violet_Dragon_Shield.webp"]
+      },
+      {
+        "question": "Как выглядит предмет «Посох Селены с ореолом»?",
+        "answer": ["/_img/Violet_Staff_of_Selena_Halo.webp"]
+      },
+      {
+        "question": "Как выглядит «Монета Башни»?",
+        "answer": ["/_img/Tower_Coin.webp"]
+      },
+      {
+        "question": "Как выглядит монета Элементарного турнира?",
+        "answer": ["/_img/Elemental_Tournament_Coin.webp"]
+      },
+      {
+        "question": "Как выглядит портрет Титана Ангуса?",
+        "answer": ["/_img/Browser_Angus_Avatar.webp"]
+      },
+      {
+        "question": "Как выглядит портрет Титана Молоха?",
+        "answer": ["/_img/Browser_Moloch_Avatar.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Кровавая Фонтан?",
+        "answer": ["/_img/Fountain_of_Blood.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Алтарь душ? (Корвус)",
+        "answer": ["/_img/Browser_Corvus_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Амулет предков? (Дориан)",
+        "answer": ["/_img/Browser_Dorian_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Астральная Проекция? (Небула)",
+        "answer": ["/_img/Browser_Nebula_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Пробуждение? (Ишмаэль)",
+        "answer": ["/_img/Browser_Ishmael_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Боевой Песнь? (Себастьян)",
+        "answer": ["/_img/Browser_Sebastian_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Большой Взрыв? (Деревенщина)",
+        "answer": ["/_img/Browser_Daredevil_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Черная Стрела? (Темная звезда)",
+        "answer": ["/_img/Browser_Dark_Star_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Благословенная Передовая? (Тристан)",
+        "answer": ["/_img/Mobile_Tristan_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Дерзость? (Пеппи)",
+        "answer": ["/_img/Browser_Peppy_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Вихрь Клинков? (Кейра)",
+        "answer": ["/_img/Browser_Keira_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Бесконечный живот? (Чабба)",
+        "answer": ["/_img/Browser_Chabba_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Безумное желание? (Амира)",
+        "answer": ["/_img/Mobile_Amira_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Небесные Стражи? (Гелиос)",
+        "answer": ["/_img/Browser_Helios_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Цепная Молния? (Ларс)",
+        "answer": ["/_img/Browser_Lars_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Примирение? (Лиан)",
+        "answer": ["/_img/Lian_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Проводимость? (Ларс)",
+        "answer": ["/_img/Lars_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Сострадание? (Маркс)",
+        "answer": ["/_img/Markus_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Кристалл Селиаса? (Аврора)",
+        "answer": ["/_img/Aurora_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Кристаллическое нападение? (Аврора)",
+        "answer": ["/_img/Aurora_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Проклятые Кости? (Моуджо)",
+        "answer": ["/_img/Mojo_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Темное Искусство? (Ишмаэль)",
+        "answer": ["/_img/Ishmael_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Темная сделка? (Фобос)",
+        "answer": ["/_img/Phobos_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Цветок Смерти? (Хейди)",
+        "answer": ["/_img/Heidi_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Демонтажный робот? (Арахне)",
+        "answer": ["/_img/Arachne_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Демонический альянс? (Астарот)",
+        "answer": ["/_img/Astaroth_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Магическая Поглотитель? (Руфус)",
+        "answer": ["/_img/Rufus_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Заряд! (Деревенщина)",
+        "answer": ["/_img/Daredevil_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Эликсир выносливости? (Джет)",
+        "answer": ["/_img/Jet_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Объятие боли? (Ясмин)",
+        "answer": ["/_img/Yasmine_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Баланс? (Небула)",
+        "answer": ["/_img/Nebula_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Вечная мудрость? (Сатори)",
+        "answer": ["/_img/Satori_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Ионный шар? (Кай)",
+        "answer": ["/_img/Kai_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Огненное дыхание? (Лилит)",
+        "answer": ["/_img/Lilith_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Око ненависти? (Зири)",
+        "answer": ["/_img/Ziri_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Маска мертвеца? (Чабба)",
+        "answer": ["/_img/Chabba_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Пламя-Щит? (Астарот)",
+        "answer": ["/_img/Astaroth_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Развлечение? (Пеппи)",
+        "answer": ["/_img/Peppy_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Геенна? (Лютер)",
+        "answer": ["/_img/Luther_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Лесная гармония? (Альванор)",
+        "answer": ["/_img/Alvanor_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Исцеляющий луч? (Теа)",
+        "answer": ["/_img/Thea_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Исцеляющие духи? (Моуджо)",
+        "answer": ["/_img/Mojo_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Тяжелая мудрость? (Корнелиус)",
+        "answer": ["/_img/Cornelius_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Гипнотическая сфера? (Лиан)",
+        "answer": ["/_img/Lian_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Неудержимая ярость? (Джет)",
+        "answer": ["/_img/Jet_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Высоковольтный модуль? (Айзек)",
+        "answer": ["/_img/Isaac_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Я вижу тебя? (Джу)",
+        "answer": ["/_img/Jhu_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Пульсирующая комета?",
+        "answer": ["/_img/pulsing_comet.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Замороженная месть? (Криста)",
+        "answer": ["/_img/Krista_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Неизбежный приговор? (Сатори)",
+        "answer": ["/_img/Satori_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Адская трещина? (Лилит)",
+        "answer": ["/_img/Lilith_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Ионный шторм? (Судья)",
+        "answer": ["/_img/Judge_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Ливень свинца? (Джинджер)",
+        "answer": ["/_img/Ginger_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Легкий шаг? (Йорген)",
+        "answer": ["/_img/Jorgen_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Множественная истина? (Эльмир)",
+        "answer": ["/_img/Elmir_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Потеря памяти? (Корнелиус)",
+        "answer": ["/_img/Cornelius_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Мираж? (Эльмир)",
+        "answer": ["/_img/Elmir_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Nexus of Horror? (K'arkh)",
+        "answer": ["/_img/Karkh_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Negator of Laws? (K'arkh)",
+        "answer": ["/_img/Karkh_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Phantom? (Ishmael)",
+        "answer": ["/_img/Ishmael_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Phoenix's Embrace? (Aidan)",
+        "answer": ["/_img/Aidan_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Piecing Light? (Aurora)",
+        "answer": ["/_img/Aurora_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Plasma Explosion? (Arachne)",
+        "answer": ["/_img/Arachne_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Poisonous Bonds? (Maya)",
+        "answer": ["/_img/Maya_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Potion of Fatigue? (Jet)",
+        "answer": ["/_img/Jet_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Predator's Charge? (Astrid и Lucas)",
+        "answer": ["/_img/Astrid_and_Lucas_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Protective Dome? (Cornelius)",
+        "answer": ["/_img/Cornelius_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Punishing Arrows? (Artemis)",
+        "answer": ["/_img/Artemis_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Putrefaction? (Cleaver)",
+        "answer": ["/_img/Cleaver_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Queen of Flowers? (Maya)",
+        "answer": ["/_img/Maya_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Rakashi's Oath? (Rufus)",
+        "answer": ["/_img/Rufus_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Rampant Nature? (Astrid и Lucas)",
+        "answer": ["/_img/Astrid_and_Lucas_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Ranging Shot? (Ginger)",
+        "answer": ["/_img/Ginger_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Retribution? (Dante)",
+        "answer": ["/_img/Dante_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Righteous Light? (Markus)",
+        "answer": ["/_img/Markus_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Rusty Hook? (Cleaver)",
+        "answer": ["/_img/Cleaver_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Sacred Rage? (Tristan)",
+        "answer": ["/_img/Tristan_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Second Wind? (Thea)",
+        "answer": ["/_img/Thea_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Secret of Longevity? (Martha)",
+        "answer": ["/_img/Martha_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Seed of Destruction? (Iris)",
+        "answer": ["/_img/Iris_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Shackles of Weakness? (Dante)",
+        "answer": ["/_img/Dante_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Shelter of Sands? (Ziri)",
+        "answer": ["/_img/Ziri_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Solar Sanctuary? (Thea)",
+        "answer": ["/_img/Thea_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Solar Wind? (Helios)",
+        "answer": ["/_img/Helios_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Spell Expert? (Faceless)",
+        "answer": ["/_img/Faceless_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Spirit Purification? (Satori)",
+        "answer": ["/_img/Satori_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Star Birth? (Helios)",
+        "answer": ["/_img/Helios_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Storm Blades? (Ishmael)",
+        "answer": ["/_img/Ishmael_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Strike of the Damned? (Corvus)",
+        "answer": ["/_img/Corvus_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Tea Party? (Martha)",
+        "answer": ["/_img/Martha_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Spirits will heal me? (Jhu)",
+        "answer": ["/_img/Jhu_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Thirst for Blood? (Daredevil)",
+        "answer": ["/_img/Daredevil_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Trembling Hands? (Phobos)",
+        "answer": ["/_img/Phobos_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Toxic Pollen? (Maya)",
+        "answer": ["/_img/Maya_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Toxic Spit? (Heidi)",
+        "answer": ["/_img/Heidi_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Under the Forest Canopy? (Alvanor)",
+        "answer": ["/_img/Alvanor_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Vow of Silence? (Thea)",
+        "answer": ["/_img/Thea_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Wandering Lights? (Lian)",
+        "answer": ["/_img/Lian_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Wild Hunger? (Chabba)",
+        "answer": ["/_img/Chabba_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Wings of Night? (Dorian)",
+        "answer": ["/_img/Dorian_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Wrath of Nature? (Alvanor)",
+        "answer": ["/_img/Alvanor_skill_2.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения You will not stop me? (Jhu)",
+        "answer": ["/_img/Jhu_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Zenith? (Celeste)",
+        "answer": ["/_img/Celeste_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит артефакт Titan \"Andvari's Arrowslinger\"? (Slyvia)",
+        "answer": ["/_img/Sylva_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Hex? (Mojo)",
+        "answer": ["/_img/Mojo_skill_4.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Suppressive Fire?",
+        "answer": ["/_img/Ginger_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Firefight?",
+        "answer": ["/_img/Daredevil_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Dancing Blades?",
+        "answer": ["/_img/Keira_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Antimatter Blast?",
+        "answer": ["/_img/Orion_skill_3.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Rakashi's Barrier?",
+        "answer": ["/_img/Rufus_skill_1.webp"]
+      },
+      {
+        "question": "Как выглядит иконка умения Nature's Blessing?",
+        "answer": ["/_img/Nature_barrier.webp"]
+      },
+      {
+        "question": "Как выглядит энергия Робота?",
+        "answer": ["/_img/Robot_energy.webp"]
+      },
+      {
+        "question": "Как выглядит артефакт Titan \"Dark Spirit Totem\"?",
+        "answer": ["/_img/Dark_spirit_totem.webp"]
+      }  
   ]
 
 
