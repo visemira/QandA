@@ -1,0 +1,3102 @@
+[
+    {
+        "question": "Złoto Czy potrzebujesz białego wzoru z flagi wojny?",
+        "answer": [
+            "0"
+        ]
+    },
+    {
+        "question": "Nazwa garnituru Juliusza?",
+        "answer": [
+            "Felix"
+        ]
+    },
+    {
+        "question": "Klątwa Vexy Ciała wpływa na wroga",
+        "answer": [
+            "z najniższym zdrowiem."
+        ]
+    },
+    {
+        "question": "Nazwa Lian's Umiłowana?",
+        "answer": [
+            "Hiroshi"
+        ]
+    },
+    {
+        "question": "zyskuje ładunek zamiast energii?",
+        "answer": [
+            "Izaak"
+        ]
+    },
+    {
+        "question": "nie używa personelu?",
+        "answer": [
+            "Mojo"
+        ]
+    },
+    {
+        "question": "Nie ma kaptura w domyślnej skórze?",
+        "answer": [
+            "dorycki"
+        ]
+    },
+    {
+        "question": "Nie możesz mieć Merlina jako patrona?",
+        "answer": [
+            "Rufus"
+        ]
+    },
+    {
+        "question": "uzyskać kryształy duszy potrzebne do przywołania bohaterów?",
+        "answer": [
+            "Soul Atrium"
+        ]
+    },
+    {
+        "question": "Tymczasowo obniżyć główną statystykę przeciwnika",
+        "answer": [
+            "Dante"
+        ]
+    },
+    {
+        "question": "Identyczne białe wzory Czy potrzebujesz pierwszego fioletowego?",
+        "answer": [
+            "8"
+        ]
+    },
+    {
+        "question": "Druga umiejętność PET zwiększa szansę na unikanie wszystkich bohaterów?",
+        "answer": [
+            "Kain"
+        ]
+    },
+    {
+        "question": "Maksymalna liczba wzorów, które możesz wplatać w flagę wojny?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Czy przeniesienie sojusznika o niskim poziomie zdrowia może do centrum swojego zespołu?",
+        "answer": [
+            "Kruk"
+        ]
+    },
+    {
+        "question": "Opcji prędkości bitwy nie można używać podczas misji kampanii?",
+        "answer": [
+            "X0.5"
+        ]
+    },
+    {
+        "question": "Max wzmocnienie, które możesz zastosować do wskaźnika spadku bohatera w Soul Atrium?",
+        "answer": [
+            "250%"
+        ]
+    },
+    {
+        "question": "Wspieraj główną statystykę bohatera to siła?",
+        "answer": [
+            "Filtry"
+        ]
+    },
+    {
+        "question": "jest opiekunem Grove",
+        "answer": [
+            "Thea"
+        ]
+    },
+    {
+        "question": "Titan to lekki tytan?",
+        "answer": [
+            "Iyari"
+        ]
+    },
+    {
+        "question": "Tytuł Dark Bears?",
+        "answer": [
+            "Wcielenie ciemności"
+        ]
+    },
+    {
+        "question": "Max Wniebowstąpienia?",
+        "answer": [
+            "5"
+        ]
+    },
+    {
+        "question": "Czy ich własna muzyka tematyczna ma w grze?",
+        "answer": [
+            "Thea"
+        ]
+    },
+    {
+        "question": "Tytan nie może ogłuszać wrogów?",
+        "answer": [
+            "Angus"
+        ]
+    },
+    {
+        "question": "Totemy może jednocześnie używać jednego zespołu Titan?",
+        "answer": [
+            "2"
+        ]
+    },
+    {
+        "question": "Czy podczas imprezy nie można zarobić kamieni skóry Titan?",
+        "answer": [
+            "Synergia żywiołowa"
+        ]
+    },
+    {
+        "question": "Zaczynając od rangi, czy możesz ocenić bohatera i zdobyć 50 szmaragdów?",
+        "answer": [
+            "Orange 4"
+        ]
+    },
+    {
+        "question": "Członkowie gildii mogą uczestniczyć w starciu światów?",
+        "answer": [
+            "30"
+        ]
+    },
+    {
+        "question": "Różnica między sezonami Clash of Worlds?",
+        "answer": [
+            "Tydzień"
+        ]
+    },
+    {
+        "question": "Stat wzmocnienie, czy ciemni tytani zyskują z totemu Dark Spirit?",
+        "answer": [
+            "Zdrowie"
+        ]
+    },
+    {
+        "question": "Czy skórka mistrza, którą można kupić za złote trofea?",
+        "answer": [
+            "dorycki",
+            "Cleaver",
+            "Helios",
+            "Jhu",
+            "Jorgen",
+            "Maya",
+            "Legenda"
+        ]
+    },
+    {
+        "question": "Czy księżniczka?",
+        "answer": [
+            "Astrid"
+        ]
+    },
+    {
+        "question": "Czy nie jest obcy dominacji?",
+        "answer": [
+            "Arachne"
+        ]
+    },
+    {
+        "question": "Titan posiada artefakt znany jako Vambraces Nephtisa?",
+        "answer": [
+            "Mort"
+        ]
+    },
+    {
+        "question": "Titan zwiększa Max Health of Aliants?",
+        "answer": [
+            "Solaris"
+        ]
+    },
+    {
+        "question": "Nazwa ciemnego super tytana?",
+        "answer": [
+            "Ciemny"
+        ]
+    },
+    {
+        "question": "Tryb nie ma żadnych zawodów krzyżowych?",
+        "answer": [
+            "Wojna gildii"
+        ]
+    },
+    {
+        "question": "Otrzymuj do sprzedaży artykułów sprzętu bohatera?",
+        "answer": [
+            "Złoto"
+        ]
+    },
+    {
+        "question": "Nie możesz ogłuszyć wrogów?",
+        "answer": [
+            "Izaak"
+        ]
+    },
+    {
+        "question": "Etapy są w turnieju Elements Cross-Server?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Nie ma krytycznego hitu Glif?",
+        "answer": [
+            "Izaak"
+        ]
+    },
+    {
+        "question": "Czy zebrał drużynę do walki z demonami?",
+        "answer": [
+            "Tristan"
+        ]
+    },
+    {
+        "question": "Gałęzie są w sumie na wielkim drzewie mądrości?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Insygnia są wymagane dla Wniebowstąpienia Bohaterów z kontrolą jako główną rolą?",
+        "answer": [
+            "Insygnia siły woli"
+        ]
+    },
+    {
+        "question": "Gracze otrzymują wyróżnienie dla tytanitów hodowanych w ciągu dnia?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Atakujący tytani elementu zadają mniej obrażeń wobec korony Ziemi?",
+        "answer": [
+            "Woda"
+        ]
+    },
+    {
+        "question": "Tytani roli nie mają skórki mistrzów?",
+        "answer": [
+            "Marksmen"
+        ]
+    },
+    {
+        "question": "posługuje się personelem kota w ich maskaradę?",
+        "answer": [
+            "Cornelius"
+        ]
+    },
+    {
+        "question": "Efekty kontrolne Udzielenie maksymalnych opłat pierwszej umiejętności Khorusa?",
+        "answer": [
+            "Cisza"
+        ]
+    },
+    {
+        "question": "o statystykach Heidi nie można promować runami?",
+        "answer": [
+            "Zdrowie"
+        ]
+    },
+    {
+        "question": "o statystykach Heidi nie można promować glifami?",
+        "answer": [
+            "Zdrowie"
+        ]
+    },
+    {
+        "question": "Umiejętność Wniebowstąpienia Hero przekształca nadmiar leczenia w tarczę?",
+        "answer": [
+            "Thea"
+        ]
+    },
+    {
+        "question": "Bohaterowie ma umiejętności Wniebowstąpienia?",
+        "answer": [
+            "Mgławica",
+            "Qing Mao",
+            "Thea",
+            "Ciemna gwiazda",
+            "Artemis",
+            "Kai",
+            "Sędzia",
+            "Lilith",
+            "Zorza polarna",
+            "Orion",
+            "Heidi",
+            "Keira",
+            "Żółwie ninja",
+            "Galahad",
+            "Cleaver",
+            "Pełen werwy",
+            "Ishmael"
+        ]
+    },
+    {
+        "question": "Nie ma skóry słonecznej?",
+        "answer": [
+            "Cleaver"
+        ]
+    },
+    {
+        "question": "Nie możesz wybrać Khorusa jako patrona?",
+        "answer": [
+            "dorycki"
+        ]
+    },
+    {
+        "question": "Bohaterka może odsłonić część duszy w ciele wroga?",
+        "answer": [
+            "Irys"
+        ]
+    },
+    {
+        "question": "Tymczasowy Buff Guild Raid zwiększa szkody, które zespół zadaje koszmary?",
+        "answer": [
+            "Odwetu Dreamera"
+        ]
+    },
+    {
+        "question": "Czy skóra niebiańska?",
+        "answer": [
+            "Satori"
+        ]
+    },
+    {
+        "question": "nie można uzyskać z skrzyń w przygodzie?",
+        "answer": [
+            "Pet Soul Stones"
+        ]
+    },
+    {
+        "question": "Czy możesz używać Astral Seer za darmo?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Przygoda nie istnieje?",
+        "answer": [
+            "Upadek Shavaraka"
+        ]
+    },
+    {
+        "question": "Przygoda wymaga poziomu zespołu 130?",
+        "answer": [
+            "Maelstrom chaosu"
+        ]
+    },
+    {
+        "question": "Cotygodniowe próby walki z szefem Raid Guild, czy każdy gracz dostaje?",
+        "answer": [
+            "5"
+        ]
+    },
+    {
+        "question": "nie można uzyskać z nalotów gildii?",
+        "answer": [
+            "Złoto"
+        ]
+    },
+    {
+        "question": "Kto może zostać zaproszony do zamkniętej grupy przygodowej?",
+        "answer": [
+            "Gildii"
+        ]
+    },
+    {
+        "question": "Codzienny limit wymiany pozycji dla punktów aktywności gildii?",
+        "answer": [
+            "2000"
+        ]
+    },
+    {
+        "question": "Hero Soul Stones zawiera Kamienna Kamień Duszy Hero?",
+        "answer": [
+            "50"
+        ]
+    },
+    {
+        "question": "Hero Soul Stones Czy potrzeba ewolucji bohatera z 5. gwiazdy do absolutnej gwiazdy?",
+        "answer": [
+            "300"
+        ]
+    },
+    {
+        "question": "Czas musi minąć, zanim będziesz mógł ponownie ubiegać się o bezpłatną energię w Daily Quest?",
+        "answer": [
+            "1 godzina"
+        ]
+    },
+    {
+        "question": "Nagrodę główną można znaleźć w klatce artefaktowej?",
+        "answer": [
+            "Rdzenie chaosu",
+            "Monety artefaktowe"
+        ]
+    },
+    {
+        "question": "gałęzie ma wielkie drzewo mądrości?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Windows widzisz w głównym sklepie?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Zasoby nie można uzyskać jako nagrody RAID gildii?",
+        "answer": [
+            "Starożytna mądrość kryształ"
+        ]
+    },
+    {
+        "question": "Zasób nie istnieje w grze?",
+        "answer": [
+            "Insygnia świętości"
+        ]
+    },
+    {
+        "question": "Czy umiejętność „Rune of Life”?",
+        "answer": [
+            "Alvanor"
+        ]
+    },
+    {
+        "question": "Na poziomie zespołu Czy możesz uzyskać honorowe pudełka Guardian do ukończenia Daily Quest?",
+        "answer": [
+            "130"
+        ]
+    },
+    {
+        "question": "Z następujących bohaterów nie ma barbarzyńskiej skóry?",
+        "answer": [
+            "Jhu"
+        ]
+    },
+    {
+        "question": "Czy kot na końcu swojego personelu w skórze maskarady?",
+        "answer": [
+            "Cornelius"
+        ]
+    },
+    {
+        "question": "przekształca się w kota w jednej ze swoich skór?",
+        "answer": [
+            "Młody"
+        ]
+    },
+    {
+        "question": "Archdemon czeka na Strażników?",
+        "answer": [
+            "Piec horroru"
+        ]
+    },
+    {
+        "question": "Maksymalny poziom daru żywiołów, jaki może mieć bohater?",
+        "answer": [
+            "30"
+        ]
+    },
+    {
+        "question": "Kto był Lilith do Archdemona?",
+        "answer": [
+            "Pierwsza żona"
+        ]
+    },
+    {
+        "question": "Bogini czy czci Ziri?",
+        "answer": [
+            "AKHREB UMMI"
+        ]
+    },
+    {
+        "question": "STAT nie można zwiększyć za pośrednictwem glifów?",
+        "answer": [
+            "Mądrość",
+            "Wytrwałość"
+        ]
+    },
+    {
+        "question": "Statystyki są wzmacniane przez te artefakty Tytana: Pieczęć ataku, pieczęć obrony i pieczęć równowagi?",
+        "answer": [
+            "Zdrowie",
+            "atak"
+        ]
+    },
+    {
+        "question": "Zły nawyk jest znany?",
+        "answer": [
+            "Picie"
+        ]
+    },
+    {
+        "question": "ma towarzysz kota?",
+        "answer": [
+            "Astrid"
+        ]
+    },
+    {
+        "question": "Uchwycenie celu daje najwięcej punktów w wojnie gildii?",
+        "answer": [
+            "Cytadela"
+        ]
+    },
+    {
+        "question": "Jeden z następujących bohaterów nie ma w każdej ręce broni?",
+        "answer": [
+            "Markus"
+        ]
+    },
+    {
+        "question": "z poniższych osób pojawił się w tej grze?",
+        "answer": [
+            "Przygody",
+            "Titan Valley"
+        ]
+    },
+    {
+        "question": "można kupić na monety turniejowe żywiołowe?",
+        "answer": [
+            "Fragmenty artefaktu tytana"
+        ]
+    },
+    {
+        "question": "Tytuł Dark Bears?",
+        "answer": [
+            "Wcielenie ciemności"
+        ]
+    },
+    {
+        "question": "Znajdź Seymour?",
+        "answer": [
+            "Ghirwil City"
+        ]
+    },
+    {
+        "question": "Bohaterowie spacerują po głównym placu?",
+        "answer": [
+            "Zespół obrony areny"
+        ]
+    },
+    {
+        "question": "Poziom lochów, czy musisz ukończyć, aby otrzymać pierwotną ramkę głębokości?",
+        "answer": [
+            "15000"
+        ]
+    },
+    {
+        "question": "Statystyki brakuje bohatera?",
+        "answer": [
+            "Dokładność"
+        ]
+    },
+    {
+        "question": "Stat nie brakuje bohaterów?",
+        "answer": [
+            "Dokładność"
+        ]
+    },
+    {
+        "question": "Zwierzęta są dostępne w grze?",
+        "answer": [
+            "10"
+        ]
+    },
+    {
+        "question": "Czy odblokowujesz sklep Soul?",
+        "answer": [
+            "Promuj każdą Absolute Star lub Get Cleaver"
+        ]
+    },
+    {
+        "question": "Zasoby Czy musisz kupić kamienie do promowania zwierząt domowych?",
+        "answer": [
+            "Cząsteczka chaosu"
+        ]
+    },
+    {
+        "question": "Z tych gildii fortyfikacje wojenne muszą zostać podbite tytanami?",
+        "answer": [
+            "Wiosna elementów"
+        ]
+    },
+    {
+        "question": "Czy tytuł Thea?",
+        "answer": [
+            "Uzdrowiciel starego gaju"
+        ]
+    },
+    {
+        "question": "Rola nie jest częścią gry?",
+        "answer": [
+            "Morderca"
+        ]
+    },
+    {
+        "question": "Poziom zespołu jest wymagany, aby uzyskać dostęp do Grand Arena?",
+        "answer": [
+            "50"
+        ]
+    },
+    {
+        "question": "sklep sprzedaje kamienie skórne Titan?",
+        "answer": [
+            "Guild War Shop"
+        ]
+    },
+    {
+        "question": "zasobów nie można uzyskać w Outland?",
+        "answer": [
+            "Hero Soul Stones"
+        ]
+    },
+    {
+        "question": "Zadzwoń do lokalizacji w Adventure może wybrać wzmocnienie twojego zespołu?",
+        "answer": [
+            "Ołtarz mocy"
+        ]
+    },
+    {
+        "question": "nie można uzyskać z skrzyń w przygodzie?",
+        "answer": [
+            "Pet Soul Stones"
+        ]
+    },
+    {
+        "question": "Nazwa lodowego ptaka mieszkającego w Nordland?",
+        "answer": [
+            "Astild"
+        ]
+    },
+    {
+        "question": "Outland Boss mieszka w jaskiniach rozpaczy?",
+        "answer": [
+            "IlLYSA TLAVER"
+        ]
+    },
+    {
+        "question": "Outland Boss mieszka w obozie Enflavers?",
+        "answer": [
+            "Brog The Conqueror"
+        ]
+    },
+    {
+        "question": "Outland Boss mieszka w ognistej otchłani?",
+        "answer": [
+            "Vadjar spalarnia"
+        ]
+    },
+    {
+        "question": "Czy można uzyskać mniejszy kamień duszy?",
+        "answer": [
+            "Logując się w 28 dni w miesiącu"
+        ]
+    },
+    {
+        "question": "Maksymalny poziom Valkyrie przychylnie?",
+        "answer": [
+            "16"
+        ]
+    },
+    {
+        "question": "czas, czy musisz ukończyć przygodę?",
+        "answer": [
+            "7 dni"
+        ]
+    },
+    {
+        "question": "Na poziomie jest dostępna dostępna przez wieżę Instant Clear?",
+        "answer": [
+            "130"
+        ]
+    },
+    {
+        "question": "Umiejętność nie jest obecna w grze?",
+        "answer": [
+            "Prawdziwa ciemność"
+        ]
+    },
+    {
+        "question": "Jeden z następujących bohaterów nie ma zimowej skóry?",
+        "answer": [
+            "Qing Mao",
+            "Legenda"
+        ]
+    },
+    {
+        "question": "Umiejętność nie należy do Polaris?",
+        "answer": [
+            "Zamrażarka"
+        ]
+    },
+    {
+        "question": "nie ma energii?",
+        "answer": [
+            "Astrid i Lucas"
+        ]
+    },
+    {
+        "question": "STAT wzmocnienie czy Tytani ognia zyskują z totemu ducha wody?",
+        "answer": [
+            "Nic"
+        ]
+    },
+    {
+        "question": "STAT wzmocnienie czy lekkie tytany zyskują z totemu Light Spirit?",
+        "answer": [
+            "Atak"
+        ]
+    },
+    {
+        "question": "Kim są lekkie artefakty tytanów?",
+        "answer": [
+            "Załatwić"
+        ]
+    },
+    {
+        "question": "Waluta jest wymagana do wyrównania tych artefaktów tytanów: pieczęć ataku, pieczęć obronne i pieczęć równowagi?",
+        "answer": [
+            "Złoto",
+            "Szmaragdowie"
+        ]
+    },
+    {
+        "question": "Podstawową rolą bohatera jest wsparcie?",
+        "answer": [
+            "Mgławica"
+        ]
+    },
+    {
+        "question": "Kto ma wygrane zwycięstwo, jeśli żaden zwycięzca nie zostanie ogłoszony po bitwie na Wielkiej Arenie, trwa przez pewien czas?",
+        "answer": [
+            "Obrońca"
+        ]
+    },
+    {
+        "question": "Typ obrażeń nie jest częścią gry?",
+        "answer": [
+            "Uszkodzenie metafizyczne"
+        ]
+    },
+    {
+        "question": "Typ obrażeń nie jest obecny w grze?",
+        "answer": [
+            "Uszkodzenie metafizyczne"
+        ]
+    },
+    {
+        "question": "Rozdział kampanii zawiera rękę wystającą z ziemi, trzymając siekierę?",
+        "answer": [
+            "7"
+        ]
+    },
+    {
+        "question": "Czy nie możesz otrzymać mikstury tytana?",
+        "answer": [
+            "Przywoływanie koła"
+        ]
+    },
+    {
+        "question": "Z następujących bohaterów nie ma skóry maskarady?",
+        "answer": [
+            "Jorgen"
+        ]
+    },
+    {
+        "question": "korzyść z prowadzenia wielu nalotów w kampanii?",
+        "answer": [
+            "Gwarantują co najmniej 1 fragment pozycji na każde 10 misji"
+        ]
+    },
+    {
+        "question": "Z następujących bohaterów nie ma romantycznej skóry?",
+        "answer": [
+            "Legenda"
+        ]
+    },
+    {
+        "question": "Jedno z tych zwierząt ma umiejętności Darkguard?",
+        "answer": [
+            "Mara"
+        ]
+    },
+    {
+        "question": "PET ma Stayin 'Chill Skill?",
+        "answer": [
+            "Suchar"
+        ]
+    },
+    {
+        "question": "Czy bohaterowie zaczynają swoją podróż?",
+        "answer": [
+            "Ashen Road"
+        ]
+    },
+    {
+        "question": "Nazwa szefa ORC w kampanii rozdział 3?",
+        "answer": [
+            "Gro Bulgor"
+        ]
+    },
+    {
+        "question": "Nie można znaleźć w artefaktowej skrzyni?",
+        "answer": [
+            "Artefakt klawisz klatki piersiowej"
+        ]
+    },
+    {
+        "question": "Nie ma maski?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Wartość nagrody godzinowej dla gracza zajmującego 30 miejsce w Grand Arena?",
+        "answer": [
+            "45"
+        ]
+    },
+    {
+        "question": "Bierna umiejętność bohatera nie działa po ich śmierci?",
+        "answer": [
+            "Niezręczny"
+        ]
+    },
+    {
+        "question": "Często możesz przenieść z jednej gildii do drugiej za darmo?",
+        "answer": [
+            "Raz na 8 godzin"
+        ]
+    },
+    {
+        "question": "Nie ma mechanicznej skóry?",
+        "answer": [
+            "Legenda"
+        ]
+    },
+    {
+        "question": "Monety artefaktowe Czy możesz otrzymać za sprzedaż dowolnego fragmentu artefaktowego?",
+        "answer": [
+            "50"
+        ]
+    },
+    {
+        "question": "Nie można znaleźć na 50. wieży?",
+        "answer": [
+            "Boss Tower"
+        ]
+    },
+    {
+        "question": "Tytani elementu zadają mniej obrażeń wobec korony Ziemi w bitwie ataku?",
+        "answer": [
+            "Woda"
+        ]
+    },
+    {
+        "question": "Tytani elementu zadają mniej obrażeń wobec korony wodnej w bitwie obronnej?",
+        "answer": [
+            "Każdy"
+        ]
+    },
+    {
+        "question": "Tytani elementu są podnoszone przez artefakt bestii bestii Ragni?",
+        "answer": [
+            "Ziemi Tytani"
+        ]
+    },
+    {
+        "question": "Tytani elementu są podnoszone przez artefakt personelu Siungur?",
+        "answer": [
+            "Ogień"
+        ]
+    },
+    {
+        "question": "Czy możesz kupić w sklepie z kamieniem duszy zwierząt domowych?",
+        "answer": [
+            "Cząsteczka chaosu"
+        ]
+    },
+    {
+        "question": "Stat wzmocnienie Czy tytani Ziemi zyskają od totemu ducha ziemskiego?",
+        "answer": [
+            "Zdrowie"
+        ]
+    },
+    {
+        "question": "Nie ma diabelskiej skóry?",
+        "answer": [
+            "Lis"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów nie mogą oślepić swoich przeciwników?",
+        "answer": [
+            "Śmiałek"
+        ]
+    },
+    {
+        "question": "Czy nie można uzyskać rdzenia chaosu?",
+        "answer": [
+            "Artefakt"
+        ]
+    },
+    {
+        "question": "Ilość energii, którą otrzymujesz przy użyciu energii butelkowanej?",
+        "answer": [
+            "200"
+        ]
+    },
+    {
+        "question": "Czy w randze odblokowuje swoje umiejętności patronatu?",
+        "answer": [
+            "Fioletowy"
+        ]
+    },
+    {
+        "question": "Czy w randze czy patronat staje się dostępny dla zwierząt domowych?",
+        "answer": [
+            "Niebieski"
+        ]
+    },
+    {
+        "question": "Sezon nie oferuje energii odzyskiwania X3 jako nagrody?",
+        "answer": [
+            "Sezon astralny"
+        ]
+    },
+    {
+        "question": "Maksymalna liczba okien widzianych na podłodze wieży?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Umiejętność pasywna umożliwia rozpoczęcie bitwy z nagromadzoną energią?",
+        "answer": [
+            "Idol publiczny"
+        ]
+    },
+    {
+        "question": "Trofea wojenne gildii można wymienić na skórę mistrza dla Cleaver?",
+        "answer": [
+            "Złoto"
+        ]
+    },
+    {
+        "question": "Jeden z tych bohaterów ma mistrzową skórę, którą można kupić za złote trofea?",
+        "answer": [
+            "Cleaver",
+            "DORYCKI",
+            "Helios",
+            "Jhu",
+            "Jorgen",
+            "Maya",
+            "Legenda"
+        ]
+    },
+    {
+        "question": "Nie ma wiosennej skóry?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Walcz z balonem w dłoni?",
+        "answer": [
+            "Jorgen"
+        ]
+    },
+    {
+        "question": "Fortyfikacje wojenne gildii muszą zostać podbite, aby zdobyć maksymalne punkty?",
+        "answer": [
+            "10"
+        ]
+    },
+    {
+        "question": "Nie można uzyskać monety artefaktowej?",
+        "answer": [
+            "Wyprawy"
+        ]
+    },
+    {
+        "question": "Zakończ na klatce artefaktowej?",
+        "answer": [
+            "10"
+        ]
+    },
+    {
+        "question": "Czy zostawiasz przygodę przed pokonaniem szefa?",
+        "answer": [
+            "W dzienniku"
+        ]
+    },
+    {
+        "question": "Poziomy są między punktami oszczędności w lochu?",
+        "answer": [
+            "10"
+        ]
+    },
+    {
+        "question": "Pojawienie się Drommer Master of the Elements nie można znaleźć w grze?",
+        "answer": [
+            "Siungur"
+        ]
+    },
+    {
+        "question": "Waluta jest wymagana do wyrównania totemu ducha żywiołowego?",
+        "answer": [
+            "Trofea wojenne gildii",
+            "Szmaragdowie"
+        ]
+    },
+    {
+        "question": "Dommer jest mistrzem artefaktów ognia?",
+        "answer": [
+            "Pająki"
+        ]
+    },
+    {
+        "question": "STAT BOOST Czy Tytani ognia zyskują z totemu Spirit Fire?",
+        "answer": [
+            "Atak"
+        ]
+    },
+    {
+        "question": "Max ranga dla zwierząt?",
+        "answer": [
+            "Violet 3"
+        ]
+    },
+    {
+        "question": "Nie przybył do Dominion podczas wydarzenia noworocznego?",
+        "answer": [
+            "Niezręczny"
+        ]
+    },
+    {
+        "question": "Otrzymuj Jet Soul Stones?",
+        "answer": [
+            "Sklep duszy"
+        ]
+    },
+    {
+        "question": "Typ skóry nie istnieje?",
+        "answer": [
+            "Południowa skóra"
+        ]
+    },
+    {
+        "question": "Labirynt można znaleźć na mapie kampanii?",
+        "answer": [
+            "Labirynt przeszłych nadziei"
+        ]
+    },
+    {
+        "question": "Pragnienie krwi, czwarta umiejętność Daredevila, prawda?",
+        "answer": [
+            "Ignoruje część zbroi wrogów, którą podpaliła"
+        ]
+    },
+    {
+        "question": "Różne maski mogą przywołać Peppy z umiejętnościami maskarady?",
+        "answer": [
+            "4"
+        ]
+    },
+    {
+        "question": "W grupie nauczono oszustwo, nie doprowadzi cię dalej w życiu?",
+        "answer": [
+            "1"
+        ]
+    },
+    {
+        "question": "Codzienne próby ataku czy mistrz gildii ma podczas wojny gildii?",
+        "answer": [
+            "2"
+        ]
+    },
+    {
+        "question": "Czy możesz ubiegać się o bezpłatną energię za ukończenie Daily Quest?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "Przygody w grze?",
+        "answer": [
+            "13"
+        ]
+    },
+    {
+        "question": "Na poziomie otrzymujesz honorowe łaskawy Guardian do wykonywania codziennych zadań?",
+        "answer": [
+            "130"
+        ]
+    },
+    {
+        "question": "Skin Stones zawiera duża kamienna klatka piersiowa?",
+        "answer": [
+            "150"
+        ]
+    },
+    {
+        "question": "Jedno z tych zwierząt domowych zwiększają bohaterów, którzy zadaje czyste obrażenia?",
+        "answer": [
+            "Albus"
+        ]
+    },
+    {
+        "question": "Uszkodzenie fizyczne PET?",
+        "answer": [
+            "Fenris"
+        ]
+    },
+    {
+        "question": "Misja, w której po raz pierwszy napotykasz Archdemon?",
+        "answer": [
+            "Dziedzictwo Archdemona / Dziedzictwo Archdemona"
+        ]
+    },
+    {
+        "question": "nie można uzyskać w wyprawie?",
+        "answer": [
+            "Moneta artefaktowa"
+        ]
+    },
+    {
+        "question": "Czy kamienie skóry Titan są kupowane?",
+        "answer": [
+            "Trofea wojenne z brązu"
+        ]
+    },
+    {
+        "question": "Czy główny cel Astarotha?",
+        "answer": [
+            "Spal świat"
+        ]
+    },
+    {
+        "question": "Czy główny cel życia Astarotha?",
+        "answer": [
+            "Spal świat"
+        ]
+    },
+    {
+        "question": "Pet zwiększa szansę na unikanie wszystkich bohaterów dzięki drugiej umiejętności?",
+        "answer": [
+            "Kain"
+        ]
+    },
+    {
+        "question": "Rozdział jest „rządzony przez ogień”?",
+        "answer": [
+            "Rozdział 1"
+        ]
+    },
+    {
+        "question": "Czy można znaleźć w heroicznej klatce piersiowej wstępnie rozwiniętej w Absolute Star?",
+        "answer": [
+            "Cleaver"
+        ]
+    },
+    {
+        "question": "Celeste tworzy w jej mrocznej formie?",
+        "answer": [
+            "Przeklęty płomień"
+        ]
+    },
+    {
+        "question": "Nazwa domowej planety K'arkha?",
+        "answer": [
+            "Dagan-Nuhr"
+        ]
+    },
+    {
+        "question": "Kto dostał broń „szlachetną”?",
+        "answer": [
+            "Ożywić"
+        ]
+    },
+    {
+        "question": "Dowiedz się, że zmieniło się w Dominium?",
+        "answer": [
+            "Strona społecznościowa Hero Wars"
+        ]
+    },
+    {
+        "question": "został sprowadzony z martwych?",
+        "answer": [
+            "Keira lub Corvus"
+        ]
+    },
+    {
+        "question": "Sklep nie jest obecny w grze?",
+        "answer": [
+            "Sklep miłosny"
+        ]
+    },
+    {
+        "question": "Imię zwierzaka Astrid?",
+        "answer": [
+            "Lucas"
+        ]
+    },
+    {
+        "question": "Pet przyspiesza umiejętności magiczne swojego właściciela?",
+        "answer": [
+            "Merlin"
+        ]
+    },
+    {
+        "question": "Rufus nie może mieć Merlina jako zwierzaka?",
+        "answer": [
+            "Merlin"
+        ]
+    },
+    {
+        "question": "Element Titan nie można znaleźć w Dominium?",
+        "answer": [
+            "Metal"
+        ]
+    },
+    {
+        "question": "Czy kosmita?",
+        "answer": [
+            "Orion",
+            "Karh",
+            "Julius"
+        ]
+    },
+    {
+        "question": "Czy nazwisko Aurory jest?",
+        "answer": [
+            "Paladyn z Riversar"
+        ]
+    },
+    {
+        "question": "Ranga nie jest w grze?",
+        "answer": [
+            "Czerwony +4"
+        ]
+    },
+    {
+        "question": "Ojciec Ismaela chce mu zrobić w dzieciństwie?",
+        "answer": [
+            "Poświęć Go bogom"
+        ]
+    },
+    {
+        "question": "Nazwa Adventure 12?",
+        "answer": [
+            "Oblężenie Strongford"
+        ]
+    },
+    {
+        "question": "Forma nie może przyjąć Lucasa, zwierzaka Astri?",
+        "answer": [
+            "Wiewiórka"
+        ]
+    },
+    {
+        "question": "Nie można znaleźć w kamiennej klatce piersiowej skóry?",
+        "answer": [
+            "Stamina Skin Stone"
+        ]
+    },
+    {
+        "question": "Zasoby Czy musisz kupić tymczasowe buffy nalotu gildii?",
+        "answer": [
+            "Emblematyki złota i męstwa"
+        ]
+    },
+    {
+        "question": "Nie można znaleźć w kamiennej klatce piersiowej?",
+        "answer": [
+            "Stamina Skin Stone"
+        ]
+    },
+    {
+        "question": "Jednym z bohaterów jest gwiazda dziecka?",
+        "answer": [
+            "Helios"
+        ]
+    },
+    {
+        "question": "Skórki nie są obecne w grze?",
+        "answer": [
+            "Lato"
+        ]
+    },
+    {
+        "question": "Ludzie mieszkali w Ghirwil City?",
+        "answer": [
+            "Perkusiści"
+        ]
+    },
+    {
+        "question": "rodzaj magii ma Dorian?",
+        "answer": [
+            "Magia krwi"
+        ]
+    },
+    {
+        "question": "Kamienie czaszki są uzyskiwane?",
+        "answer": [
+            "Wieża"
+        ]
+    },
+    {
+        "question": "Nie w grze?",
+        "answer": [
+            "Rama strażnika wieży"
+        ]
+    },
+    {
+        "question": "Kto mieszka w kampanii rozdział 10?",
+        "answer": [
+            "Typhon"
+        ]
+    },
+    {
+        "question": "Kto pomaga bohaterom natychmiast ukończyć wieżę na poziomie zespołu 130?",
+        "answer": [
+            "Valkyrie"
+        ]
+    },
+    {
+        "question": "Kto jest właścicielem Rarity Fair?",
+        "answer": [
+            "Wendy"
+        ]
+    },
+    {
+        "question": "Czy nazwisko Corneliusa jest nazwisko Corneliusa?",
+        "answer": [
+            "Witt"
+        ]
+    },
+    {
+        "question": "Plemię należy do JHU?",
+        "answer": [
+            "Jedenaście"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów nie niosą broni w rękach?",
+        "answer": [
+            "Legenda"
+        ]
+    },
+    {
+        "question": "nie można uzyskać w wyprawie?",
+        "answer": [
+            "Moneta artefaktowa"
+        ]
+    },
+    {
+        "question": "Jedno z tych nazw nie jest imię przygody?",
+        "answer": [
+            "Upadek Shavaraka"
+        ]
+    },
+    {
+        "question": "Jeden z następujących bohaterów nie ma wiosennej skóry?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Z tych szmaragdowych mnożników wymiany nie istnieje?",
+        "answer": [
+            "25"
+        ]
+    },
+    {
+        "question": "Łącznie można uzyskać chipy przyjaźni dziennie, nie biorąc pod uwagę prezentów grupowych?",
+        "answer": [
+            "1000"
+        ]
+    },
+    {
+        "question": "Nie możesz być częścią artykułów sprzętu Hero?",
+        "answer": [
+            "Runy"
+        ]
+    },
+    {
+        "question": "Jeden jest szefem Outland?",
+        "answer": [
+            "Brog The Conqueror"
+        ]
+    },
+    {
+        "question": "Ziemie Corvus przysięgał, aby chronić?",
+        "answer": [
+            "Królestwo Graven"
+        ]
+    },
+    {
+        "question": "Czy dziecko człowieka i tytana?",
+        "answer": [
+            "Maya"
+        ]
+    },
+    {
+        "question": "Jeden z poniższych bohaterów nie używa personelu?",
+        "answer": [
+            "Mojo"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów może zablokować leczenie wroga?",
+        "answer": [
+            "Yasmine"
+        ]
+    },
+    {
+        "question": "Wrogowie, czy musisz pokonać, aby przejść do etapu 2 turnieju żywiołów?",
+        "answer": [
+            "5"
+        ]
+    },
+    {
+        "question": "Mara Pet i ciemna gwiazda mają wspólnego?",
+        "answer": [
+            "Kontrola umysłu"
+        ]
+    },
+    {
+        "question": "Maksymalna liczba szkieletów Morrigan może jednocześnie kontrolować?",
+        "answer": [
+            "6"
+        ]
+    },
+    {
+        "question": "Punkty aktywności gildii można uzyskać za modernizację glifu bohatera raz dziennie?",
+        "answer": [
+            "700"
+        ]
+    },
+    {
+        "question": "Kto jest ostatnim szefem w kampanii?",
+        "answer": [
+            "Seymour"
+        ]
+    },
+    {
+        "question": "Kto wysyła ci szmaragdów do promocji bohatera pocztą?",
+        "answer": [
+            "Wendy"
+        ]
+    },
+    {
+        "question": "element polega na polecenia Andvari?",
+        "answer": [
+            "Element Ziemi"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów ma uścisk umiejętności bólu?",
+        "answer": [
+            "Yasmine"
+        ]
+    },
+    {
+        "question": "Szefa nie można spotkać w przygodach?",
+        "answer": [
+            "Śmiałek"
+        ]
+    },
+    {
+        "question": "Szefa nie można spotkać w przygodach?",
+        "answer": [
+            "Śmiałek"
+        ]
+    },
+    {
+        "question": "Stosunek między punktami energetycznymi spędzonymi do punktów aktywności gildii?",
+        "answer": [
+            "1 do 1"
+        ]
+    },
+    {
+        "question": "Kto jest przydzielony zwycięstwo, jeśli żaden zwycięzca nie zostanie ogłoszony po bitwie na Wielkiej Arenie, trwa przez pewien czas?",
+        "answer": [
+            "Obrońca"
+        ]
+    },
+    {
+        "question": "Kto się uderza, gdy sojusznik jest krytycznie uderzony?",
+        "answer": [
+            "Helios"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów nosi na głowie koronę?",
+        "answer": [
+            "Morrigan"
+        ]
+    },
+    {
+        "question": "Krytyczne hity bohatera mogą zatruć wrogów?",
+        "answer": [
+            "Yasmine"
+        ]
+    },
+    {
+        "question": "Nie można go kupić w Guild War Shop?",
+        "answer": [
+            "Wielka runka za zaklęcie"
+        ]
+    },
+    {
+        "question": "Trofea wojenne gildii można wymienić na miksturę tytana?",
+        "answer": [
+            "Trofeum wojenne z brązu"
+        ]
+    },
+    {
+        "question": "z następujących bohaterów ma cybernetyczną skórę?",
+        "answer": [
+            "Orion",
+            "Aidan",
+            "Astaroth",
+            "Cornelius",
+            "Polaris",
+            "Luter",
+            "Legenda",
+            "Mojo",
+            "Irys",
+            "Lars",
+            "Krista",
+            "Satori",
+            "Amira",
+            "Lis",
+            "Elmir",
+            "Kayla",
+            "Takmin"
+        ]
+    },
+    {
+        "question": "Jeden z tych kamieni duszy Tytana nie może zostać odebrany na zwycięstwo w lochu?",
+        "answer": [
+            "eden",
+            "Arend",
+            "Hyperion"
+        ]
+    },
+    {
+        "question": "można uzyskać jako nagrodę za punkty wieży?",
+        "answer": [
+            "Złoto",
+            "Monety wieży"
+        ]
+    },
+    {
+        "question": "Nazwa brata Qing Mao?",
+        "answer": [
+            "Qing długi"
+        ]
+    },
+    {
+        "question": "Nie ma kaptura w domyślnej skórze?",
+        "answer": [
+            "dorycki"
+        ]
+    },
+    {
+        "question": "Na poziomie przygody stają się dostępne?",
+        "answer": [
+            "40"
+        ]
+    },
+    {
+        "question": "Hero jest znajomy to nietoperz?",
+        "answer": [
+            "dorycki"
+        ]
+    },
+    {
+        "question": "Zaginionym bohaterem animowanym krótkim ujawnieniem poprzedniego imienia Archdemona.Czy to?",
+        "answer": [
+            "Gareth"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Amira",
+        "answer": [
+            "Turban wielkiego dżina",
+            "Rękopis pustki",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera i Vari",
+        "answer": [
+            "Ręka wielkiego mistrza",
+            "Folio alchemika",
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Arachne",
+        "answer": [
+            "Hyper Booster DS-1",
+            "Przymierze obrońcy",
+            "Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Artemis",
+        "answer": [
+            "Zmorda zła",
+            "Folio alchemika",
+            "Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Astaroth",
+        "answer": [
+            "Scythe of Redemption",
+            "Przymierze obrońcy",
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tej bohatera Aurora",
+        "answer": [
+            "Dziedzictwo Seliasa",
+            "Księga złudzeń",
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Chabba",
+        "answer": [
+            "Bracery głodu",
+            "Przymierze obrońcy",
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Corneliusa",
+        "answer": [
+            "Personel archiwum",
+            "Tome of Arcane Knowledge",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Corvusa",
+        "answer": [
+            "Glaive nieumarłych królów",
+            "Przymierze obrońcy",
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tej ciemnej gwiazdy bohatera",
+        "answer": [
+            "Folio alchemika",
+            "Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Dorian",
+        "answer": [
+            "Stal krwawiąca",
+            "Tome of Arcane Knowledge",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Elmira",
+        "answer": [
+            "Ostrza wielu prawd",
+            "Folio alchemika",
+            "Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera bez twarzy",
+        "answer": [
+            "Niemycie pustelni",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Fafnir",
+        "answer": [
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera lisa",
+        "answer": [
+            "Folio alchemika"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Galahad",
+        "answer": [
+            "Przymierze obrońcy",
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Helios",
+        "answer": [
+            "Różdżka tysiąca słońca"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tej tęczówki bohatera",
+        "answer": [
+            "Grimoire z zniewolonych dusz",
+            "Tome of Arcane Knowledge",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Izaaka",
+        "answer": [
+            "Lil 'Tes'lin",
+            "Folio alchemika",
+            "Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Ishmaela",
+        "answer": [
+            "Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera",
+        "answer": [
+            "Księga złudzeń"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Jhu",
+        "answer": [
+            "Zarakkar Bones"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Jorgen",
+        "answer": [
+            "Krew Shivaraka",
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego sędziego bohatera",
+        "answer": [
+            "Wykres niekończących się gwiazd",
+            "Tome of Arcane Knowledge",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera kai",
+        "answer": [
+            "Płaszcz Wanderera",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Krista",
+        "answer": [
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Lara Croft",
+        "answer": [
+            "Jade naszyjnik Lary",
+            "Kod Wojownika",
+            "Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Larsa",
+        "answer": [
+            "Stormy Talizm, rękopis pustki"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Lian",
+        "answer": [
+            "Tome of Arcane Knowledge"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Lilith",
+        "answer": [
+            "Tome of Arcane Knowledge"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Markusa",
+        "answer": [
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Maya",
+        "answer": [
+            "Tome of Arcane Knowledge",
+            "Gałąź drzewa matki",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Mojo",
+        "answer": [
+            "Maska gniewu",
+            "Rękopis pustki",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Morrigana",
+        "answer": [
+            "Czaszka Raven",
+            "Tome of Arcane Knowledge",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tej mgławicy bohatera",
+        "answer": [
+            "Nienarodzone gwiazdy",
+            "Księga Zilusów Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera",
+        "answer": [
+            "Pani Whirligig",
+            "Pierścień inteligencji"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Qing Mao",
+        "answer": [
+            "Pierścień zwinności",
+            "Księga złudzeń"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Rufusa",
+        "answer": [
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Sebastian",
+        "answer": [
+            "Kod Wojownika",
+            "Pierścień zwinności"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Thea",
+        "answer": [
+            "Tome of Arcane Knowledge",
+            "Pierścień inteligencji",
+            "Personel odrodzenia"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Yasmine",
+        "answer": [
+            "Khanjaras Kanakubine",
+            "Kod Wojownika"
+        ]
+    },
+    {
+        "question": "Artefakt należy do tego bohatera Ziri",
+        "answer": [
+            "Akhreb Ummi's Sting",
+            "Pierścień siły"
+        ]
+    },
+    {
+        "question": "Kim jest Mira?",
+        "answer": [
+            "Trener dla zwierząt"
+        ]
+    },
+    {
+        "question": "Titan jest znany jako ojciec oceanu",
+        "answer": [
+            "Hyperion"
+        ]
+    },
+    {
+        "question": "Kto może zbliżyć się do łańcucha?",
+        "answer": [
+            "Cleaver"
+        ]
+    },
+    {
+        "question": "ma więcej niż 2 ręce?",
+        "answer": [
+            "Karh",
+            "Dante"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów ma skórę Sweettooth?",
+        "answer": [
+            "Pełen werwy"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów ma ciemną skórę głębokości?",
+        "answer": [
+            "K'ARGH",
+            "Satori",
+            "Fobos"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów nie ma gwiezdnej skóry?",
+        "answer": [
+            "Sędzia"
+        ]
+    },
+    {
+        "question": "Nie ma skóry maskarady?",
+        "answer": [
+            "Jorgen"
+        ]
+    },
+    {
+        "question": "Wiatr Vane na dachu sklepu na głównym placu wygląda jak?",
+        "answer": [
+            "Smok"
+        ]
+    },
+    {
+        "question": "Z następujących bohaterów nie ma skóry ciemnej głębokości?",
+        "answer": [
+            "Sędzia"
+        ]
+    },
+    {
+        "question": "Jeden z tych bohaterów nosi kapelusz w swojej domyślnej skórze",
+        "answer": [
+            "Sebastian",
+            "Fobos"
+        ]
+    },
+    {
+        "question": "nie ma umiejętności związanych z wampiryzmem?",
+        "answer": [
+            "Jorgen"
+        ]
+    },
+    {
+        "question": "Z następujących bohaterów ma mistrzową skórę, którą można kupić za pomocą trofeów wojennych srebrnych gildii?",
+        "answer": [
+            "Galahad",
+            "Ożywić",
+            "Ishmael",
+            "Sędzia",
+            "Kai",
+            "Pełen werwy",
+            "Thea"
+        ]
+    },
+    {
+        "question": "stają się młodsze w swoich skórkach?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "Czy otrzymywane są monety czaszki?",
+        "answer": [
+            "Wieża"
+        ]
+    },
+    {
+        "question": "ilość doświadczenia, które otrzymujesz, korzystając z ogromnej mikstury EXP?",
+        "answer": [
+            "7500"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów ma specjalny inżynier?",
+        "answer": [
+            "Izaak",
+            "Ożywić",
+            "Lis"
+        ]
+    },
+    {
+        "question": "Masz krytyczny hit Gliph?",
+        "answer": [
+            "Artemis",
+            "Ishmael",
+            "Śmiałek",
+            "Sebastian",
+            "Jhu"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów nie ma krytycznej skóry.",
+        "answer": [
+            "Sebastian",
+            "Izaak"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów nie ma krytycznego hitu Glipha?",
+        "answer": [
+            "Izaak"
+        ]
+    },
+    {
+        "question": "Kim jest Morrigan do Corvusa?",
+        "answer": [
+            "Córka"
+        ]
+    },
+    {
+        "question": "Hero Souls Czy potrzeba ewolucji bohatera z 5. gwiazdy do absolutnej gwiazdy?",
+        "answer": [
+            "300"
+        ]
+    },
+    {
+        "question": "Nie możesz odcenić energii od wrogów?",
+        "answer": [
+            "Karh"
+        ]
+    },
+    {
+        "question": "Nazwa żółwia Martha?",
+        "answer": [
+            "Josephine"
+        ]
+    },
+    {
+        "question": "Czy włączasz muzykę i dźwięk?",
+        "answer": [
+            "Ustawienia"
+        ]
+    },
+    {
+        "question": "Czy z cząsteczkami chaosu?",
+        "answer": [
+            "Obciążyć klejnot zwierzaka"
+        ]
+    },
+    {
+        "question": "Czy herbata warzona przez Martę rośnie?",
+        "answer": [
+            "Las Zarakkar"
+        ]
+    },
+    {
+        "question": "Czy odblokowujesz naklejkę bohatera?",
+        "answer": [
+            "Przywołaj bohatera"
+        ]
+    },
+    {
+        "question": "Czy możesz dostać się na monety czaszki na wieży 50?",
+        "answer": [
+            "Złoto"
+        ]
+    },
+    {
+        "question": "Szef, czy możesz spotkać się w Maelstrom of Chaos?",
+        "answer": [
+            "Zawsze inaczej"
+        ]
+    },
+    {
+        "question": "Nazwa posągu w kampanii Rozdział 2?",
+        "answer": [
+            "Monolit Merona"
+        ]
+    },
+    {
+        "question": "Bohaterowie są w sumie w grze?",
+        "answer": [
+            "62 (01.03.2024) Web"
+        ]
+    },
+    {
+        "question": "STAT Czy druga umiejętności Dantego zwiększa się dla wszystkich sojuszników?",
+        "answer": [
+            "Unik"
+        ]
+    },
+    {
+        "question": "Nie można go wymienić na aktywność gildii?",
+        "answer": [
+            "Punkty exp"
+        ]
+    },
+    {
+        "question": "Jeden z nich nie może opuścić gildii bez przypisywania swojej roli innym graczowi?",
+        "answer": [
+            "Mistrz gildii"
+        ]
+    },
+    {
+        "question": "Jeden z następujących bohaterów nie ma mistrzów?",
+        "answer": [
+            "Cornelius"
+        ]
+    },
+    {
+        "question": "Nie ma mistrzów skóry?",
+        "answer": [
+            "Cornelius"
+        ]
+    },
+    {
+        "question": "Pozycji nie mogą być zajęte przez bohaterów?",
+        "answer": [
+            "Lewa linia"
+        ]
+    },
+    {
+        "question": "Czy nie można uzyskać brązowej gildii wojennej?",
+        "answer": [
+            "Łup wypraw"
+        ]
+    },
+    {
+        "question": "Dzieli swoje ciało z duszą czarnego lisa?",
+        "answer": [
+            "Satori"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów mogą oczarować swoich wrogów?",
+        "answer": [
+            "Lian"
+        ]
+    },
+    {
+        "question": "Order rycerzy należy do Lutra?",
+        "answer": [
+            "Zakon św. Bran"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów zyskują ładunek zamiast energii?",
+        "answer": [
+            "Izaak"
+        ]
+    },
+    {
+        "question": "Buffowie dnia mogą być aktywni w tym samym czasie w przygodach?",
+        "answer": [
+            "3"
+        ]
+    },
+    {
+        "question": "tych bohaterów ma fioletowe oczy?",
+        "answer": [
+            "Yasmine"
+        ]
+    },
+    {
+        "question": "Glif czy Keira nie ma?",
+        "answer": [
+            "Krytyczny hit"
+        ]
+    },
+    {
+        "question": "Zdolność, którą Cornelius uzyskał, będąc trzymanym w niewoli przez ciemnych magów?",
+        "answer": [
+            "Tłumiąc magię"
+        ]
+    },
+    {
+        "question": "Broń czy Walkirie włada?",
+        "answer": [
+            "Włócznia"
+        ]
+    },
+    {
+        "question": "Avatar Frame nie jest obecna w grze?",
+        "answer": [
+            "Rama strażnika wieży"
+        ]
+    },
+    {
+        "question": "Czy suma mentorów miała OSH wieczny opiekun?",
+        "answer": [
+            "5"
+        ]
+    },
+    {
+        "question": "Szkoła uczęszczała bez twarzy?",
+        "answer": [
+            "Szkoła mistyków"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów ma rolę kontrolną?",
+        "answer": [
+            "Lilith"
+        ]
+    },
+    {
+        "question": "Czy otrzymujesz ramę chaosu?",
+        "answer": [
+            "Pokonaj szefa w Adventure 13 piętnaście razy"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów ma hałaśliwą skórę?",
+        "answer": [
+            "Śmiałek"
+        ]
+    },
+    {
+        "question": "klatka piersiowa nie jest obecna w grze?",
+        "answer": [
+            "Runna klatka piersiowa"
+        ]
+    },
+    {
+        "question": "z tych tytanów ma tarczę?",
+        "answer": [
+            "Sigurd"
+        ]
+    },
+    {
+        "question": "Kim był Keira, zanim zamienił się w mściwy duch?",
+        "answer": [
+            "Królewski strażnik"
+        ]
+    },
+    {
+        "question": "Bohaterowie powinieneś wysłać do bitwy obok Mary, zwierzaka?",
+        "answer": [
+            "Kontroluj bohaterów"
+        ]
+    },
+    {
+        "question": "Z tych bohaterów może przenieść sojusznika o niskim poziomie zdrowia do centrum swojego zespołu?",
+        "answer": [
+            "Kruk"
+        ]
+    },
+    {
+        "question": "Jeden z następujących bohaterów nie ma skóry księżycowej?",
+        "answer": [
+            "Elmir"
+        ]
+    },
+    {
+        "question": "Bohatera Dodge szansa na wzrost liczby obrażeń przez kilka sekund?",
+        "answer": [
+            "Heidi"
+        ]
+    },
+    {
+        "question": "Akcja przynosi ci punkty aktywności gildii?",
+        "answer": [
+            "Uaktualnianie glifu"
+        ]
+    },
+    {
+        "question": "Tytani elementu są zadawane obrażenia od artefaktu duszy Andvari?",
+        "answer": [
+            "Woda"
+        ]
+    },
+    {
+        "question": "Nazwa demona w tarczy Rufusa?",
+        "answer": [
+            "Rakashi"
+        ]
+    },
+    {
+        "question": "Nazwa księżniczki Droemmer?",
+        "answer": [
+            "Astrid"
+        ]
+    },
+    {
+        "question": "Buff nie można uzyskać w wieży?",
+        "answer": [
+            "Przyśpieszenie"
+        ]
+    },
+    {
+        "question": "Wyprawa do miasta aniołów?",
+        "answer": [
+            "3 godziny"
+        ]
+    },
+    {
+        "question": "Drommer jest mistrzem artefaktów wody?",
+        "answer": [
+            "Siungur"
+        ]
+    },
+    {
+        "question": "musisz zrobić, aby uzyskać fragment historii miasta Ghirwil?",
+        "answer": [
+            "Uzupełnij misję z 3 gwiazdkami"
+        ]
+    },
+    {
+        "question": "Poznaj Oracle?",
+        "answer": [
+            "Loch"
+        ]
+    },
+    {
+        "question": "Wydarzenie ma jajko wielkanocne ze smutną nimfą?",
+        "answer": [
+            "Letni festiwal"
+        ]
+    },
+    {
+        "question": "Czy umiejętność zmniejsza obronę magiczną?",
+        "answer": [
+            "Alvanor"
+        ]
+    },
+    {
+        "question": "Pet uniemożliwia wrogom otrzymanie uzdrowienia od sojuszników?",
+        "answer": [
+            "Suchar"
+        ]
+    },
+    {
+        "question": "Maksymalny poziom trudności, który można wybrać podczas nalotu gildii?",
+        "answer": [
+            "150"
+        ]
+    },
+    {
+        "question": "Na poziomie gracz odblokowuje Asgard i nalot gildii?",
+        "answer": [
+            "65"
+        ]
+    },
+    {
+        "question": "Broń jest znana jako szlachcic?",
+        "answer": [
+            "Łańcuchowe gun Ginger"
+        ]
+    },
+    {
+        "question": "Ci bohaterowie nie mają błogosławionego specjalnego",
+        "answer": [
+            "Zorza polarna"
+        ]
+    },
+    {
+        "question": "Czy Rune Life Skill?",
+        "answer": [
+            "Alvanor"
+        ]
+    },
+    {
+        "question": "Nazwa księżniczki Drommera?",
+        "answer": [
+            "Astrid"
+        ]
+    },
+    {
+        "question": "Miesiąca pojawił się wydanie Biscuit, nowego zwierzaka?",
+        "answer": [
+            "Pełen werwy"
+        ]
+    },
+    {
+        "question": "Czy nazywa się pojazd Izaaka?",
+        "answer": [
+            "Lil 'Tes'lin"
+        ]
+    },
+    {
+        "question": "Oferta umiejętności patronatu Kaina?",
+        "answer": [
+            "Energia dodatkowa do unikania"
+        ]
+    },
+    {
+        "question": "Pet może zostać patronem Alvanora?",
+        "answer": [
+            "Axel",
+            "Suchar",
+            "Merlin",
+            "Oliver"
+        ]
+    },
+    {
+        "question": "Pet może zostać patronem Izaaka?",
+        "answer": [
+            "Oliver",
+            "Mara lub Axel"
+        ]
+    },
+    {
+        "question": "PET może mieć Morrigan jako patron?",
+        "answer": [
+            "Oliver",
+            "Axel"
+        ]
+    },
+    {
+        "question": "Kto nie może mieć Merlina, zwierzaka jako patrona?",
+        "answer": [
+            "Rufus"
+        ]
+    },
+    {
+        "question": "Kto nie może mieć Axela zwierzaka jako patrona?",
+        "answer": [
+            "Młody"
+        ]
+    },
+    {
+        "question": "Kto nie może mieć Axela zwierzaka jako patrona?",
+        "answer": [
+            "Młody"
+        ]
+    },
+    {
+        "question": "Kto nie może mieć herbatnika zwierzaka jako patrona?",
+        "answer": [
+            "Martha"
+        ]
+    },
+    {
+        "question": "afekt dodaje maksymalne opłaty do Khorusa?",
+        "answer": [
+            "Cisza"
+        ]
+    },
+    {
+        "question": "Wykute miecz Galahada?",
+        "answer": [
+            "Filtry"
+        ]
+    },
+    {
+        "question": "Bohaterowie można zdobyć w sklepie z turniejami żywiołowymi?",
+        "answer": [
+            "Mgławica",
+            "Karh"
+        ]
+    },
+    {
+        "question": "Czy skóra, która zwiększa atak fizyczny?",
+        "answer": [
+            "Karh"
+        ]
+    },
+    {
+        "question": "Czy skórka mistrza, którą można kupić za srebrne trofea?",
+        "answer": [
+            "Kai",
+            "Pełen werwy",
+            "Sędzia",
+            "Ishmael",
+            "Galahad",
+            "Ożywić",
+            "Thea"
+        ]
+    },
+    {
+        "question": "Nie możesz chronić swoich sojuszników tarczą?",
+        "answer": [
+            "Sebastian"
+        ]
+    },
+    {
+        "question": "Titan nie jest strzelcem?",
+        "answer": [
+            "Hyperion"
+        ]
+    },
+    {
+        "question": "Titan zwiększa Max Health of Aliants?",
+        "answer": [
+            "Solaris"
+        ]
+    },
+    {
+        "question": "„Buffs” jej wrogi podczas bitew?",
+        "answer": [
+            "Amira"
+        ]
+    },
+    {
+        "question": "Nazwa Lian's Umiłowana?",
+        "answer": [
+            "Hiroshi"
+        ]
+    },
+    {
+        "question": "Złoto Czy potrzebujesz białego wzoru z flagi wojny?",
+        "answer": [
+            "0"
+        ]
+    },
+    {
+        "question": "z nich jest szef Outland?",
+        "answer": [
+            "Brog The Conqueror"
+        ]
+    },
+    {
+        "question": "Użyj ruchów Explorer?",
+        "answer": [
+            "Na tajemniczej wyspie"
+        ]
+    },
+    {
+        "question": "Nie ma skóry Lunnar?",
+        "answer": [
+            "Elmir"
+        ]
+    },
+    {
+        "question": "Pet wzmacnia bohaterów, którzy zadaje czyste szkody?",
+        "answer": [
+            "Albus"
+        ]
+    },
+    {
+        "question": "Czy w randze odblokowuje swoje umiejętności patronatu?",
+        "answer": [
+            "Fioletowy"
+        ]
+    },
+    {
+        "question": "Oficjalny tytuł naszej gry?",
+        "answer": [
+            "Wojny bohatera"
+        ]
+    },
+    {
+        "question": "lekkie totem?",
+        "answer": [
+            "Zapobiega śmierci sojuszników"
+        ]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Unknown Toxin?",
+        "answer": ["/_img/Unknown_Toxin.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Iron Skyes? (Galahad)",
+        "answer": ["/_img/Ironskyes.webp"]
+    },
+    {
+        "question": "Jak wygląda przedmiot \"Soul Catcher\"?",
+        "answer": ["/_img/Soul_catcher.webp"]
+    },
+    {
+        "question": "Jak wygląda przedmiot \"Lion Armor\"?",
+        "answer": ["/_img/Lions_armor.webp"]
+    },
+    {
+        "question": "Jak wygląda maczuga apostolska?",
+        "answer": ["/_img/Violet_Apostle_Mace.webp"]
+    },
+    {
+        "question": "Jak wygląda peleryna ucznia?",
+        "answer": ["/_img/White_Apprentice_Mantle.webp"]
+    },
+    {
+        "question": "Jak wygląda Tarcza Smoka?",
+        "answer": ["/_img/Violet_Dragon_Shield.webp"]
+    },
+    {
+        "question": "Jak wygląda przedmiot \"Staff of Selena's Halo\"?",
+        "answer": ["/_img/Violet_Staff_of_Selena_Halo.webp"]
+    },
+    {
+        "question": "Jak wygląda \"Tower Coin\"?",
+        "answer": ["/_img/Tower_Coin.webp"]
+    },
+    {
+        "question": "Jak wygląda Elemental Tournament Coin?",
+        "answer": ["/_img/Elemental_Tournament_Coin.webp"]
+    },
+    {
+        "question": "Jak wygląda portret Tytana Angusa?",
+        "answer": ["/_img/Browser_Angus_Avatar.webp"]
+    },
+    {
+        "question": "Jak wygląda portret Tytana Molocha?",
+        "answer": ["/_img/Browser_Moloch_Avatar.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Fountain of Blood?",
+        "answer": ["/_img/Fountain_of_Blood.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Altar of Souls? (Corvus)",
+        "answer": ["/_img/Browser_Corvus_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Ancestor's Amulet? (Dorian)",
+        "answer": ["/_img/Browser_Dorian_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Astral Projection? (Nebula)",
+        "answer": ["/_img/Browser_Nebula_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Awakening? (Ishmael)",
+        "answer": ["/_img/Browser_Ishmael_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Battle Song? (Sebastian)",
+        "answer": ["/_img/Browser_Sebastian_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Big Badda Boom? (Daredevil)",
+        "answer": ["/_img/Browser_Daredevil_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Black Arrow? (Dark Star)",
+        "answer": ["/_img/Browser_Dark_Star_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Blessed Vanguard? (Tristan)",
+        "answer": ["/_img/Mobile_Tristan_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Boldness? (Peppy)",
+        "answer": ["/_img/Browser_Peppy_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Blade Whirlwind? (Keira)",
+        "answer": ["/_img/Browser_Keira_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Bottomless Belly? (Chabba)",
+        "answer": ["/_img/Browser_Chabba_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Careless Wish? (Amira)",
+        "answer": ["/_img/Mobile_Amira_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Celestial Guardians? (Helios)",
+        "answer": ["/_img/Browser_Helios_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Chain Lightning? (Lars)",
+        "answer": ["/_img/Browser_Lars_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Conciliation? (Lian)",
+        "answer": ["/_img/Lian_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Conductance? (Lars)",
+        "answer": ["/_img/Lars_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Compassion? (Markus)",
+        "answer": ["/_img/Markus_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Crystal of Selias? (Aurora)",
+        "answer": ["/_img/Aurora_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Crystalline Onslaught? (Aurora)",
+        "answer": ["/_img/Aurora_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Cursed Bones? (Mojo)",
+        "answer": ["/_img/Mojo_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Dark Craft? (Ishmael)",
+        "answer": ["/_img/Ishmael_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Dark Deal? (Phobos)",
+        "answer": ["/_img/Phobos_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Deathflower? (Heidi)",
+        "answer": ["/_img/Heidi_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Demolition Robot? (Arachne)",
+        "answer": ["/_img/Arachne_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Demon's Allegiance? (Astaroth)",
+        "answer": ["/_img/Astaroth_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Devourer of Magic? (Rufus)",
+        "answer": ["/_img/Rufus_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Discharge!? (Daredevil)",
+        "answer": ["/_img/Daredevil_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Elixir of Vigor? (Jet)",
+        "answer": ["/_img/Jet_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Embrace of Pain? (Yasmine)",
+        "answer": ["/_img/Yasmine_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Equilibrium? (Nebula)",
+        "answer": ["/_img/Nebula_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Eternal Wisdom? (Satori)",
+        "answer": ["/_img/Satori_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Explosive Sphere? (Kai)",
+        "answer": ["/_img/Kai_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Fire Breath? (Litith)",
+        "answer": ["/_img/Lilith_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Focus of Hatred? (Ziri)",
+        "answer": ["/_img/Ziri_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Fat Layer? (Chabba)",
+        "answer": ["/_img/Chabba_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Flame Veil? (Astaroth)",
+        "answer": ["/_img/Astaroth_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Frolic? (Peppy)",
+        "answer": ["/_img/Peppy_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Gehenna? (Luther)",
+        "answer": ["/_img/Luther_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Harmony of the Grove? (Alvanor)",
+        "answer": ["/_img/Alvanor_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Healing Beam? (Thea)",
+        "answer": ["/_img/Thea_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Healing Spirits? (Mojo)",
+        "answer": ["/_img/Mojo_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Heavy Wisdom? (Cornelius)",
+        "answer": ["/_img/Cornelius_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Hypnotic Ball? (Lian)",
+        "answer": ["/_img/Lian_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Inordinate Fury? (Jet)",
+        "answer": ["/_img/Jet_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności High-Voltage Module? (Isaac)",
+        "answer": ["/_img/Isaac_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności I see you? (Jhu)",
+        "answer": ["/_img/Jhu_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Pulsing Comet?",
+        "answer": ["/_img/pulsing_comet.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Icy Vengeance? (Krista)",
+        "answer": ["/_img/Krista_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Imminent Reckoning? (Satori)",
+        "answer": ["/_img/Satori_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Infernal Rift? (Lilith)",
+        "answer": ["/_img/Lilith_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Ion Cyclon? (Judge)",
+        "answer": ["/_img/Judge_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Lead Storm? (Ginger)",
+        "answer": ["/_img/Ginger_skill_1.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Leper? (Jorgen)",
+        "answer": ["/_img/Jorgen_skill_3.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Many Truths? (Elmir)",
+        "answer": ["/_img/Elmir_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Memory Loss? (Cornelius)",
+        "answer": ["/_img/Cornelius_skill_4.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Mirage? (Elmir)",
+        "answer": ["/_img/Elmir_skill_2.webp"]
+    },
+    {
+        "question": "Jak wygląda ikona umiejętności Nexus of Horror? (K'arkh)",
+        "answer": ["/_img/Karkh_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Negator of Laws? (K'arkh)",
+        "answer": ["/_img/Karkh_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Phantom? (Ishmael)",
+        "answer": ["/_img/Ishmael_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Phoenix's Embrace? (Aidan)",
+        "answer": ["/_img/Aidan_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Piecing Light? (Aurora)",
+        "answer": ["/_img/Aurora_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Plasma Explosion? (Arachne)",
+        "answer": ["/_img/Arachne_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Poisonous Bonds? (Maya)",
+        "answer": ["/_img/Maya_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Potion of Fatigue? (Jet)",
+        "answer": ["/_img/Jet_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Predator's Charge? (Astrid i Lucas)",
+        "answer": ["/_img/Astrid_and_Lucas_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Protective Dome? (Cornelius)",
+        "answer": ["/_img/Cornelius_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Punishing Arrows? (Artemis)",
+        "answer": ["/_img/Artemis_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Putrefaction? (Cleaver)",
+        "answer": ["/_img/Cleaver_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Queen of Flowers? (Maya)",
+        "answer": ["/_img/Maya_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Rakashi's Oath? (Rufus)",
+        "answer": ["/_img/Rufus_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Rampant Nature? (Astrid i Lucas)",
+        "answer": ["/_img/Astrid_and_Lucas_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Ranging Shot? (Ginger)",
+        "answer": ["/_img/Ginger_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Retribution? (Dante)",
+        "answer": ["/_img/Dante_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Righteous Light? (Markus)",
+        "answer": ["/_img/Markus_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Rusty Hook? (Cleaver)",
+        "answer": ["/_img/Cleaver_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Sacred Rage? (Tristan)",
+        "answer": ["/_img/Tristan_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Second Wind? (Thea)",
+        "answer": ["/_img/Thea_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Secret of Longevity? (Martha)",
+        "answer": ["/_img/Martha_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Seed of Destruction? (Iris)",
+        "answer": ["/_img/Iris_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Shackles of Weakness? (Dante)",
+        "answer": ["/_img/Dante_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Shelter of Sands? (Ziri)",
+        "answer": ["/_img/Ziri_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Solar Sanctuary? (Thea)",
+        "answer": ["/_img/Thea_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Solar Wind? (Helios)",
+        "answer": ["/_img/Helios_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Spell Expert? (Faceless)",
+        "answer": ["/_img/Faceless_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Spirit Purification? (Satori)",
+        "answer": ["/_img/Satori_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Star Birth? (Helios)",
+        "answer": ["/_img/Helios_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Storm Blades? (Ishmael)",
+        "answer": ["/_img/Ishmael_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Strike of the Damned? (Corvus)",
+        "answer": ["/_img/Corvus_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Tea Party? (Martha)",
+        "answer": ["/_img/Martha_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Spirits will heal me? (Jhu)",
+        "answer": ["/_img/Jhu_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Thirst for Blood? (Daredevil)",
+        "answer": ["/_img/Daredevil_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Trembling Hands? (Phobos)",
+        "answer": ["/_img/Phobos_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Toxic Pollen? (Maya)",
+        "answer": ["/_img/Maya_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Toxic Spit? (Heidi)",
+        "answer": ["/_img/Heidi_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Under the Forest Canopy? (Alvanor)",
+        "answer": ["/_img/Alvanor_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Vow of Silence? (Thea)",
+        "answer": ["/_img/Thea_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Wandering Lights? (Lian)",
+        "answer": ["/_img/Lian_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Wild Hunger? (Chabba)",
+        "answer": ["/_img/Chabba_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Wings of Night? (Dorian)",
+        "answer": ["/_img/Dorian_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Wrath of Nature? (Alvanor)",
+        "answer": ["/_img/Alvanor_skill_2.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności You will not stop me? (Jhu)",
+        "answer": ["/_img/Jhu_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Zenith? (Celeste)",
+        "answer": ["/_img/Celeste_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda artefakt Tytana \"Andvari's Arrowslinger\"? (Slyvia)",
+        "answer": ["/_img/Sylva_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Hex? (Mojo)",
+        "answer": ["/_img/Mojo_skill_4.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Suppressive Fire?",
+        "answer": ["/_img/Ginger_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Firefight?",
+        "answer": ["/_img/Daredevil_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Dancing Blades?",
+        "answer": ["/_img/Keira_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Antimatter Blast?",
+        "answer": ["/_img/Orion_skill_3.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Rakashi's Barrier?",
+        "answer": ["/_img/Rufus_skill_1.webp"]
+      },
+      {
+        "question": "Jak wygląda ikona umiejętności Nature's Blessing?",
+        "answer": ["/_img/Nature_barrier.webp"]
+      },
+      {
+        "question": "Jak wygląda Robot Energy?",
+        "answer": ["/_img/Robot_energy.webp"]
+      },
+      {
+        "question": "Jak wygląda artefakt Tytana \"Dark Spirit Totem\"?",
+        "answer": ["/_img/Dark_spirit_totem.webp"]
+      }        
+]
