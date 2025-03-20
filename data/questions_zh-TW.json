@@ -8,7 +8,7 @@
     {
         "question": "朱利葉斯的機甲西裝的名字？",
         "answer": [
-            "Felix"
+            "菲利克斯"
         ]
     },
     {
@@ -32,7 +32,7 @@
     {
         "question": "不使用員工嗎？",
         "answer": [
-            "Mojo"
+            "魔咒"
         ]
     },
     {
@@ -178,8 +178,8 @@
         "answer": [
             "多利安",
             "切肉刀",
-            "Helios",
-            "jhu",
+            "赫利俄斯",
+            "朱",
             "喬根",
             "瑪雅",
             "傳奇"
@@ -206,7 +206,7 @@
     {
         "question": "泰坦增加了盟友的最大健康？",
         "answer": [
-            "Solaris"
+            "索拉里斯"
         ]
     },
     {
@@ -475,7 +475,7 @@
     {
         "question": "以下英雄沒有野蠻的皮膚？",
         "answer": [
-            "jhu"
+            "朱"
         ]
     },
     {
@@ -992,8 +992,8 @@
         "answer": [
             "切肉刀",
             "多利安",
-            "Helios",
-            "jhu",
+            "赫利俄斯",
+            "朱",
             "喬根",
             "瑪雅",
             "傳奇"
@@ -1323,7 +1323,7 @@
     {
         "question": "其中一位英雄是星際孩子？",
         "answer": [
-            "Helios"
+            "赫利俄斯"
         ]
     },
     {
@@ -1381,7 +1381,7 @@
         ]
     },
     {
-        "question": "Jhu屬於部落嗎？",
+        "question": "朱屬於部落嗎？",
         "answer": [
             "十一"
         ]
@@ -1449,7 +1449,7 @@
     {
         "question": "以下英雄之一不使用員工？",
         "answer": [
-            "Mojo"
+            "魔咒"
         ]
     },
     {
@@ -1533,7 +1533,7 @@
     {
         "question": "當盟友受到嚴重打擊時，誰會反擊？",
         "answer": [
-            "Helios"
+            "赫利俄斯"
         ]
     },
     {
@@ -1570,7 +1570,7 @@
             "北極星",
             "路德",
             "傳奇",
-            "Mojo",
+            "魔咒",
             "虹膜",
             "拉斯",
             "克里斯塔",
@@ -1749,7 +1749,7 @@
         ]
     },
     {
-        "question": "人工製品屬於這個英雄helios",
+        "question": "人工製品屬於這個英雄赫利俄斯",
         "answer": [
             "一千個太陽的魔杖"
         ]
@@ -2049,7 +2049,7 @@
             "以實瑪利",
             "敢於",
             "塞巴斯蒂安",
-            "jhu"
+            "朱"
         ]
     },
     {
@@ -2536,7 +2536,7 @@
     {
         "question": "泰坦增加了盟友的最大健康？",
         "answer": [
-            "Solaris"
+            "索拉里斯"
         ]
     },
     {
@@ -2700,8 +2700,8 @@
         "answer": ["/_img/Mobile_Amira_skill_1.webp"]
       },
       {
-        "question": "天堂守護技能符號是什麼樣的？（Helios）",
-        "answer": ["/_img/Browser_Helios_skill_3.webp"]
+        "question": "天堂守護技能符號是什麼樣的？（赫利俄斯）",
+        "answer": ["/_img/Browser_赫利俄斯_skill_3.webp"]
       },
       {
         "question": "雷鏈技能符號是什麼樣的？（Lars）",
@@ -2728,8 +2728,8 @@
         "answer": ["/_img/Aurora_skill_2.webp"]
       },
       {
-        "question": "詛咒之骨技能符號是什麼樣的？（Mojo）",
-        "answer": ["/_img/Mojo_skill_3.webp"]
+        "question": "詛咒之骨技能符號是什麼樣的？（魔咒）",
+        "answer": ["/_img/魔咒_skill_3.webp"]
       },
       {
         "question": "黑暗藝術技能符號是什麼樣的？（Ishmael）",
@@ -2812,8 +2812,8 @@
         "answer": ["/_img/Thea_skill_2.webp"]
       },
       {
-        "question": "靈魂治療技能符號是什麼樣的？（Mojo）",
-        "answer": ["/_img/Mojo_skill_2.webp"]
+        "question": "靈魂治療技能符號是什麼樣的？（魔咒）",
+        "answer": ["/_img/魔咒_skill_2.webp"]
       },
       {
         "question": "智慧符號是什麼樣的？（Cornelius）",
@@ -2832,8 +2832,8 @@
         "answer": ["/_img/Isaac_skill_4.webp"]
       },
       {
-        "question": "我看見你技能符號是什麼樣的？（Jhu）",
-        "answer": ["/_img/Jhu_skill_3.webp"]
+        "question": "我看見你技能符號是什麼樣的？（朱）",
+        "answer": ["/_img/朱_skill_3.webp"]
       },
       {
         "question": "彗星爆炸技能符號是什麼樣的？",
@@ -2980,8 +2980,8 @@
         "answer": ["/_img/Thea_skill_1.webp"]
     },
     {
-        "question": "太陽之風圖示是什麼樣的？（Helios）",
-        "answer": ["/_img/Helios_skill_2.webp"]
+        "question": "太陽之風圖示是什麼樣的？（赫利俄斯）",
+        "answer": ["/_img/赫利俄斯_skill_2.webp"]
     },
     {
         "question": "法術專家技能圖示是什麼樣的？（Faceless）",
@@ -2992,8 +2992,8 @@
         "answer": ["/_img/Satori_skill_2.webp"]
     },
     {
-        "question": "星辰誕生技能圖示是什麼樣的？（Helios）",
-        "answer": ["/_img/Helios_skill_1.webp"]
+        "question": "星辰誕生技能圖示是什麼樣的？（赫利俄斯）",
+        "answer": ["/_img/赫利俄斯_skill_1.webp"]
     },
     {
         "question": "風暴之刃技能圖示是什麼樣的？（Ishmael）",
@@ -3008,8 +3008,8 @@
         "answer": ["/_img/Martha_skill_3.webp"]
     },
     {
-        "question": "精神將治癒我技能圖示是什麼樣的？（Jhu）",
-        "answer": ["/_img/Jhu_skill_4.webp"]
+        "question": "精神將治癒我技能圖示是什麼樣的？（朱）",
+        "answer": ["/_img/朱_skill_4.webp"]
     },
     {
         "question": "渴求鮮血技能圖示是什麼樣的？（Daredevil）",
@@ -3052,8 +3052,8 @@
         "answer": ["/_img/Alvanor_skill_2.webp"]
     },
     {
-        "question": "你無法阻止我技能圖示是什麼樣的？（Jhu）",
-        "answer": ["/_img/Jhu_skill_1.webp"]
+        "question": "你無法阻止我技能圖示是什麼樣的？（朱）",
+        "answer": ["/_img/朱_skill_1.webp"]
     },
     {
         "question": "頂點技能圖示是什麼樣的？（Celeste）",
@@ -3064,8 +3064,8 @@
         "answer": ["/_img/Sylva_skill_1.webp"]
     },
     {
-        "question": "六角技能圖示是什麼樣的？（Mojo）",
-        "answer": ["/_img/Mojo_skill_4.webp"]
+        "question": "六角技能圖示是什麼樣的？（魔咒）",
+        "answer": ["/_img/魔咒_skill_4.webp"]
     },
     {
         "question": "壓制火力技能圖示是什麼樣的？",
