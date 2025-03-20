@@ -300,7 +300,7 @@
         ]
     },
     {
-        "question": "von Heidis Statistiken können nicht mit Glyphen befördert werden?",
+        "question": "von Heidis Statistiken können nicht mit Glyphen gefördert werden?",
         "answer": [
             "Gesundheit"
         ]
@@ -2600,753 +2600,503 @@
         ]
     },
     {
-        "question": "Unbekannter Toxin -Skills -Symbol sieht aus?",
-        "answer": [
-            "/_img/unknown_toxin.webp"
-        ]
-    },
-    {
-        "question": "Iron Skyes Skill -Symbol sehen aus wie?(Galahad)",
-        "answer": [
-            "/_img/ironskyes.webp"
-        ]
-    },
-    {
-        "question": "Gegenstand \"Soul Catcher\" sehen Sie aus?",
-        "answer": [
-            "/_img/soul_catcher.webp"
-        ]
-    },
-    {
-        "question": "Gegenstand \"Löwenpanzer\" sehen aus wie?",
-        "answer": [
-            "/_img/lions_armor.webp"
-        ]
-    },
-    {
-        "question": "Apostelstreitkräfte sehen aus wie?",
-        "answer": [
-            "/_img/violet_apostle_mace.webp"
-        ]
-    },
-    {
-        "question": "Lehrling Mantel sehen aus wie?",
-        "answer": [
-            "/_img/white_Apprentice_mantle.webp"
-        ]
-    },
-    {
-        "question": "Wie wie Dragon Shield sieht aus?",
-        "answer": [
-            "/_img/violet_dragon_shield.webp"
-        ]
-    },
-    {
-        "question": "Artikel \"Mitarbeiter von Selenas Halo\" sehen wie aus?",
-        "answer": [
-            "/_img/violet_staff_of_selena_halo.webp"
-        ]
-    },
-    {
-        "question": "Wie sieht \"Tower Coin\" aus?",
-        "answer": [
-            "/_img/tower_coin.webp"
-        ]
-    },
-    {
-        "question": "Wie sieht eine Elementar -Turniermünze aus?",
-        "answer": [
-            "/_img/elemental_tournament_coin.webp"
-        ]
-    },
-    {
-        "question": "Titan Angus 'Porträt sieht aus?",
-        "answer": [
-            "/_img/browser_angus_avatar.webp"
-        ]
-    },
-    {
-        "question": "Titan Molochs Porträt sieht aus?",
-        "answer": [
-            "/_img/browser_moloch_avatar.webp"
-        ]
-    },
-    {
-        "question": "Brunnen der Blutkenntnisse aussehen wie?",
-        "answer": [
-            "/_img/fountain_of_blood.webp"
-        ]
-    },
-    {
-        "question": "Altar of Souls Skill Icon sehen aus wie?(Corvus)",
-        "answer": [
-            "/_img/browser_corvus_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Amulett -Skills -Ikone des Vorfahren sehen aus wie?(Dorian)",
-        "answer": [
-            "/_img/browser_dorian_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Astralprojektionskenntnis Icon sehen aus wie?(Nebel)",
-        "answer": [
-            "/_img/browser_nebula_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Erwachen Skills -Ikone sehen aus wie?(Ishmael)",
-        "answer": [
-            "/_img/browser_ishmael_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Battle Song Skill Icon sehen aus wie?(Sebastian)",
-        "answer": [
-            "/_img/browser_sebastian_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Big Badda Boom Skill -Ikone sehen aus wie?(Draufgänger)",
-        "answer": [
-            "/_img/browser_daredevil_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Schwarzes Pfeilsymbol sehen aus wie?(Dunkler Stern)",
-        "answer": [
-            "/_img/browser_dark_star_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Gesegnetes Vanguard -Skills -Symbol sieht aus wie?(Tristan)",
-        "answer": [
-            "/_img/mobile_tristan_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Kühnheitskompetenz -Ikone sehen aus wie?(Schwungvoll)",
-        "answer": [
-            "/_img/browser_peppy_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Blade Whirlwind Skill Icon sehen aus wie?(Keira)",
-        "answer": [
-            "/_img/browser_keira_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Bauchfreie Fähigkeiten Symbol sehen aus wie?(Chabba)",
-        "answer": [
-            "/_img/browser_chabba_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Nachlässige Wunschkenntnis -Symbol sieht aus?(Amira)",
-        "answer": [
-            "/_img/mobile_amira_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Celestial Guardians Skill Icon sehen aus wie?(Helios)",
-        "answer": [
-            "/_img/browser_helios_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Kettenlitzerkenntnis -Symbol sehen aus?(Lars)",
-        "answer": [
-            "/_img/browser_lars_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Verkleinerungsfähigkeiten sehen Sie aus wie?(Lian)",
-        "answer": [
-            "/_img/lian_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Leitfähigkeitskompetenz -Symbol sehen aus?(Lars)",
-        "answer": [
-            "/_img/lars_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Mitgefühlskompetenz -Symbol sehen aus wie?(Markus)",
-        "answer": [
-            "/_img/markus_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Kristall von Selias Skill -Symbol sieht aus?(Aurora)",
-        "answer": [
-            "/_img/aurora_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Kristalliner Ansturm -Skills -Ikone sehen aus wie?(Aurora)",
-        "answer": [
-            "/_img/aurora_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Verfluchte Bones Skill -Symbol sehen aus?(Mojo)",
-        "answer": [
-            "/_img/mojo_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Dark Craft Skill Icon sehen aus wie?(Ishmael)",
-        "answer": [
-            "/_img/ishmael_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Dunkle Deal Skill -Symbol sehen aus wie?(Phobos)",
-        "answer": [
-            "/_img/phobos_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Deathflower Skills Symbol sehen aus wie?(Heidi)",
-        "answer": [
-            "/_img/heidi_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Abbruch -Roboter -Skills -Symbol sehen aus?(Arachne)",
-        "answer": [
-            "/_img/arachne_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Dämons Treuekenntnis -Ikone sehen aus?(Astaroth)",
-        "answer": [
-            "/_img/astaroth_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Verschlinger von Magic Skill Icon sehen aus wie?(Rufus)",
-        "answer": [
-            "/_img/rufus_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Entladung!Skillsymbol sehen aus wie?(Draufgänger)",
-        "answer": [
-            "/_img/daredevil_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Elixier von Vigor Skill Icon sehen aus wie?(Jet)",
-        "answer": [
-            "/_img/jet_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Umarmung der Schmerzikone sehen aus wie?(Yasmine)",
-        "answer": [
-            "/_img/yasmine_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Gleichgewichtsfähigkeiten sehen Sie aus wie?(Nebel)",
-        "answer": [
-            "/_img/nebula_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Ewige Weisheitskompetenz -Ikone sehen aus wie?(Satori)",
-        "answer": [
-            "/_img/satori_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Explosive Sphere Skill -Symbol sehen aus?(Kai)",
-        "answer": [
-            "/_img/kai_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Fire Atem Skill -Symbol sehen aus wie?(Lilith)",
-        "answer": [
-            "/_img/lilith_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Fokus der Hasskompetenz -Ikone sehen aus?(Ziri)",
-        "answer": [
-            "/_img/ziri_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Fettschicht -Fähigkeitsymbol sehen aus wie?(Chabba)",
-        "answer": [
-            "/_img/chabba_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Flammschleider -Skills -Ikone sehen aus wie?(Astaroth)",
-        "answer": [
-            "/_img/astaroth_skill_1.webp"
-        ]
-    },
-    {
-        "question": "HEILE FILKE ICON SOHEN SIE AUS?(Schwungvoll)",
-        "answer": [
-            "/_img/peppy_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Gehenna Skill Icon sehen aus wie?(Luther)",
-        "answer": [
-            "/_img/luther_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Harmonie der Grove Skill Icon sehen aus wie?(Alvanor)",
-        "answer": [
-            "/_img/alvanor_skill_4.webp"
-        ]
-    },
-    {
-        "question": "HEILING BEAM SCHLÜSSEISKOMON Sehen Sie aus?(Thea)",
-        "answer": [
-            "/_img/thea_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Heilungsgeisterkenntnis Icon sehen aus wie?(Mojo)",
-        "answer": [
-            "/_img/mojo_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Schwere Weisheitskompetenz -Ikone sehen aus wie?(Cornelius)",
-        "answer": [
-            "/_img/cornelius_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Hypnotische Ballkenntnis -Ikone sehen aus wie?(Lian)",
-        "answer": [
-            "/_img/lian_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Übermäßige Wutkenntnis -Ikone sehen aus wie?(Jet)",
-        "answer": [
-            "/_img/jet_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Hochspannungsmodul-Skillsymbol sehen aus wie?(Isaac)",
-        "answer": [
-            "/_img/isaac_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Ich sehe dich Skillsymbol aussehen wie?(JHU)",
-        "answer": [
-            "/_img/jhu_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Pulsing Comet Skill -Symbol sehen aus wie?",
-        "answer": [
-            "/_img/pulsing_comet.webp"
-        ]
-    },
-    {
-        "question": "Icy Vengeance Skills Icon sehen aus wie?(Krista)",
-        "answer": [
-            "/_img/krista_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Unmittelbares Abrechnungserkenntnis Icon sieht so aus?(Satori)",
-        "answer": [
-            "/_img/satori_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Infernal Rift Skill Icon sehen aus wie?(Lilith)",
-        "answer": [
-            "/_img/lilith_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Ion Cyclon Skill -Symbol sehen aus?(Richter)",
-        "answer": [
-            "/_img/judge_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Lead Storm Skill -Ikone sehen aus wie?(Ingwer)",
-        "answer": [
-            "/_img/inger_skill_1.webp"
-        ]
-    },
-    {
-        "question": "LEPER -Skills -Symbol sehen aus wie?(JORGEN)",
-        "answer": [
-            "/_img/jorgen_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Viele Wahrheiten Skillsikone sehen aus?(Elmir)",
-        "answer": [
-            "/_img/elmir_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Memory Loss Skills Symbol sehen aus wie?(Cornelius)",
-        "answer": [
-            "/_img/cornelius_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Mirage Skill -Symbol sehen aus wie?(Elmir)",
-        "answer": [
-            "/_img/elmir_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Nexus of Horror Skill Icon sehen aus wie?(K'arkh)",
-        "answer": [
-            "/_img/karkh_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Negator of Laws Skill Icon sieht aus?(K'arkh)",
-        "answer": [
-            "/_img/karkh_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Phantom -Skills -Symbol sehen aus?(Ishmael)",
-        "answer": [
-            "/_img/ishmael_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Phoenix 'Embrace Skill -Ikone sehen aus wie?(Aidan)",
-        "answer": [
-            "/_img/aidan_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Light Skill -Symbol aussehen wie?(Aurora)",
-        "answer": [
-            "/_img/aurora_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Plasma -Explosionsfähigkeiten sehen Sie aus wie?(Arachne)",
-        "answer": [
-            "/_img/arachne_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Giftige Bindungen Skills Symbol sehen aus?(Maya)",
-        "answer": [
-            "/_img/maya_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Trank der Müdigkeitsfähigkeiten sehen aus wie?(Jet)",
-        "answer": [
-            "/_img/jet_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Predators Ladungskenntnis -Symbol sehen aus?(Astrid und Lucas)",
-        "answer": [
-            "/_img/astrid_and_lucas_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Protective Dome Skills Icon sehen aus wie?(Cornelius)",
-        "answer": [
-            "/_img/cornelius_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Bestrafen Sie das Fähigkeitsymbol von Pfeilen wie aussehen?(Artemis)",
-        "answer": [
-            "/_img/artemis_skill_4.webp"
-        ]
-    },
-    {
-        "question": "PutreFaction -Skillsymbol sehen aus wie?(Cleaver)",
-        "answer": [
-            "/_img/cleaver_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Queen of Flowers Skill Icon sehen aus wie?(Maya)",
-        "answer": [
-            "/_img/maya_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Rakashis Eid Skill -Ikone sehen aus wie?(Rufus)",
-        "answer": [
-            "/_img/RUFUS_SKILL_4.WEBP"
-        ]
-    },
-    {
-        "question": "Rampanze Naturkenntnis -Ikone sehen aus wie?(Astrid und Lucas)",
-        "answer": [
-            "/_img/astrid_and_lucas_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Ranging Shot Skill -Symbol sehen aus wie?(Ingwer)",
-        "answer": [
-            "/_img/inger_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Vergeltungskompetenz -Symbol sehen aus?(Dante)",
-        "answer": [
-            "/_img/dante_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Gerechte Lichtkompetenz -Symbol sehen aus wie?(Markus)",
-        "answer": [
-            "/_img/markus_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Rusty Hook Skill -Symbol sehen aus wie?(Cleaver)",
-        "answer": [
-            "/_img/cleaver_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Sacred Rage Skill Icon sehen aus wie?(Tristan)",
-        "answer": [
-            "/_img/tristan_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Zweiter Windkenntnis -Symbol sehen aus?(Thea)",
-        "answer": [
-            "/_img/thea_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Geheimnis der Langlebigkeitskompetenz -Ikone sehen so aus?(Martha)",
-        "answer": [
-            "/_img/artha_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Saatgut der Zerstörungskompetenz -Ikone sehen aus wie?(Iris)",
-        "answer": [
-            "/_img/iris_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Fesseln der Schwäche Skill -Symbol sehen aus wie?(Dante)",
-        "answer": [
-            "/_img/dante_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Schutz von Sands Skill Icon sieht aus?(Ziri)",
-        "answer": [
-            "/_img/ziri_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Solar Sanctuary Skill Icon sehen aus?(Thea)",
-        "answer": [
-            "/_img/thea_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Solarwind -Ikone sehen Sie aus wie?(Helios)",
-        "answer": [
-            "/_img/helios_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Zauberer -Experten -Skills -Symbol sehen aus?(Gesichtslos)",
-        "answer": [
-            "/_img/faceless_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Spirit Purification Skill Icon sehen aus?(Satori)",
-        "answer": [
-            "/_img/satori_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Sterngeburtskompetenz -Ikone sehen aus wie?(Helios)",
-        "answer": [
-            "/_img/helios_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Storm Blades Skill Icon sehen aus wie?(Ishmael)",
-        "answer": [
-            "/_img/ishmael_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Streik der verdammten Skills -Ikone sehen aus?(Corvus)",
-        "answer": [
-            "/_img/corvus_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Tea -Party -Skill -Ikone sehen aus wie?(Martha)",
-        "answer": [
-            "/_img/artha_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Spirituosen werden mich heilen, die Skills -Ikone aussehen?(JHU)",
-        "answer": [
-            "/_img/jhu_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Durst nach Blutkompetenz -Ikone sehen aus wie?(Draufgänger)",
-        "answer": [
-            "/_img/daredevil_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Zitternder Händekenntnisse sehen aus wie?(Phobos)",
-        "answer": [
-            "/_img/phobos_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Giftige Pollenkenntnis -Ikone sehen aus?(Maya)",
-        "answer": [
-            "/_img/maya_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Giftiger Spucke -Skill -Symbol sehen aus?(Heidi)",
-        "answer": [
-            "/_img/heidi_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Unter dem Wald -Baldachin -Skillsikon sehen Sie aus wie?(Alvanor)",
-        "answer": [
-            "/_img/alvanor_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Gelübde der Stille Skillsikone sehen aus?(Thea)",
-        "answer": [
-            "/_img/thea_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Wanderungsleuchte Skillsymbol sehen aus wie?(Lian)",
-        "answer": [
-            "/_img/lian_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Wilde Hunger Skill -Ikone sehen aus wie?(Chabba)",
-        "answer": [
-            "/_img/chabba_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Wings of Night Skill Icon sehen aus wie?(Dorian)",
-        "answer": [
-            "/_img/dorian_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Zorn der Naturkenntnisse aussehen wie?(Alvanor)",
-        "answer": [
-            "/_img/alvanor_skill_2.webp"
-        ]
-    },
-    {
-        "question": "Sie werden mich nicht davon abhalten, Skillsikone aussehen zu können?(JHU)",
-        "answer": [
-            "/_img/jhu_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Zenith Skill -Symbol sehen aus wie?(Celeste)",
-        "answer": [
-            "/_img/celeste_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Titan -Artefakt \"und Varis Arrow Singer\" sehen aus wie?(Sylvia)",
-        "answer": [
-            "/_img/sylva_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Hex Skill -Symbol sehen aus wie?(Mojo)",
-        "answer": [
-            "/_img/mojo_skill_4.webp"
-        ]
-    },
-    {
-        "question": "Suppressive Feuerkenntnis -Ikone sehen aus?",
-        "answer": [
-            "/_img/inger_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Feuergefecht -Fähigkeiten -Symbol sehen aus wie?",
-        "answer": [
-            "/_img/daredevil_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Dancing Blades Skill -Symbol sehen aus wie?",
-        "answer": [
-            "/_img/keira_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Antimaterie -Blast -Skills -Symbol sehen aus?",
-        "answer": [
-            "/_img/orion_skill_3.webp"
-        ]
-    },
-    {
-        "question": "Rakashis Barrier Skill Icon sieht aus?",
-        "answer": [
-            "/_img/rufus_skill_1.webp"
-        ]
-    },
-    {
-        "question": "Die Segenskompetenz der Natur sehen aus wie?",
-        "answer": [
-            "/_img/nature_barrier.webp"
-        ]
-    },
-    {
-        "question": "Wie sieht Roboterenergie aus?",
-        "answer": [
-            "/_img/robot_energy.webp"
-        ]
-    },
-    {
-        "question": "Titan -Artefakt \"Dark Spirit Totem\" sehen Sie aus?",
-        "answer": [
-            "/_img/dark_spirit_totem.webp"
-        ]
-    }
+        "question": "Wie sieht das Symbol der unbekannten Toxin-Fähigkeit aus?",
+        "answer": ["/_img/Unknown_Toxin.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Eisenhimmel-Fähigkeit aus? (Galahad)",
+        "answer": ["/_img/Ironskyes.webp"]
+      },
+      {
+        "question": "Wie sieht der Gegenstand \"Seelenfänger\" aus?",
+        "answer": ["/_img/Soul_catcher.webp"]
+      },
+      {
+        "question": "Wie sieht der Gegenstand \"Löwenrüstung\" aus?",
+        "answer": ["/_img/Lions_armor.webp"]
+      },
+      {
+        "question": "Wie sieht der Apostel-Morgenstern aus?",
+        "answer": ["/_img/Violet_Apostle_Mace.webp"]
+      },
+      {
+        "question": "Wie sieht das Lehrlingsmantel aus?",
+        "answer": ["/_img/White_Apprentice_Mantle.webp"]
+      },
+      {
+        "question": "Wie sieht das Drachenschild aus?",
+        "answer": ["/_img/Violet_Dragon_Shield.webp"]
+      },
+      {
+        "question": "Wie sieht der Gegenstand \"Stab von Selenas Heiligenschein\" aus?",
+        "answer": ["/_img/Violet_Staff_of_Selena_Halo.webp"]
+      },
+      {
+        "question": "Wie sieht die \"Turm-Münze\" aus?",
+        "answer": ["/_img/Tower_Coin.webp"]
+      },
+      {
+        "question": "Wie sieht eine Elemental-Turniermünze aus?",
+        "answer": ["/_img/Elemental_Tournament_Coin.webp"]
+      },
+      {
+        "question": "Wie sieht das Porträt von Titan Angus aus?",
+        "answer": ["/_img/Browser_Angus_Avatar.webp"]
+      },
+      {
+        "question": "Wie sieht das Porträt von Titan Moloch aus?",
+        "answer": ["/_img/Browser_Moloch_Avatar.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Blutbrunnen\" aus?",
+        "answer": ["/_img/Fountain_of_Blood.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Altar der Seelen\" aus? (Corvus)",
+        "answer": ["/_img/Browser_Corvus_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Amulett der Ahnen\" aus? (Dorian)",
+        "answer": ["/_img/Browser_Dorian_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Astrale Projektion\" aus? (Nebula)",
+        "answer": ["/_img/Browser_Nebula_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Erwachen\" aus? (Ishmael)",
+        "answer": ["/_img/Browser_Ishmael_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Kampflied\" aus? (Sebastian)",
+        "answer": ["/_img/Browser_Sebastian_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Big Badda Boom\" aus? (Daredevil)",
+        "answer": ["/_img/Browser_Daredevil_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Schwarzer Pfeil\" aus? (Dark Star)",
+        "answer": ["/_img/Browser_Dark_Star_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Gesegneter Vorhut\" aus? (Tristan)",
+        "answer": ["/_img/Mobile_Tristan_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Kühnheit\" aus? (Peppy)",
+        "answer": ["/_img/Browser_Peppy_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Schneide Wirbelwind\" aus? (Keira)",
+        "answer": ["/_img/Browser_Keira_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Bodenlose Bauch\" aus? (Chabba)",
+        "answer": ["/_img/Browser_Chabba_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Sorglose Wünsche\" aus? (Amira)",
+        "answer": ["/_img/Mobile_Amira_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Himmlische Wächter\" aus? (Helios)",
+        "answer": ["/_img/Browser_Helios_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Kettenblitz\" aus? (Lars)",
+        "answer": ["/_img/Browser_Lars_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Versöhnung\" aus? (Lian)",
+        "answer": ["/_img/Lian_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Leitfähigkeit\" aus? (Lars)",
+        "answer": ["/_img/Lars_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Mitgefühl\" aus? (Markus)",
+        "answer": ["/_img/Markus_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Kristall von Selias\" aus? (Aurora)",
+        "answer": ["/_img/Aurora_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Kristalliner Sturm\" aus? (Aurora)",
+        "answer": ["/_img/Aurora_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Verfluchte Knochen\" aus? (Mojo)",
+        "answer": ["/_img/Mojo_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Dunkle Kunst\" aus? (Ishmael)",
+        "answer": ["/_img/Ishmael_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Dunkler Handel\" aus? (Phobos)",
+        "answer": ["/_img/Phobos_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Todesblume\" aus? (Heidi)",
+        "answer": ["/_img/Heidi_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Demolition-Roboter\" aus? (Arachne)",
+        "answer": ["/_img/Arachne_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Dämonenbund\" aus? (Astaroth)",
+        "answer": ["/_img/Astaroth_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Zauberfresser\" aus? (Rufus)",
+        "answer": ["/_img/Rufus_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Entladung!\" aus? (Daredevil)",
+        "answer": ["/_img/Daredevil_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Elixier der Vitalität\" aus? (Jet)",
+        "answer": ["/_img/Jet_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Umarmung des Schmerzes\" aus? (Yasmine)",
+        "answer": ["/_img/Yasmine_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Gleichgewicht\" aus? (Nebula)",
+        "answer": ["/_img/Nebula_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Ewige Weisheit\" aus? (Satori)",
+        "answer": ["/_img/Satori_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Explosiver Sphären\" aus? (Kai)",
+        "answer": ["/_img/Kai_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Feueratem\" aus? (Litith)",
+        "answer": ["/_img/Lilith_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Fokus des Hasses\" aus? (Ziri)",
+        "answer": ["/_img/Ziri_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Fettige Schicht\" aus? (Chabba)",
+        "answer": ["/_img/Chabba_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Flammenhülle\" aus? (Astaroth)",
+        "answer": ["/_img/Astaroth_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Hüpfen\" aus? (Peppy)",
+        "answer": ["/_img/Peppy_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Gehenna\" aus? (Luther)",
+        "answer": ["/_img/Luther_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Harmonie des Hains\" aus? (Alvanor)",
+        "answer": ["/_img/Alvanor_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Heilungsstrahl\" aus? (Thea)",
+        "answer": ["/_img/Thea_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Heilende Geister\" aus? (Mojo)",
+        "answer": ["/_img/Mojo_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Schwere Weisheit\" aus? (Cornelius)",
+        "answer": ["/_img/Cornelius_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Hypnotische Kugel\" aus? (Lian)",
+        "answer": ["/_img/Lian_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Unmäßiger Zorn\" aus? (Jet)",
+        "answer": ["/_img/Jet_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Hochspannungsmodul\" aus? (Isaac)",
+        "answer": ["/_img/Isaac_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Ich sehe dich\" aus? (Jhu)",
+        "answer": ["/_img/Jhu_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Pulsierender Komet\" aus?",
+        "answer": ["/_img/pulsing_comet.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Eiskalte Rache\" aus? (Krista)",
+        "answer": ["/_img/Krista_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Unvermeidliche Abrechnung\" aus? (Satori)",
+        "answer": ["/_img/Satori_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Höllischer Riss\" aus? (Lilith)",
+        "answer": ["/_img/Lilith_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Ion Zyklon\" aus? (Judge)",
+        "answer": ["/_img/Judge_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Blei Sturm\" aus? (Ginger)",
+        "answer": ["/_img/Ginger_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Aussätziger\" aus? (Jorgen)",
+        "answer": ["/_img/Jorgen_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Viele Wahrheiten\" aus? (Elmir)",
+        "answer": ["/_img/Elmir_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Gedächtnisverlust\" aus? (Cornelius)",
+        "answer": ["/_img/Cornelius_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit \"Mirage\" aus? (Elmir)",
+        "answer": ["/_img/Elmir_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Nexus des Horrors aus? (K'arkh)",
+        "answer": ["/_img/Karkh_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Negator der Gesetze aus? (K'arkh)",
+        "answer": ["/_img/Karkh_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Phantom aus? (Ishmael)",
+        "answer": ["/_img/Ishmael_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Phönix' Umarmung aus? (Aidan)",
+        "answer": ["/_img/Aidan_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Lichtdurchdringung aus? (Aurora)",
+        "answer": ["/_img/Aurora_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Plasma-Explosion aus? (Arachne)",
+        "answer": ["/_img/Arachne_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Giftige Fesseln aus? (Maya)",
+        "answer": ["/_img/Maya_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Trank der Erschöpfung aus? (Jet)",
+        "answer": ["/_img/Jet_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Raubtier-Angriff aus? (Astrid und Lucas)",
+        "answer": ["/_img/Astrid_and_Lucas_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Schützender Kuppel aus? (Cornelius)",
+        "answer": ["/_img/Cornelius_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Bestrafende Pfeile aus? (Artemis)",
+        "answer": ["/_img/Artemis_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Fäulnis aus? (Cleaver)",
+        "answer": ["/_img/Cleaver_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Königin der Blumen aus? (Maya)",
+        "answer": ["/_img/Maya_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Rakashis Eid aus? (Rufus)",
+        "answer": ["/_img/Rufus_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Rampante Natur aus? (Astrid und Lucas)",
+        "answer": ["/_img/Astrid_and_Lucas_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Zielschuss aus? (Ginger)",
+        "answer": ["/_img/Ginger_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Vergeltung aus? (Dante)",
+        "answer": ["/_img/Dante_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Rechtschaffenes Licht aus? (Markus)",
+        "answer": ["/_img/Markus_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Rostiger Haken aus? (Cleaver)",
+        "answer": ["/_img/Cleaver_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Heilige Wut aus? (Tristan)",
+        "answer": ["/_img/Tristan_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Zweite Luft aus? (Thea)",
+        "answer": ["/_img/Thea_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Geheimnis der Langlebigkeit aus? (Martha)",
+        "answer": ["/_img/Martha_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Same der Zerstörung aus? (Iris)",
+        "answer": ["/_img/Iris_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Fesseln der Schwäche aus? (Dante)",
+        "answer": ["/_img/Dante_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Schutz der Sanddünen aus? (Ziri)",
+        "answer": ["/_img/Ziri_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Solarium aus? (Thea)",
+        "answer": ["/_img/Thea_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Sonnenwind aus? (Helios)",
+        "answer": ["/_img/Helios_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Zauberexperte aus? (Faceless)",
+        "answer": ["/_img/Faceless_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Geistige Reinigung aus? (Satori)",
+        "answer": ["/_img/Satori_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Sterngeburt aus? (Helios)",
+        "answer": ["/_img/Helios_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Sturmklingen aus? (Ishmael)",
+        "answer": ["/_img/Ishmael_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Schlag der Verdammten aus? (Corvus)",
+        "answer": ["/_img/Corvus_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Teeparty aus? (Martha)",
+        "answer": ["/_img/Martha_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Geister werden mich heilen aus? (Jhu)",
+        "answer": ["/_img/Jhu_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Durst nach Blut aus? (Daredevil)",
+        "answer": ["/_img/Daredevil_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Zitternde Hände aus? (Phobos)",
+        "answer": ["/_img/Phobos_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Giftiger Pollen aus? (Maya)",
+        "answer": ["/_img/Maya_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Giftiger Spucke aus? (Heidi)",
+        "answer": ["/_img/Heidi_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Unter dem Walddach aus? (Alvanor)",
+        "answer": ["/_img/Alvanor_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Gelübde des Schweigens aus? (Thea)",
+        "answer": ["/_img/Thea_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Umherwandernde Lichter aus? (Lian)",
+        "answer": ["/_img/Lian_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Wilde Gier aus? (Chabba)",
+        "answer": ["/_img/Chabba_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Flügel der Nacht aus? (Dorian)",
+        "answer": ["/_img/Dorian_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Zorn der Natur aus? (Alvanor)",
+        "answer": ["/_img/Alvanor_skill_2.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Du wirst mich nicht aufhalten aus? (Jhu)",
+        "answer": ["/_img/Jhu_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Zenith aus? (Celeste)",
+        "answer": ["/_img/Celeste_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Titan-Artefakt \"Andvaris Pfeilschleuder\" aus? (Slyvia)",
+        "answer": ["/_img/Sylva_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Fluch aus? (Mojo)",
+        "answer": ["/_img/Mojo_skill_4.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Unterdrückendes Feuer aus?",
+        "answer": ["/_img/Ginger_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Feuergefecht aus?",
+        "answer": ["/_img/Daredevil_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Tanzende Klingen aus?",
+        "answer": ["/_img/Keira_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Antimaterie-Explosion aus?",
+        "answer": ["/_img/Orion_skill_3.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Rakashis Barriere aus?",
+        "answer": ["/_img/Rufus_skill_1.webp"]
+      },
+      {
+        "question": "Wie sieht das Symbol der Fähigkeit Segen der Natur aus?",
+        "answer": ["/_img/Nature_barrier.webp"]
+      },
+      {
+        "question": "Wie sieht Energie des Roboters aus?",
+        "answer": ["/_img/Robot_energy.webp"]
+      },
+      {
+        "question": "Wie sieht das Titan-Artefakt \"Dunkles Geist-Totem\" aus?",
+        "answer": ["/_img/Dark_spirit_totem.webp"]
+      }   
 ]
