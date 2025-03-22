@@ -614,7 +614,7 @@
     ]
   },
   {
-    "question": "pets are available in the game",
+    "question": "How many pets are available in the game",
     "answer": [
       "10"
     ]
@@ -1286,6 +1286,12 @@
   },
   {
     "question": "is Aurora's family name",
+    "answer": [
+      "Paladin of Riversar"
+    ]
+  },
+  {
+    "question": "is Aurora's title",
     "answer": [
       "Paladin of Riversar"
     ]
