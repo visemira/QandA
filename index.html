@@ -43,8 +43,8 @@
     </style>
 </head>
 <body class="bg-gray-900 p-4">
-    <div class="max-w-lg mx-auto pt-4 pb-4 rounded-lg shadow-lg bg-blue-500 relative">
-        <div id="loadingSpinner" class="loading-spinner ">
+    <div class="max-w-lg mx-auto pt-4 pb-4 rounded-lg shadow-lg bg-blue-500 relative select-none">
+        <div id="loadingSpinner" class="loading-spinner fixed top-0 pt-7 pl-4">
             <svg xmlns="http://www.w3.org/2000/svg" class="animate-spin h-8 w-8 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v3m0 12v3m3-3h3m-12 0H3m3-3h3m6 0h3m-1.5 0a6 6 0 1 0-11.5 0 6 6 0 0 0 11.5 0Z"></path>
             </svg>
@@ -52,7 +52,8 @@
 
         <div class="flex items-center justify-end mb-4 pl-6 pr-6 select-none">
             <label for="language" id="languageLabel" class="block font-medium mr-4"></label>
-            <select id="language" class="w-1/2 p-1 font-bold text-sm rounded-lg text-white bg-gray-900">
+            <select id="language" 
+                class="w-1/2 p-1 font-bold text-sm rounded-lg text-white bg-gray-900">
                 <option value="en">English</option>
                 <option value="ru">Русский</option>
                 <option value="it">Italiano</option>
@@ -69,32 +70,68 @@
         
         <hr class="mb-2 select-none">
         
-        <div class="flex justify-between pl-6 pr-6 select-none">
-            <h1 id="questionTitle" class="text-lg font-bold"></h1>
+        <div 
+            class="flex justify-between pl-6 pr-6 select-none">
+            <h1 id="questionTitle" 
+                class="text-lg font-bold">
+            </h1>
+            <button id="loadImagesButton" class="flex text-white rounded bg-pink-100 p-.5">
+                <svg xmlns="http://www.w3.org/2000/svg" 
+                    fill="none" 
+                    viewBox="0 0 24 24" 
+                    stroke-width="1.5" 
+                    stroke="black" 
+                    class="w-8">
+                    
+                    <path 
+                        stroke-linecap="round" 
+                        stroke-linejoin="round" 
+                        d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
+                </svg>
+                <svg xmlns="http://www.w3.org/2000/svg" 
+                    fill="none" 
+                    viewBox="0 0 24 24" 
+                    stroke-width="1.5" 
+                    stroke="black" 
+                    class="w-8">
+                    <path 
+                        stroke-linecap="round" 
+                        stroke-linejoin="round" 
+                        d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z" />
+                  </svg>
+            </button>
         </div>
 
         <div 
-    id="sticky"
-    class="w-full bg-blue-500 pb-4 pt-2 pl-4 pr-4 rounded shadow-lg"
->
-    <!-- Question Input -->
-    <input 
-        id="questionInput" 
-        type="text" 
-        placeholder="Enter your question here..." 
-        class="w-full text-lg p-2 pl-6 pr-6 rounded-full bg-gray-900 text-white">
+            id="sticky"
+            class="w-full bg-blue-500 pb-4 pt-2 pl-4 pr-4 rounded shadow-lg">
+            <!-- Question Input -->
+            <input 
+                id="questionInput" 
+                type="text" 
+                placeholder="Enter your question here..." 
+                class="w-full text-lg p-2 pl-6 pr-6 rounded-full bg-gray-900 text-white">
 
-    <!-- Suggestion Box -->
-    <div id="autocomplete-suggestions" class="autocomplete-suggestions ml-4 rounded-lg"></div>
+            <!-- Suggestion Box -->
+            <div 
+                id="autocomplete-suggestions" 
+                class="autocomplete-suggestions ml-4 rounded-lg">
+            </div>
 
-    <!-- Answer Display -->
-    <div id="answer" class="bg-gray-800 p-2 rounded-lg shadow-md grid grid-cols-2 gap-4 mt-2 text-white font-bold select-none"></div>
-</div>
+            <!-- Answer Display -->
+            <div 
+                id="answer" 
+                class="bg-gray-800 p-2 rounded-lg shadow-md grid grid-cols-2 gap-4 mt-2 text-white font-bold select-none">
+            </div>
+        </div>
 
 
         <hr class="mt-3 select-none">
         
-        <div id="imagesDisplay" class="p-4 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-4 select-none"></div>
+        <div 
+            id="imagesDisplay" 
+            class="p-4 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-4 select-none">
+        </div>
     </div>
 
     <script src="app.js"></script>
