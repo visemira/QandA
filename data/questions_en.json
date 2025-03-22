@@ -1,5 +1,11 @@
 [
   {
+    "question": "guaranteed to obtain after 350 summons in the Soul Atrium",
+    "answer": [
+      "Cleaver"
+    ]
+  },
+  {
     "question": "max level guild raid boss that can be encountered",
     "answer": [
       "160"
@@ -1489,7 +1495,7 @@
     ]
   },
   {
-    "question": "Who is the last boss in the Campaign",
+    "question": "last boss in the Campaign",
     "answer": [
       "Seymour"
     ]
@@ -1634,7 +1640,39 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Amira",
+    "question": "artifact belongs to Folio",
+    "answer": [
+      "Archmage's Feather",
+      "Manuscript of the Void",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Ninja Turtles",
+    "answer": [
+      "CRUNCHABUNGAS",
+      "Alchemist's Folio",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Aidan",
+    "answer": [
+      "Phoenix Sigil",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Alvanor",
+    "answer": [
+      "Soul of the Forest",
+      "Manuscript of the Void",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Amira",
     "answer": [
       "Turban of the Grand Genie",
       "Manuscript of the Void",
@@ -1642,7 +1680,7 @@
     ]
   },
   {
-    "question": "artifact belongs to this hero Andvari",
+    "question": "artifact belongs to Andvari",
     "answer": [
       "Hand of the Great Master",
       "Alchemist's Folio",
@@ -1650,7 +1688,7 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Arachne",
+    "question": "artifact belongs to Arachne",
     "answer": [
       "Hyper Booster DS-1",
       "Defender's Covenant",
@@ -1658,7 +1696,7 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Artemis",
+    "question": "artifact belongs to Artemis",
     "answer": [
       "Evil's Bane",
       "Alchemist's Folio",
@@ -1666,7 +1704,7 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Astaroth",
+    "question": "artifact belongs to Astaroth",
     "answer": [
       "Scythe of Redemption",
       "Defender's Covenant",
@@ -1674,7 +1712,23 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Aurora",
+    "question": "artifact belongs to Astrid & Lucas",
+    "answer": [
+      "Princess’ Musket",
+      "Alchemist's Folio",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Agustus",
+    "answer": [
+      "Thunder Rods",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Aurora",
     "answer": [
       "Selias' Legacy",
       "Book of Illusions",
@@ -1682,7 +1736,15 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Chabba",
+    "question": "artifact belongs to Celeste",
+    "answer": [
+      "Celeste’s Crown",
+      "Manuscript of the Void",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Chabba",
     "answer": [
       "Bracers of Hunger",
       "Defender's Covenant",
@@ -1690,7 +1752,15 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Cornelius",
+    "question": "artifact belongs to Cleaver",
+    "answer": [
+      "Executioner's Hook",
+      "Defender's Covenant",
+      "Ring of Strength"
+    ]
+  },
+  {
+    "question": "artifact belongs to Cornelius",
     "answer": [
       "Archivist's Staff",
       "Tome of Arcane Knowledge",
@@ -1698,7 +1768,7 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Corvus",
+    "question": "artifact belongs to Corvus",
     "answer": [
       "Undead King's Glaive",
       "Defender's Covenant",
@@ -1706,14 +1776,31 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Dark Star",
+    "question": "artifact belongs to Dante",
     "answer": [
+      "Spear of Fate",
+      "Book of Illusions",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Daredevil",
+    "answer": [
+      "On and Off",
+      "Warrior's Code",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Dark Star",
+    "answer": [
+      "Arelon's Weeping",
       "Alchemist's Folio",
       "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Dorian",
+    "question": "artifact belongs to Dorian",
     "answer": [
       "Bleeding Steel",
       "Tome of Arcane Knowledge",
@@ -1721,7 +1808,7 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Elmir",
+    "question": "artifact belongs to Elmir",
     "answer": [
       "Blades of Many Truths",
       "Alchemist's Folio",
@@ -1729,39 +1816,63 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Faceless",
+    "question": "artifact belongs to Faceless",
     "answer": [
       "Hermit's Shroud",
+      "Manuscript of the Void",
       "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this hero Fafnir",
+    "question": "artifact belongs to Fafnir",
     "answer": [
-      "Ring of Strength"
-    ]
-  },
-  {
-    "question": "artifact belongs to this Hero Fox",
-    "answer": [
-      "Alchemist's Folio"
-    ]
-  },
-  {
-    "question": "artifact belongs to this hero Galahad",
-    "answer": [
+      "Ancestral Anvil",
       "Defender's Covenant",
       "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Helios",
+    "question": "artifact belongs to Fox",
     "answer": [
-      "Wand of the Thousand Suns"
+      "Shrapnel Cannon",
+      "Alchemist's Folio",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Iris",
+    "question": "artifact belongs to Galahad",
+    "answer": [
+      "Harunian Sword",
+      "Defender's Covenant",
+      "Ring of Strength"
+    ]
+  },
+  {
+    "question": "artifact belongs to Ginger",
+    "answer": [
+      "Noble Mk.2",
+      "Alchemist's Folio",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Heidi",
+    "answer": [
+      "Mean Koba",
+      "Book of Illusions",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Helios",
+    "answer": [
+      "Wand of the Thousand Suns",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Iris",
     "answer": [
       "Grimoire of Enslaved Souls",
       "Tome of Arcane Knowledge",
@@ -1769,7 +1880,7 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Isaac",
+    "question": "artifact belongs to Isaac",
     "answer": [
       "Lil' Tes'Lin",
       "Alchemist's Folio",
@@ -1777,32 +1888,39 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Ishmael",
+    "question": "artifact belongs to Ishmael",
     "answer": [
+      "Hidden Demon’s Katars",
+      "Alchemist's Folio",
       "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this hero Jet",
+    "question": "artifact belongs to Jet",
     "answer": [
-      "Book of Illusions"
+      "Jet Cannon",
+      "Book of Illusions",
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Jhu",
+    "question": "artifact belongs to Jhu",
     "answer": [
-      "Zarakkar Bones"
-    ]
-  },
-  {
-    "question": "artifact belongs to this hero Jorgen",
-    "answer": [
-      "Shavarakk's Blood",
+      "Zarakkar Bones",
+      "Warrior's Code",
       "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Judge",
+    "question": "artifact belongs to Jorgen",
+    "answer": [
+      "Shavarakk's Blood",
+      "Defender's Covenant",
+      "Ring of Strength"
+    ]
+  },
+  {
+    "question": "artifact belongs to Judge",
     "answer": [
       "Chart of Endless Stars",
       "Tome of Arcane Knowledge",
@@ -1810,20 +1928,55 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Kai",
+    "question": "artifact belongs to Julius",
+    "answer": [
+      "Cattelite Dish",
+      "Warrior's Code",
+      "Ring of Strength"
+    ]
+  },
+  {
+    "question": "artifact belongs to K’arkh",
+    "answer": [
+      "K’arkh’s Essence",
+      "Alchemist's Folio",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Kai",
     "answer": [
       "Wanderer’s Mantle",
+      "Manuscript of the Void",
       "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Krista",
+    "question": "artifact belongs to Kayla",
     "answer": [
+      "Chakram of Scorching Frenzy",
+      "Defender's Covenant",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Keira",
+    "answer": [
+      "Octavia's Blades",
+      "Alchemist's Folio",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Krista",
+    "answer": [
+      "Permafrost Flail",
+      "Tome of Arcane Knowledge",
       "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Lara Croft",
+    "question": "artifact belongs to Lara Croft",
     "answer": [
       "Lara's Jade Necklace",
       "Warrior's Code",
@@ -1831,39 +1984,63 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Lars",
+    "question": "artifact belongs to Lars",
     "answer": [
-      "Stormy Talismam, Manuscript of the Void"
-    ]
-  },
-  {
-    "question": "artifact belongs to this Hero Lian",
-    "answer": [
-      "Tome of Arcane Knowledge"
-    ]
-  },
-  {
-    "question": "artifact belongs to this Hero Lilith",
-    "answer": [
-      "Tome of Arcane Knowledge"
-    ]
-  },
-  {
-    "question": "artifact belongs to this Hero Markus",
-    "answer": [
+      "Stormy Talismam", 
+      "Manuscript of the Void",
       "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Maya",
+    "question": "artifact belongs to Lian",
     "answer": [
+      "Idol of Charm",
       "Tome of Arcane Knowledge",
-      "Mother Tree's Branch",
       "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this hero Mojo",
+    "question": "artifact belongs to Lilith",
+    "answer": [
+      "Devil’s Contract",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Luther",
+    "answer": [
+      "Hammer of Righteous Judgment",
+      "Defender's Covenant",
+      "Ring of Strength"
+    ]
+  },
+  {
+    "question": "artifact belongs to Markus",
+    "answer": [
+      "Blessed Mace",
+      "Defender's Covenant",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Martha",
+    "answer": [
+      "Zarakkari Teapot",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Maya",
+    "answer": [
+      "Mother Tree's Branch",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Mojo",
     "answer": [
       "Mask of Anger",
       "Manuscript of the Void",
@@ -1871,7 +2048,7 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Morrigan",
+    "question": "artifact belongs to Morrigan",
     "answer": [
       "Raven's Skull",
       "Tome of Arcane Knowledge",
@@ -1879,58 +2056,114 @@
     ]
   },
   {
-    "question": "artifact belongs to this Hero Nebula",
+    "question": "artifact belongs to Mushy & Shroom",
     "answer": [
-      "Unborn Stars",
-      "Book of Illusions Ring of Agility"
+      "Ichor of Perfection",
+      "Defender's Covenant",
+      "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this hero Peppy",
+    "question": "artifact belongs to Nebula",
     "answer": [
-      "Ms. Whirligig",
+      "Unborn Stars",
+      "Book of Illusions",
+      "Ring of Agility"
+    ]
+  },
+  {
+    "question": "artifact belongs to Orion",
+    "answer": [
+      "DD-901 Arsenal",
+      "Manuscript of the Void",
       "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this hero Qing Mao",
+    "question": "artifact belongs to Peppy",
     "answer": [
+      "Ms. Whirligig",
+      "Manuscript of the Void",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Phobos",
+    "answer": [
+      "Raven’s Amulet",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Polaris",
+    "answer": [
+      "Guiding Star",
+      "Tome of Arcane Knowledge",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Qing Mao",
+    "answer": [
+      "Spear of the Crimson Dawn",
       "Ring of Agility",
       "Book of Illusions"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Rufus",
+    "question": "artifact belongs to Rufus",
     "answer": [
+      "Rakashi’s Shield",
+      "Tome of Arcane Knowledge",
       "Ring of Strength"
     ]
   },
   {
-    "question": "artifact belongs to this Hero Sebastian",
+    "question": "artifact belongs to Satori",
     "answer": [
+      "Black Fox’s Fan",
+      "Manuscript of the Void",
+      "Ring of Intelligence"
+    ]
+  },
+  {
+    "question": "artifact belongs to Sebastian",
+    "answer": [
+      "Old Lute",
       "Warrior's Code",
       "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this hero Thea",
+    "question": "artifact belongs to Thea",
     "answer": [
+      "Staff of Rebirth",
       "Tome of Arcane Knowledge",
-      "Ring of Intelligence",
-      "Staff of Rebirth"
+      "Ring of Intelligence"
     ]
   },
   {
-    "question": "artifact belongs to this hero Yasmine",
+    "question": "artifact belongs to Tristan",
+    "answer": [
+      "Demonic Reliquary",
+      "Alchemist's Folio",
+      "Ring of Strength"
+    ]
+  },
+  {
+    "question": "artifact belongs to Yasmine",
     "answer": [
       "Concubine's Khanjars",
-      "Warrior's Code"
+      "Warrior's Code",
+      "Ring of Agility"
     ]
   },
   {
-    "question": "artifact belongs to this hero Ziri",
+    "question": "artifact belongs to Ziri",
     "answer": [
       "Akhreb Ummi's Sting",
+      "Defender's Covenant",
       "Ring of Strength"
     ]
   },
@@ -2140,7 +2373,9 @@
   {
     "question": "heroes are there in the game in total",
     "answer": [
-      "62 (01.03.2024) WEB"
+      "62 (01.03.2024) WEB Old",
+      "63",
+      "65 Agustus and Folio Added"
     ]
   },
   {

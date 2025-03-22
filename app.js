@@ -85,55 +85,6 @@ document.addEventListener("DOMContentLoaded", () => {
         loadingSpinner.classList.toggle("show", show);
     }
 
-    function displayAnswer(question) {
-        const questionData = allQuestions.find(q => q.question === question);
-        if (questionData) {
-            answerDisplay.innerHTML = questionData.answer
-                .map(answer => {
-                    if (isImageUrl(answer)) {
-                        const imageUrl = isRelativeUrl(answer) ? baseUrl + answer : answer;
-                        return `<div class="bg-green-200 p-2 rounded shadow-sm">
-                                    <img src="${imageUrl}" alt="Answer Image" class="max-w-full h-auto rounded">
-                                </div>`;
-                    } else {
-                        return `<div class="bg-green-200 p-2 rounded text-black shadow-sm">${answer}</div>`;
-                    }
-                })
-                .join("");
-        } else {
-            answerDisplay.textContent = translations[language].noAnswerText;
-        }
-    }
-
-    function loadImages(language) {
-        const fileName = `data/images_${language}.json`;
-        showLoadingSpinner(true);
-
-        fetch(fileName)
-            .then(response => response.json())
-            .then(images => {
-                imagesDisplay.innerHTML = "";
-                images.forEach(image => {
-                    const imageUrl = image.question.startsWith("/") ? baseUrl + image.question : image.question;
-                    const answers = image.answer.join(", ");
-                    imagesDisplay.innerHTML += `
-                        <div class="flex flex-col justify-between items-center overflow-hidden bg-white rounded-lg bg-gray-300 border-2 border-black shadow-lg">
-                            <img src="${imageUrl}" alt="Image" class="mt-1 w-12 rounded-lg">
-                            <div class="flex flex-col w-full items-center bg-blue-500">
-                                <p class="p-1 text-black text-base font-bold">${answers}</p>
-                            </div>
-                        </div>
-                    `;
-                });
-                showLoadingSpinner(false);
-            })
-            .catch(error => {
-                console.error('Error loading images:', error);
-                imagesDisplay.innerHTML = "<p class='text-red-500'>Failed to load images.</p>";
-                showLoadingSpinner(false);
-            });
-    }
-
     function loadQuestions(language) {
         const fileName = `data/questions_${language}.json`;
         showLoadingSpinner(true);
@@ -144,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 allQuestions = questions;
                 const fuse = new Fuse(questions, {
                     keys: ["question"],
-                    threshold: 0.4,
+                    threshold: 0.4,  // Adjust the threshold to control fuzziness (lower = stricter)
                     distance: 100,
                     tokenize: true,
                     findAllMatches: true,
@@ -179,7 +130,26 @@ document.addEventListener("DOMContentLoaded", () => {
                                 });
                             });
                         } else {
-                            autocompleteSuggestions.style.display = 'none';
+                            // If no results, attempt auto-correction
+                            const correction = fuse.search(query, { limit: 1 });
+                            if (correction.length > 0) {
+                                const correctedQuestion = correction[0].item.question;
+                                autocompleteSuggestions.innerHTML = `
+                                    <div class="autocomplete-suggestion">
+                                        Did you mean: <b>${correctedQuestion}</b>?
+                                    </div>`;
+                                autocompleteSuggestions.style.display = 'block';
+
+                                // Handle correction click
+                                const suggestionItem = autocompleteSuggestions.querySelector('.autocomplete-suggestion');
+                                suggestionItem.addEventListener("click", () => {
+                                    questionInput.value = correctedQuestion;
+                                    autocompleteSuggestions.style.display = 'none';
+                                    displayAnswer(correctedQuestion);
+                                });
+                            } else {
+                                autocompleteSuggestions.style.display = 'none';
+                            }
                         }
                     }, 300);
                 });
@@ -193,10 +163,24 @@ document.addEventListener("DOMContentLoaded", () => {
             });
     }
 
-    function updateUI(language) {
-        languageLabel.textContent = translations[language].languageLabel;
-        questionTitle.textContent = translations[language].questionTitle;
-        questionInput.placeholder = translations[language].placeholder;
+    function displayAnswer(question) {
+        const questionData = allQuestions.find(q => q.question === question);
+        if (questionData) {
+            answerDisplay.innerHTML = questionData.answer
+                .map(answer => {
+                    if (isImageUrl(answer)) {
+                        const imageUrl = isRelativeUrl(answer) ? baseUrl + answer : answer;
+                        return `<div class="bg-green-200 p-2 rounded shadow-sm">
+                                    <img src="${imageUrl}" alt="Answer Image" class="max-w-full h-auto rounded">
+                                </div>`;
+                    } else {
+                        return `<div class="bg-green-200 p-2 rounded text-black shadow-sm">${answer}</div>`;
+                    }
+                })
+                .join("");
+        } else {
+            answerDisplay.textContent = translations[language].noAnswerText;
+        }
     }
 
     function isImageUrl(url) {
@@ -206,6 +190,41 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function isRelativeUrl(url) {
         return !url.startsWith("http://") && !url.startsWith("https://");
+    }
+
+    function updateUI(language) {
+        languageLabel.textContent = translations[language].languageLabel;
+        questionTitle.textContent = translations[language].questionTitle;
+        questionInput.placeholder = translations[language].placeholder;
+    }
+
+    function loadImages(language) {
+        const fileName = `data/images_${language}.json`;
+        showLoadingSpinner(true);
+
+        fetch(fileName)
+            .then(response => response.json())
+            .then(images => {
+                imagesDisplay.innerHTML = "";
+                images.forEach(image => {
+                    const imageUrl = image.question.startsWith("/") ? baseUrl + image.question : image.question;
+                    const answers = image.answer.join(", ");
+                    imagesDisplay.innerHTML += `
+                        <div class="flex flex-col justify-between items-center overflow-hidden bg-white rounded-lg bg-gray-300 border-2 border-black shadow-lg">
+                            <img src="${imageUrl}" alt="Image" class="mt-1 w-12 rounded-lg">
+                            <div class="flex flex-col w-full items-center bg-blue-500">
+                                <p class="p-1 text-black text-base font-bold">${answers}</p>
+                            </div>
+                        </div>
+                    `;
+                });
+                showLoadingSpinner(false);
+            })
+            .catch(error => {
+                console.error('Error loading images:', error);
+                imagesDisplay.innerHTML = "<p class='text-red-500'>Failed to load images.</p>";
+                showLoadingSpinner(false);
+            });
     }
 
     // Toggle the visibility of images and adjust grid layout
